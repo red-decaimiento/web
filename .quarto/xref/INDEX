@@ -4,5 +4,11 @@
   },
   "about.qmd": {
     "about.html": "4d1c065f"
+  },
+  "people/index.qmd": {
+    "index.html": "448b02e1"
+  },
+  "people/perez-luque/index.qmd": {
+    "index.html": "599c6352"
   }
 }
