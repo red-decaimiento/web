@@ -1,0 +1,65 @@
+/*-- scss:defaults --*/
+// Colors
+$primary: #2e5a50; 
+$sand_old: #f0eeeb;
+$sand: #F6F5F3;
+$gold: #e8e3d3;
+
+/*-- scss:rules --*/
+
+/* homepage */
+.content-container {
+  padding-left: 1.5em;
+  padding-right: 1.5em;
+  
+}
+
+.top-story {
+  max-width: 1000px;
+  margin: 0 auto;
+  margin-bottom: 1em; 
+  box-sizing: border-box;
+  height: auto;
+  display: flex;
+  align-items: center;
+}
+
+.top-story img {
+  height: 100%;
+  object-fit: cover;
+}
+
+
+.top-story-text {
+  margin-left: 1rem;
+  margin-right: 1rem;
+  margin-top: 1.5rem;
+  // font-weight: bold;
+  font-size: larger;
+}
+
+
+
+/*-- background styles --*/
+
+.black-background {
+  background-color: black;
+}
+
+.primary-background {
+  background-color: $primary;
+}
+
+.gold-background {
+  background-color: $gold;
+}
+
+.sand-background {
+  background-color: $sand;
+}
+
+.cmm-background {
+  background-image: url("images/almijara.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+}

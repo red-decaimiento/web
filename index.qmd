@@ -1,7 +1,24 @@
 ---
-title: "redecweb"
+# title: 'Bienvenidos a la web de la Red Ibérica de Seguimiento del Decaimiento Forestal'
+page-layout: full
 ---
+Bienvenidos a la web de la Red Ibérica de Seguimiento del Decaimiento Forestal
 
-This is a Quarto website.
+::::{.cmm-background}
+::: {.content-container}
+::: {.top-story }
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+
+::: grid
+::: {.g-col-12 .g-col-lg-4 .top-story-text .sand-background style="padding: 15px;"}
+
+texto, también en **negrita**.
+:::
+
+:::
+
+
+
+:::
+:::
+::::
