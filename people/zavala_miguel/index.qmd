@@ -1,0 +1,30 @@
+---
+title: "Miguel A. Zavala"
+email: "ma.zavala@uah.es"  
+image: avatar_zavala_miguel.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_zavala_miguel.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: ma.zavala@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-1456-0132
+categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::
