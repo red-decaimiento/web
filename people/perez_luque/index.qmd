@@ -1,0 +1,33 @@
+---
+title: "Antonio J. Pérez-Luque"
+email: "antonio.perez@inia.csic.es"  
+image: avatar_perez_luque.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_perez_luque.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: antonio.perez@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1747-0469
+    - text: "{{< fa globe >}} Personal web"
+      href: http://ajperezluque.com/
+categories: [Teledetección, Dendroecología, Monitorización, Modelización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
+- Grupo de Ecología Terrestre
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

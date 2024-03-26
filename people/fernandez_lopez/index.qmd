@@ -1,0 +1,28 @@
+---
+title: "Manuel Fernández López"
+email: "manuel.fernandez@eez.csic.es"  
+image: avatar_fernandez_lopez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_fernandez_lopez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: manuel.fernandez@eez.csic.es
+categories: [Interacciones planta-suelo, Interacciones bióticas]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Microbiología de Ecosistemas Agroforestales
+
+## Institución
+- [Estación Experimental del Zaidín. Consejo Superior de Investigaciones Científicas](https://www.eez.csic.es/)
+
+:::

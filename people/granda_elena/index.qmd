@@ -1,0 +1,33 @@
+---
+title: "Elena Granda"
+email: "elena.granda@uah.es"  
+image: avatar_granda_elena.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_granda_elena.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: elena.granda@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9559-4213
+    - text: "{{< fa globe >}} Personal web"
+      href: https://elenagrandaf.wixsite.com/elenagranda
+categories: [Ecofisiología, Dendroecología, Dinámica forestal, Especies invasoras]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Invasiones Biológicas
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

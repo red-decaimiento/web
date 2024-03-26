@@ -1,0 +1,28 @@
+---
+title: "Jesús J. Camarero"
+email: "jjcamarero@ipe.csic.es"  
+image: avatar_camarero_jesus.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_camarero_jesus.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jjcamarero@ipe.csic.es
+categories: [Dinámica forestal, Dendroecología]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Es La Dendro
+
+## Institución
+- [Instituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas](http://www.ipe.csic.es/)
+
+:::

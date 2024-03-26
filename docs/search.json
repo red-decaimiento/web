@@ -1,10 +1,206 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "people/andivia_enrique/index.html#grupo-de-investigación",
+    "href": "people/andivia_enrique/index.html#grupo-de-investigación",
+    "title": "Enrique Andivia",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nForest Restoration and Adaptation Lab\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/andivia_enrique/index.html#institución",
+    "href": "people/andivia_enrique/index.html#institución",
+    "title": "Enrique Andivia",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Complutense de Madrid"
+  },
+  {
+    "objectID": "people/zavala_miguel/index.html#grupo-de-investigación",
+    "href": "people/zavala_miguel/index.html#grupo-de-investigación",
+    "title": "Miguel A. Zavala",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/zavala_miguel/index.html#institución",
+    "href": "people/zavala_miguel/index.html#institución",
+    "title": "Miguel A. Zavala",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/perez_luque/index.html#grupo-de-investigación",
+    "href": "people/perez_luque/index.html#grupo-de-investigación",
+    "title": "Antonio J. Pérez-Luque",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales\nGrupo de Ecología Terrestre"
+  },
+  {
+    "objectID": "people/perez_luque/index.html#institución",
+    "href": "people/perez_luque/index.html#institución",
+    "title": "Antonio J. Pérez-Luque",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/martinez_vilalta/index.html#grupo-de-investigación",
+    "href": "people/martinez_vilalta/index.html#grupo-de-investigación",
+    "title": "Jordi Martínez Vilalta",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcoPhys: Fisiología ecosistémica y cambio global\nFunctional biogeography and resilience of terrestrial ecosystems (RESET)"
+  },
+  {
+    "objectID": "people/martinez_vilalta/index.html#institución",
+    "href": "people/martinez_vilalta/index.html#institución",
+    "title": "Jordi Martínez Vilalta",
+    "section": "Institución",
+    "text": "Institución\n\nCentro de Investigación Ecológica y Aplicaciones Forestales"
+  },
+  {
+    "objectID": "people/camarero_jesus/index.html#grupo-de-investigación",
+    "href": "people/camarero_jesus/index.html#grupo-de-investigación",
+    "title": "Jesús J. Camarero",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEs La Dendro"
+  },
+  {
+    "objectID": "people/camarero_jesus/index.html#institución",
+    "href": "people/camarero_jesus/index.html#institución",
+    "title": "Jesús J. Camarero",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/pardos_marta/index.html#grupo-de-investigación",
+    "href": "people/pardos_marta/index.html#grupo-de-investigación",
+    "title": "Marta Pardos",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDinámica y Gestión Forestal. Dinám​ica, modelización y gestión forestal"
+  },
+  {
+    "objectID": "people/pardos_marta/index.html#institución",
+    "href": "people/pardos_marta/index.html#institución",
+    "title": "Marta Pardos",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/martin_benito/index.html#grupo-de-investigación",
+    "href": "people/martin_benito/index.html#grupo-de-investigación",
+    "title": "Darío Martín Benito",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+  },
+  {
+    "objectID": "people/martin_benito/index.html#institución",
+    "href": "people/martin_benito/index.html#institución",
+    "title": "Darío Martín Benito",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/zamora_rodriguez/index.html#grupo-de-investigación",
+    "href": "people/zamora_rodriguez/index.html#grupo-de-investigación",
+    "title": "Regino Zamora Rodríguez",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
+  },
+  {
+    "objectID": "people/zamora_rodriguez/index.html#institución",
+    "href": "people/zamora_rodriguez/index.html#institución",
+    "title": "Regino Zamora Rodríguez",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Granada"
+  },
+  {
+    "objectID": "people/linares_juan/index.html#grupo-de-investigación",
+    "href": "people/linares_juan/index.html#grupo-de-investigación",
+    "title": "Juan Carlos Linares",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDendrOlavide Lab"
+  },
+  {
+    "objectID": "people/linares_juan/index.html#institución",
+    "href": "people/linares_juan/index.html#institución",
+    "title": "Juan Carlos Linares",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Pablo de Olavide"
+  },
+  {
+    "objectID": "people/rodes_blanco/index.html#grupo-de-investigación",
+    "href": "people/rodes_blanco/index.html#grupo-de-investigación",
+    "title": "Marina Rodes Blanco",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/rodes_blanco/index.html#institución",
+    "href": "people/rodes_blanco/index.html#institución",
+    "title": "Marina Rodes Blanco",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/index.html",
+    "href": "people/index.html",
+    "title": "people",
     "section": "",
-    "text": "About this site"
+    "text": "Alberto Vilagrosa Carmona\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio Gazol Burgos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAntonio J. Pérez-Luque\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nAsier Herrero\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nCristina Aponte\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDarío Martín Benito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nDomingo Alcaraz\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nElena Granda\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nEnrique Andivia\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGrabiel Sangüesa Barreda\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nGuillermo Gea Izquierdo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJesús J. Camarero\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJordi Martínez Vilalta\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nJuan Carlos Linares\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nManuel Fernández López\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMariano García Alonso\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarina Rodes Blanco\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMarta Pardos\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMiguel A. Zavala\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nPaloma Ruiz Benito\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRafael M. Navarro-Cerrillo\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRaúl Sánchez Salguero\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nRegino Zamora Rodríguez\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "people/granda_elena/index.html#grupo-de-investigación",
+    "href": "people/granda_elena/index.html#grupo-de-investigación",
+    "title": "Elena Granda",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Invasiones Biológicas\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/granda_elena/index.html#institución",
+    "href": "people/granda_elena/index.html#institución",
+    "title": "Elena Granda",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/gea_izquierdo/index.html#grupo-de-investigación",
+    "href": "people/gea_izquierdo/index.html#grupo-de-investigación",
+    "title": "Guillermo Gea Izquierdo",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+  },
+  {
+    "objectID": "people/gea_izquierdo/index.html#institución",
+    "href": "people/gea_izquierdo/index.html#institución",
+    "title": "Guillermo Gea Izquierdo",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/herrero_asier/index.html#grupo-de-investigación",
+    "href": "people/herrero_asier/index.html#grupo-de-investigación",
+    "title": "Asier Herrero",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFisioKlima-AgroSosT\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/herrero_asier/index.html#institución",
+    "href": "people/herrero_asier/index.html#institución",
+    "title": "Asier Herrero",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad del País Vascp"
+  },
+  {
+    "objectID": "people/sanchez_salguero/index.html#grupo-de-investigación",
+    "href": "people/sanchez_salguero/index.html#grupo-de-investigación",
+    "title": "Raúl Sánchez Salguero",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDendrOlavide Lab"
+  },
+  {
+    "objectID": "people/sanchez_salguero/index.html#institución",
+    "href": "people/sanchez_salguero/index.html#institución",
+    "title": "Raúl Sánchez Salguero",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Pablo de Olavide"
   },
   {
     "objectID": "index.html",
@@ -14,52 +210,136 @@
     "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
   },
   {
-    "objectID": "people/index.html",
-    "href": "people/index.html",
-    "title": "people",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
     "section": "",
-    "text": "Antonio J. Pérez-Luque\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+    "text": "About this site"
   },
   {
-    "objectID": "people/perez-luque/index.html",
-    "href": "people/perez-luque/index.html",
-    "title": "Antonio J. Pérez-Luque",
-    "section": "",
-    "text": "Email"
-  },
-  {
-    "objectID": "people/perez-luque/index.html#education",
-    "href": "people/perez-luque/index.html#education",
-    "title": "Antonio J. Pérez-Luque",
-    "section": "Education",
-    "text": "Education\n?meta:education"
-  },
-  {
-    "objectID": "people/perez-luque/index.html#research-group",
-    "href": "people/perez-luque/index.html#research-group",
-    "title": "Antonio J. Pérez-Luque",
-    "section": "Research Group",
-    "text": "Research Group\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
-  },
-  {
-    "objectID": "people/perez-luque/index.html#institution",
-    "href": "people/perez-luque/index.html#institution",
-    "title": "Antonio J. Pérez-Luque",
-    "section": "Institution",
-    "text": "Institution\n\nICIFOR INIA-CSIC, Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Consejo Superior de Investigaciones científicas"
-  },
-  {
-    "objectID": "people/perez-luque/index.html#grupo-de-investigación",
-    "href": "people/perez-luque/index.html#grupo-de-investigación",
-    "title": "Antonio J. Pérez-Luque",
+    "objectID": "people/alcaraz_domingo/index.html#grupo-de-investigación",
+    "href": "people/alcaraz_domingo/index.html#grupo-de-investigación",
+    "title": "Domingo Alcaraz",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
   },
   {
-    "objectID": "people/perez-luque/index.html#institución",
-    "href": "people/perez-luque/index.html#institución",
-    "title": "Antonio J. Pérez-Luque",
+    "objectID": "people/alcaraz_domingo/index.html#institución",
+    "href": "people/alcaraz_domingo/index.html#institución",
+    "title": "Domingo Alcaraz",
     "section": "Institución",
-    "text": "Institución\n\nICIFOR INIA-CSIC, Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria, Consejo Superior de Investigaciones científicas"
+    "text": "Institución\n\nUniversidad de Granada"
+  },
+  {
+    "objectID": "people/aponte_cristina/index.html#grupo-de-investigación",
+    "href": "people/aponte_cristina/index.html#grupo-de-investigación",
+    "title": "Cristina Aponte",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDinámica y Gestión Forestal. Incendios Forestales"
+  },
+  {
+    "objectID": "people/aponte_cristina/index.html#institución",
+    "href": "people/aponte_cristina/index.html#institución",
+    "title": "Cristina Aponte",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/gazol_burgos/index.html#grupo-de-investigación",
+    "href": "people/gazol_burgos/index.html#grupo-de-investigación",
+    "title": "Antonio Gazol Burgos",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEs La Dendro"
+  },
+  {
+    "objectID": "people/gazol_burgos/index.html#institución",
+    "href": "people/gazol_burgos/index.html#institución",
+    "title": "Antonio Gazol Burgos",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/fernandez_lopez/index.html#grupo-de-investigación",
+    "href": "people/fernandez_lopez/index.html#grupo-de-investigación",
+    "title": "Manuel Fernández López",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nMicrobiología de Ecosistemas Agroforestales"
+  },
+  {
+    "objectID": "people/fernandez_lopez/index.html#institución",
+    "href": "people/fernandez_lopez/index.html#institución",
+    "title": "Manuel Fernández López",
+    "section": "Institución",
+    "text": "Institución\n\nEstación Experimental del Zaidín. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/ruiz_benito/index.html#grupo-de-investigación",
+    "href": "people/ruiz_benito/index.html#grupo-de-investigación",
+    "title": "Paloma Ruiz Benito",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales\nGrupo de Investigación en Teledetección Ambiental (GITA)"
+  },
+  {
+    "objectID": "people/ruiz_benito/index.html#institución",
+    "href": "people/ruiz_benito/index.html#institución",
+    "title": "Paloma Ruiz Benito",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
+    "href": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
+    "title": "Alberto Vilagrosa Carmona",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación Forestal"
+  },
+  {
+    "objectID": "people/vilagrosa_carmona/index.html#institución",
+    "href": "people/vilagrosa_carmona/index.html#institución",
+    "title": "Alberto Vilagrosa Carmona",
+    "section": "Institución",
+    "text": "Institución\n\nCentro de Estudios Ambientales del Mediterráneo"
+  },
+  {
+    "objectID": "people/navarro_cerrillo/index.html#grupo-de-investigación",
+    "href": "people/navarro_cerrillo/index.html#grupo-de-investigación",
+    "title": "Rafael M. Navarro-Cerrillo",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+  },
+  {
+    "objectID": "people/navarro_cerrillo/index.html#institución",
+    "href": "people/navarro_cerrillo/index.html#institución",
+    "title": "Rafael M. Navarro-Cerrillo",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
+  },
+  {
+    "objectID": "people/garcia_alonso/index.html#grupo-de-investigación",
+    "href": "people/garcia_alonso/index.html#grupo-de-investigación",
+    "title": "Mariano García Alonso",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)"
+  },
+  {
+    "objectID": "people/garcia_alonso/index.html#institución",
+    "href": "people/garcia_alonso/index.html#institución",
+    "title": "Mariano García Alonso",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/sanguesa_barreda/index.html#grupo-de-investigación",
+    "href": "people/sanguesa_barreda/index.html#grupo-de-investigación",
+    "title": "Grabiel Sangüesa Barreda",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nCambium Research Group"
+  },
+  {
+    "objectID": "people/sanguesa_barreda/index.html#institución",
+    "href": "people/sanguesa_barreda/index.html#institución",
+    "title": "Grabiel Sangüesa Barreda",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Valladolid"
   }
 ]

@@ -1,0 +1,32 @@
+---
+title: "Darío Martín Benito"
+email: "dmartin@inia.csic.es"  
+image: avatar_martin_benito.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_martin_benito.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: dmartin@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6738-3312
+    - text: "{{< fa globe >}} Personal web"
+      href: http://dmartinbenito.wordpress.com/
+categories: [Dendroecología, Dinámica forestal, Ecofisiología, Monitorización, Modelización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

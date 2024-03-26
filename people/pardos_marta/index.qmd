@@ -1,0 +1,28 @@
+---
+title: "Marta Pardos"
+email: "pardos@inia.csic.es"  
+image: avatar_pardos_marta.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_pardos_marta.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: pardos@inia.csic.es
+categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Dinámica y Gestión Forestal. Dinám​ica, modelización y gestión forestal
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

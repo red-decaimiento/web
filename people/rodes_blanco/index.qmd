@@ -1,0 +1,31 @@
+---
+title: "Marina Rodes Blanco"
+email: "marina.rodes@uah.es"  
+image: avatar_rodes_blanco.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rodes_blanco.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: marina.rodes@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9326-5101
+categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Investigación en Teledetección Ambiental (GITA)
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

@@ -1,0 +1,28 @@
+---
+title: "Regino Zamora Rodríguez"
+email: "rzamora@ugr.es"  
+image: avatar_zamora_rodriguez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_zamora_rodriguez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rzamora@ugr.es
+categories: [Dendroecología, Gestión forestal, Inventario, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Ecología Terrestre
+
+## Institución
+- [Universidad de Granada](https://www.ugr.es/)
+
+:::

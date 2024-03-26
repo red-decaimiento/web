@@ -1,0 +1,28 @@
+---
+title: "Cristina Aponte"
+email: "cristina.aponte@inia.csic.es"  
+image: avatar_aponte_cristina.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aponte_cristina.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: cristina.aponte@inia.csic.es
+categories: [Interacciones planta-suelo, Dinámica forestal, Ecología de Suelos]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Dinámica y Gestión Forestal. Incendios Forestales
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

@@ -1,0 +1,30 @@
+---
+title: "Rafael M. Navarro-Cerrillo"
+email: "rmnavarro@uco.es"  
+image: avatar_navarro_cerrillo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_navarro_cerrillo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rmnavarro@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3470-8640
+categories: [Dinámica forestal, Gestión forestal, Inventario, Teledetección]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

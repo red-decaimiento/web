@@ -1,0 +1,28 @@
+---
+title: "Mariano García Alonso"
+email: "mariano.garcia@uah.es"  
+image: avatar_garcia_alonso.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_garcia_alonso.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mariano.garcia@uah.es
+categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Investigación en Teledetección Ambiental (GITA)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

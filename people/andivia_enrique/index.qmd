@@ -1,0 +1,33 @@
+---
+title: "Enrique Andivia"
+email: "eandivia@ucm.es"  
+image: avatar_andivia_enrique.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_andivia_enrique.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: eandivia@ucm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9096-3294
+    - text: "{{< fa globe >}} Personal web"
+      href: https://enriqueandivia.wixsite.com/forests
+categories: [Dinámica forestal, Dendroecología, Gestión forestal, Ecofisiología]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Forest Restoration and Adaptation Lab
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad Complutense de Madrid](https://www.ucm.es/)
+
+:::

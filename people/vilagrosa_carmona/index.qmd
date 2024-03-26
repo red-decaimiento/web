@@ -1,0 +1,32 @@
+---
+title: "Alberto Vilagrosa Carmona"
+email: "alberto.vilagrosa@mscloud.ua.es"  
+image: avatar_vilagrosa_carmona.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_vilagrosa_carmona.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: alberto.vilagrosa@mscloud.ua.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1432-1214
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.ceam.es/research/forestry-research/presentation/
+categories: [Ecofisiología, Dinámica forestal, Inventario]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Investigación Forestal
+
+## Institución
+- [Centro de Estudios Ambientales del Mediterráneo](https://www.ceam.es/)
+
+:::

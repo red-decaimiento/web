@@ -1,0 +1,31 @@
+---
+title: "Paloma Ruiz Benito"
+email: "paloma.ruizb@uah.es"  
+image: avatar_ruiz_benito.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_ruiz_benito.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: paloma.ruizb@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2781-5870
+categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
+- Grupo de Investigación en Teledetección Ambiental (GITA)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

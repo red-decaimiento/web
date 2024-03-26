@@ -1,0 +1,30 @@
+---
+title: "Grabiel Sangüesa Barreda"
+email: "gabriel.sanguesa@uva.es"  
+image: avatar_sanguesa_barreda.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_sanguesa_barreda.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: gabriel.sanguesa@uva.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7722-2424
+categories: [Dendroecología, Dinámica forestal, Monitorización, Ecofisiología]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Cambium Research Group
+
+## Institución
+- [Universidad de Valladolid](https://www.uva.es/)
+
+:::

@@ -1,0 +1,28 @@
+---
+title: "Raúl Sánchez Salguero"
+email: "rsanchez@upo.es"  
+image: avatar_sanchez_salguero.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_sanchez_salguero.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rsanchez@upo.es
+categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- DendrOlavide Lab
+
+## Institución
+- [Universidad Pablo de Olavide](https://www.upo.es/)
+
+:::

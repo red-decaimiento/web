@@ -1,0 +1,28 @@
+---
+title: "Domingo Alcaraz"
+email: "dalcaraz@ugr.es"  
+image: avatar_alcaraz_domingo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_alcaraz_domingo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: dalcaraz@ugr.es
+categories: [Teledetección]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Ecología Terrestre
+
+## Institución
+- [Universidad de Granada](https://www.ugr.es/)
+
+:::

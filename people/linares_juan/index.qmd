@@ -1,0 +1,28 @@
+---
+title: "Juan Carlos Linares"
+email: "jclincal@upo.es"  
+image: avatar_linares_juan.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_linares_juan.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jclincal@upo.es
+categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Genética]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- DendrOlavide Lab
+
+## Institución
+- [Universidad Pablo de Olavide](https://www.upo.es/)
+
+:::

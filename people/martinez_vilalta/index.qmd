@@ -1,0 +1,33 @@
+---
+title: "Jordi Martínez Vilalta"
+email: "jordi.martinez.vilalta@uab.es"  
+image: avatar_martinez_vilalta.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_martinez_vilalta.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jordi.martinez.vilalta@uab.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2332-7298
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.creaf.cat/staff/jordi-martinez-vilalta
+categories: [Ecofisiología, Dendroecología, Dinámica forestal, Modelización, Monitorización]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- EcoPhys: Fisiología ecosistémica y cambio global
+- Functional biogeography and resilience of terrestrial ecosystems (RESET)
+
+## Institución
+- [Centro de Investigación Ecológica y Aplicaciones Forestales](https://www.creaf.cat/es)
+
+:::

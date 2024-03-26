@@ -1,0 +1,32 @@
+---
+title: "Guillermo Gea Izquierdo"
+email: "gea.guillermo@inia.csic.es"  
+image: avatar_gea_izquierdo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gea_izquierdo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: gea.guillermo@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0148-3721
+    - text: "{{< fa globe >}} Personal web"
+      href: https://sites.google.com/view/guillermo-gea-izquierdo/
+categories: [Ecofisiología, Dendroecología, Modelización, Monitorización, Dinámica forestal]
+---
+
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::
