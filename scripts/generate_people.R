@@ -81,12 +81,14 @@ get_research_group <- function(data){
   # Extract values for variables starting with "research_group" if they contain data
   values <- unlist(data[research_group_vars])
   values <- values[!is.na(values)]
-  values <- glue("- {values}")
-  output <- glue_collapse(values, sep = "\n")
+  if (length(values) > 0) { 
+    values <- glue("- {values}")
+    output <- glue_collapse(values, sep = "\n")
+  } else {
+    output <- ""
+  }
   return(output)
 }
-
-
 
 
 ### Lop to create QMDs 
@@ -104,9 +106,7 @@ for (i in 1:nrow(person)) {
   }
   
   # To create log file the first time
-  if (!(file.exists(paste0(target_path, "/index.qmd")))) {
-    file.create(paste0(target_path, "/index.qmd"))
-  }
+  file.create(paste0(target_path, "/index.qmd"), overwrite = TRUE)
   
   texto_yml <- glue::glue(
     '
@@ -123,7 +123,7 @@ for (i in 1:nrow(person)) {
   {generate_links(x)}
   categories: [{get_area_tematica(x)}]
   ---
-  
+ 
   <hr>
 
   :::{glue::glue("{#person-profile}", .open = "{{", .close = "}}")}
@@ -137,12 +137,10 @@ for (i in 1:nrow(person)) {
   :::
   ' 
   )
-  
-  
+
   write(texto_yml, 
         paste0(target_path, "/index.qmd"),
-        append = FALSE)
-  
+        append = TRUE)
   
 }
 
@@ -150,21 +148,32 @@ for (i in 1:nrow(person)) {
 
 
 
+## Custom loop to add images 
+for (i in 1:nrow(person)) {
+  
+  x <- person[i,] 
+  
+  target_path <- paste0(mypath, "/", name_dir(x$name_last, x$name_first)) 
+  
+  if (length(list.files(path = target_path, pattern = ".jpg")) < 1) {
+  
+  file.copy(from = paste0(mypath, "/avatar.jpg"), 
+            to = paste0(target_path, "/avatar_", name_dir(x$name_last, x$name_first), ".jpg"),
+            overwrite = TRUE)
+  }
+}
+
+
 
 
 
 
   
-
-
-
-
-
   
-  
-  
+fff <- list.files(here::here("people"), 
+           pattern = "*.qmd", recursive = TRUE, full.names = TRUE)
 
-  
+lapply(fff, unlink)
 
 
 
