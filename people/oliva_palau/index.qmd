@@ -1,1 +1,30 @@
+---
+title: "Jonàs Oliva Palau"
+email: "jonas.oliva@udl.cat"  
+image: avatar_oliva_palau.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_oliva_palau.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jonas.oliva@udl.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2418-2542
+categories: [Patología]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad de Lleida](https://www.udl.cat/)
+
+:::

@@ -1,1 +1,30 @@
+---
+title: "Jorge Curiel"
+email: "jorge.curiel@bc3research.org"  
+image: avatar_curiel_jorge.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_curiel_jorge.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jorge.curiel@bc3research.org
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-3221-6960
+categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Basque Centre for Climate Change](https://www.bc3research.org/)
+
+:::

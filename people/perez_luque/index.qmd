@@ -18,7 +18,7 @@ about:
       href: http://ajperezluque.com/
 categories: [Teledetección, Dendroecología, Monitorización, Modelización]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

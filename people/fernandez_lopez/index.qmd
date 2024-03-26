@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: manuel.fernandez@eez.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2366-6908
 categories: [Interacciones planta-suelo, Interacciones bióticas]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

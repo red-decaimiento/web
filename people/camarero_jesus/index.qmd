@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: jjcamarero@ipe.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2436-2922
 categories: [Dinámica forestal, Dendroecología]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

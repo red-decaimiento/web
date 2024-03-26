@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: dalcaraz@ugr.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8988-4540
 categories: [Teledetección]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

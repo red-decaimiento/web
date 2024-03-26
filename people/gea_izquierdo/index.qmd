@@ -18,7 +18,7 @@ about:
       href: https://sites.google.com/view/guillermo-gea-izquierdo/
 categories: [Ecofisiología, Dendroecología, Modelización, Monitorización, Dinámica forestal]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

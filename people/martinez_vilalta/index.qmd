@@ -18,7 +18,7 @@ about:
       href: https://www.creaf.cat/staff/jordi-martinez-vilalta
 categories: [Ecofisiología, Dendroecología, Dinámica forestal, Modelización, Monitorización]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

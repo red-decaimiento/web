@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: jclincal@upo.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8375-6353
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Genética]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

@@ -1,1 +1,30 @@
+---
+title: "Carmen Romeralo Tapia"
+email: "carmen.romeralo@inia.csic.es"  
+image: avatar_romeralo_tapia.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_romeralo_tapia.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: carmen.romeralo@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8510-9915
+categories: [Patología, Interacciones bióticas]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

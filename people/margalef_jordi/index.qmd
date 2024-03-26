@@ -1,1 +1,30 @@
+---
+title: "Jordi Margalef"
+email: "jmargalefmarrase@gmail.com"  
+image: avatar_margalef_jordi.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_margalef_jordi.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jmargalefmarrase@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/000-0003-4369-9918
+categories: [Dinámica forestal, Dendroecología, Modelización, Patología]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Centro de Investigaciones sobre Desertificación. Consejo Superior de Investigaciones Científicas](http://www.uv.es/cide/)
+
+:::

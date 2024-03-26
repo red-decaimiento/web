@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: mariano.garcia@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-6260-5791
 categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

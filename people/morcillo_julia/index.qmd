@@ -1,1 +1,32 @@
+---
+title: "Luna Morcillo Julià"
+email: "luna@ua.es"  
+image: avatar_morcillo_julia.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_morcillo_julia.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: luna@ua.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8589-4300
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.ceam.es/es/persona/luna-morcillo-julia/
+categories: [Restauración, Ecofisiología, Dinámica forestal, Interacciones bióticas]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Centro de Estudios Ambientales del Mediterráneo](https://www.ceam.es/)
+
+:::

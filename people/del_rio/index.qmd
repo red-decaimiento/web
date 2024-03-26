@@ -1,1 +1,30 @@
+---
+title: "Miren del Río"
+email: "delrio@inia.csic.es"  
+image: avatar_del_rio.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_del_rio.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: delrio@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7496-3713
+categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

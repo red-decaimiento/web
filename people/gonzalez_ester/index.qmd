@@ -1,1 +1,30 @@
+---
+title: "Ester González"
+email: "ester.gonzalez@ipe.csic.es"  
+image: avatar_gonzalez_ester.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gonzalez_ester.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: ester.gonzalez@ipe.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7951-5426
+categories: [Dinámica forestal, Dendroecología]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas](http://www.ipe.csic.es/)
+
+:::

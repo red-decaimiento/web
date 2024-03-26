@@ -1,1 +1,30 @@
+---
+title: "Jorge Aldea"
+email: "aldea@inia.csic.es"  
+image: avatar_aldea_jorge.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aldea_jorge.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: aldea@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2568-5192
+categories: [Dinámica forestal]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

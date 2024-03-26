@@ -16,7 +16,7 @@ about:
       href: https://orcid.org/0000-0003-2932-5194
 categories: [Dinámica forestal, Dendroecología, Ecofisiología, Inventario, Interacciones bióticas]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

@@ -1,1 +1,30 @@
+---
+title: "Rafael Calama"
+email: "rcalama@inia.csic.es"  
+image: avatar_calama_rafael.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_calama_rafael.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rcalama@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2598-9594
+categories: [Dinámica forestal, Inventario, Modelización]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

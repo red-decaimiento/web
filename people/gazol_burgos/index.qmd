@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: agazol@ipe.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5902-9543
 categories: [Dinámica forestal, Dendroecología]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

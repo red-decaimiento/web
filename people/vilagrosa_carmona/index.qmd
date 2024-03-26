@@ -18,7 +18,7 @@ about:
       href: https://www.ceam.es/research/forestry-research/presentation/
 categories: [Ecofisiología, Dinámica forestal, Inventario]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

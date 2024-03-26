@@ -12,9 +12,11 @@ about:
     - icon: envelope
       text: Email
       href: rzamora@ugr.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-5049-9968
 categories: [Dendroecología, Gestión forestal, Inventario, Modelización, Monitorización]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

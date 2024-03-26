@@ -18,7 +18,7 @@ about:
       href: https://enriqueandivia.wixsite.com/forests
 categories: [Dinámica forestal, Dendroecología, Gestión forestal, Ecofisiología]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

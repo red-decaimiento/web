@@ -1,1 +1,28 @@
+---
+title: "Lorena Gómez Aparicio"
+email: "lorenag@irnase.csic.es"  
+image: avatar_gomez_aparicio.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gomez_aparicio.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: lorenag@irnase.csic.es
+categories: [Dinámica forestal, Interacciones planta-suelo, Interacciones bióticas, Inventario, Modelización]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Instituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas](https://www.irnas.csic.es/)
+
+:::

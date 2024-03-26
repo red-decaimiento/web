@@ -1,1 +1,30 @@
+---
+title: "Jose A. Hódar"
+email: "jhodar@ugr.es"  
+image: avatar_hodar_jose.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hodar_jose.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jhodar@ugr.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3475-4997
+categories: [Interacciones bióticas]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad de Granada](https://www.ugr.es/)
+
+:::

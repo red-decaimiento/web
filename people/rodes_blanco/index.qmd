@@ -16,7 +16,7 @@ about:
       href: https://orcid.org/0000-0001-9326-5101
 categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

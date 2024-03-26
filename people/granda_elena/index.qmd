@@ -18,7 +18,7 @@ about:
       href: https://elenagrandaf.wixsite.com/elenagranda
 categories: [Ecofisiología, Dendroecología, Dinámica forestal, Especies invasoras]
 ---
-
+ 
 <hr>
 
 :::{#person-profile}

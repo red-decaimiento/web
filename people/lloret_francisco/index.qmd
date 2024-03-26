@@ -1,1 +1,30 @@
+---
+title: "Francisco Lloret"
+email: "francisco.lloret@uab.cat"  
+image: avatar_lloret_francisco.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_lloret_francisco.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: francisco.lloret@uab.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9836-4069
+categories: [Dinámica forestal, Dendroecología, Modelización]
+---
+ 
+<hr>
 
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Centro de Investigación Ecológica y Aplicaciones Forestales](https://www.creaf.cat/es)
+
+:::
