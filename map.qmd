@@ -1,0 +1,143 @@
+---
+title: "Mapa de sitios"
+format: dashboard
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r}
+#| echo: false
+#| warning: false
+#| message: false
+
+library(sf)
+library(tidyverse)
+library(leaflet)
+
+raw_db <- readxl::read_excel("data/redec_test_sitios.xlsx") |> 
+  dplyr::select(loc = Localidad, lat = Lat, lng = Lon, 
+                sp_dom = `Especie dominante`, 
+                sp_acomp = `Otras especies arbóreas`,
+                dec_per = `Porcentaje medio de decaimiento o mortalidad`,
+                clima = `¿Puedes atribuir el evento de decaimiento o mortalidad a eventos climáticos?`,
+                otros_fac = `¿Había otros factores que indujeron estos eventos además del clima?` 
+                ) |> 
+  mutate(lat = as.numeric(lat)) |> 
+ filter(!is.na(lat))
+
+
+  
+```
+
+```{r}
+
+```
+
+
+
+```{r}
+## corregir errores iconoss 
+trees <- awesomeIconList(
+  "Abies pinsapo" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "darkgreen",
+    library = "fa"
+  ),
+  "Pinus pinaster" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "white",
+    library = "fa"
+  ),
+  "Pinus nigra" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "lightgreen",
+    library = "fa"
+  ),
+  "Pinus sylvestris" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "orange",
+    iconColor = "black",
+    library = "fa"
+  ),
+  "Pinus halepensis" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "pink",
+    library = "fa"
+  ),
+  "Pinus uncinata" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "#088f8f",
+    library = "fa"
+  ),
+  "Pinus pinea" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "purple",
+    library = "fa"
+  ),
+  "Quercus suber" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "red",
+    iconColor = "black",
+    library = "fa"
+  ),
+  "Quercus faginea" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "green",
+    iconColor = "black",
+    library = "fa"
+  ),
+  "Quercus pyrenaica" = makeAwesomeIcon(
+    icon = "tree-alt",
+    markerColor = "#b2ac88",
+    library = "fa"
+  ),
+  "Quercus coccifera" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "cadetblue",
+    iconColor = "black",
+    library = "fa"
+  ),
+  "Coníferas de montaña" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "black",
+    library = "fa"
+  ),
+  "Pinos, robles, encinas" = makeAwesomeIcon(
+    icon = "tree",
+    markerColor = "gray",
+    library = "fa"
+  ))
+
+
+maxzoom <- 30
+
+leaflet(raw_db, options = leafletOptions(maxZoom = maxzoom)) |>
+  addProviderTiles("Esri.WorldImagery", group = "Satellite") |> 
+  addWMSTiles("http://www.ign.es/wms-inspire/pnoa-ma",
+    layers = "OI.OrthoimageCoverage",
+    group = "PNOA Máxima Actualidad",
+    options = WMSTileOptions(
+      format = "image/png", 
+      transparent = FALSE,
+      maxZoom = maxzoom),
+    attribution = 'PNOA cedido por © <a href="http://www.ign.es/ign/main/index.do" target="_blank">Instituto Geográfico Nacional de España</a>'
+  ) |> 
+  # addAwesomeMarkers(raw_db, lng = raw_db$lng, lat = raw_db$lat, group = "sites") |> 
+  addAwesomeMarkers(data = raw_db,
+                    group = "sites",
+    popup = ~paste0("<strong>Site:</strong> ", raw_db$loc, "</br>",
+                    "<strong>Especie Dominante:</strong> ", raw_db$sp_dom, "</br>",
+                    "<strong>Otras especies arbóreas:</strong> ", raw_db$sp_acomp, "</br>",
+                    "<strong>% Decaimiento / Mortalidad:</strong> ", raw_db$dec_per,"</br>", 
+                    "<strong>Factor principal decaimiento:</strong> ", raw_db$clima,"</br>",
+                    "<strong>Otros factores:</strong> ", raw_db$otros_fac,"</br>"),
+    icon = ~ trees[sp_dom]) |> 
+  addLayersControl(
+    position = "bottomright",
+    baseGroups = c("Basemap", "PNOA Máxima Actualidad"),
+    overlayGroups = c("sites"), 
+    options = layersControlOptions(collapsed = TRUE)
+  ) 
+```
+
+

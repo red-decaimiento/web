@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Red Ibérica de Seguimiento del Decaimiento Forestal"
+  title: "Red Ibérica de Decaimiento Forestal inducido por el Clima"
   repo-url: "https://github.com/red-decaimiento/web"
   favicon: images/logo_redec.png
   page-navigation: false
@@ -20,8 +20,12 @@ website:
     left:
       - href: index.qmd
         text: Home
+      - href: about.qmd
+        text: La red
       - href: people/index.qmd
-        text: People
+        text: Integrantes
+      - href: map.qmd
+        text: Sitios
       
 format:
   html:
