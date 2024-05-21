@@ -1,6 +1,7 @@
 ---
 title: "Rafael Calama"
 email: "rcalama@inia.csic.es"  
+namesort: "calama_rafael"
 image: avatar_calama_rafael.jpg
 page-layout: full
 about: 

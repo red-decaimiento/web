@@ -1,6 +1,7 @@
 ---
 title: "Grabiel Sangüesa Barreda"
-email: "gabriel.sanguesa@uva.es"  
+email: "gabriel.sanguesa@uva.es"
+namesort: "sanguesa_grabiel" 
 image: avatar_sanguesa_barreda.jpg
 page-layout: full
 about: 

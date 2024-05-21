@@ -1,6 +1,7 @@
 ---
 title: "Marina Rodes Blanco"
-email: "marina.rodes@uah.es"  
+email: "marina.rodes@uah.es"
+namesort: "rodes_marina"  
 image: avatar_rodes_blanco.jpg
 page-layout: full
 about: 

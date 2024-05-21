@@ -1,6 +1,7 @@
 ---
 title: "Raúl Sánchez Salguero"
-email: "rsanchez@upo.es"  
+email: "rsanchez@upo.es" 
+namesort: "sanchez_raul" 
 image: avatar_sanchez_salguero.jpg
 page-layout: full
 about: 

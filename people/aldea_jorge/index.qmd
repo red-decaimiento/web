@@ -1,6 +1,7 @@
 ---
 title: "Jorge Aldea"
 email: "aldea@inia.csic.es"  
+namesort: "aldea_jorge"
 image: avatar_aldea_jorge.jpg
 page-layout: full
 about: 

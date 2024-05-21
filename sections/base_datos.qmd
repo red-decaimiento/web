@@ -1,5 +1,8 @@
 ---
 title: "Base de Datos"
-format: html
+image: dB.png
+page-layout: full
 ---
+
+.... 
 

@@ -1,6 +1,7 @@
 ---
 title: "Alberto Vilagrosa Carmona"
-email: "alberto.vilagrosa@mscloud.ua.es"  
+email: "alberto.vilagrosa@mscloud.ua.es"
+namesort: "vilagrosa_alberto"  
 image: avatar_vilagrosa_carmona.jpg
 page-layout: full
 about: 

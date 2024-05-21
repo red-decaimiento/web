@@ -1,5 +1,5 @@
 ---
-title: "Mapa de sitios"
+title: "Sitios de trabajo de los integrantes de la Red (en construcción)"
 format: dashboard
 editor_options: 
   chunk_output_type: console

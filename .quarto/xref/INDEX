@@ -145,5 +145,8 @@
   },
   "protocolos.qmd": {
     "protocolos.html": "3efc5250"
+  },
+  "sections/base-datos/base_datos.qmd": {
+    "base_datos.html": "566068df"
   }
 }

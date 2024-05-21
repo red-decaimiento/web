@@ -1,6 +1,7 @@
 ---
 title: "Antonio Gazol Burgos"
 email: "agazol@ipe.csic.es"  
+namesort: "gazol_antonio"
 image: avatar_gazol_burgos.jpg
 page-layout: full
 about: 

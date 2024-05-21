@@ -33,7 +33,7 @@ website:
           - text: Protocolos
             href: sections/protocolos.qmd
           - text: Conexiones
-            href: sections/protocolos.qmd
+            href: sections/networking.qmd
           - text: Gestión
             href: sections/gestion.qmd
   

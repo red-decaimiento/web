@@ -1,6 +1,7 @@
 ---
 title: "Darío Martín Benito"
-email: "dmartin@inia.csic.es"  
+email: "dmartin@inia.csic.es" 
+namesort: "martin_dario" 
 image: avatar_martin_benito.jpg
 page-layout: full
 about: 

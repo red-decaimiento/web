@@ -1,6 +1,7 @@
 ---
 title: "Jose A. Hódar"
-email: "jhodar@ugr.es"  
+email: "jhodar@ugr.es" 
+namesort: "hodar_jose" 
 image: avatar_hodar_jose.jpg
 page-layout: full
 about: 
