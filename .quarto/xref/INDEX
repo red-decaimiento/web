@@ -121,5 +121,29 @@
   },
   "map.qmd": {
     "map.html": "693cc194"
+  },
+  "sections/base_datos.qmd": {
+    "base_datos.html": "8273e25c"
+  },
+  "sections/networking.qmd": {
+    "networking.html": "1fd95da4"
+  },
+  "sections/gestion.qmd": {
+    "gestion.html": "428ea26d"
+  },
+  "sections/protocolos.qmd": {
+    "protocolos.html": "03848466"
+  },
+  "networking.qmd": {
+    "networking.html": "db43ea1b"
+  },
+  "base_datos.qmd": {
+    "base_datos.html": "f0790a83"
+  },
+  "gestion.qmd": {
+    "gestion.html": "d0ce43b6"
+  },
+  "protocolos.qmd": {
+    "protocolos.html": "3efc5250"
   }
 }

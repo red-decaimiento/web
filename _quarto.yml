@@ -26,7 +26,17 @@ website:
         text: Integrantes
       - href: map.qmd
         text: Sitios
-      
+      - text: Actividades
+        menu:
+          - text: Base de Datos
+            href: sections/base_datos.qmd
+          - text: Protocolos
+            href: sections/protocolos.qmd
+          - text: Conexiones
+            href: sections/protocolos.qmd
+          - text: Gestión
+            href: sections/gestion.qmd
+  
 format:
   html:
     theme: 
