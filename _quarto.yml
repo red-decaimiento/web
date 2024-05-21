@@ -18,8 +18,6 @@ website:
         
   navbar:
     left:
-      - href: index.qmd
-        text: Home
       - href: about.qmd
         text: La red
       - href: people/index.qmd

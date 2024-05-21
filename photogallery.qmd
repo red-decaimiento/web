@@ -27,7 +27,11 @@ lightbox:
 
 ![*Pinus sylvestris*, Sort (F. Lloret)](pictures/Pinus_sylvestris_Sort_FLloret.jpg){group="my-gallery"}
 
+![*Pinus sylvestris*, Sierra de la Almijara (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Almijara2_AJPerez.jpg){group="my-gallery"}
+
 ![*Pinus sylvestris* & *Pinus pinaster*, Sierra de la Almijara (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Almijara_AJPerez.jpg){group="my-gallery"}
+
+![*Pinus sylvestris*, Valsain (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Valsain_AJPerez.jpg){group="my-gallery"}
 
 ![*Pinus sylvestris*, Teruel (F. Lloret)](pictures/Pinus_sylvestris_Teruel_FLloret.jpg){group="my-gallery"}
 
