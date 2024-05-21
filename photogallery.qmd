@@ -1,0 +1,38 @@
+---
+format:
+  html:
+    css: styles/custom.scss
+lightbox:
+  match: auto
+  effect: fade
+  desc-position: bottom
+  loop: false
+---
+
+::: {layout-ncol=3 layout-valign="center"}
+
+![*Abies alba*, Huesca (F. Lloret)](pictures/Abies_alba_Huesca_FLloret.jpg){group="my-gallery"}
+
+![*Abies alba*, Huesca (F. Lloret)](pictures/Abies_alba_Huesca_2_FLloret.jpg){group="my-gallery"}
+
+![*Abies pinsapo*, (F. Lloret)](pictures/Abies_pinsapo_FLloret.jpg){group="my-gallery"}
+
+![*Cedrus*, (F. Lloret)](pictures/Cedrus_FLloret.jpg){group="my-gallery"}
+
+![*Juniperus phoenicea*, (F. Lloret)](pictures/Juniperus_phoenicea_FLloret.jpg){group="my-gallery"}
+
+![*Pinus halepensis*, Murcia (F. Lloret)](pictures/Pinus_halepensis_Murcia_FLloret.jpg){group="my-gallery"}
+
+![*Pinus pinea*, (F. Lloret)](pictures/Pinus_pinea_FLloret.jpg){group="my-gallery"}
+
+![*Pinus sylvestris*, Sort (F. Lloret)](pictures/Pinus_sylvestris_Sort_FLloret.jpg){group="my-gallery"}
+
+![*Pinus sylvestris* & *Pinus pinaster*, Sierra de la Almijara (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Almijara_AJPerez.jpg){group="my-gallery"}
+
+![*Pinus sylvestris*, Teruel (F. Lloret)](pictures/Pinus_sylvestris_Teruel_FLloret.jpg){group="my-gallery"}
+
+![*Quercus ilex*, Prades (F. Lloret)](pictures/Quercus_ilex_Prades_FLloret.jpg){group="my-gallery"}
+
+![*Quercus suber*, Cádiz (F. Lloret)](pictures/Quercus_suber_Cadiz_FLloret.jpg){group="my-gallery"}
+
+::: 

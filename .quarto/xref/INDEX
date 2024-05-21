@@ -148,5 +148,11 @@
   },
   "sections/base-datos/base_datos.qmd": {
     "base_datos.html": "566068df"
+  },
+  "people/photogallery.qmd": {
+    "photogallery.html": "2b0a1c59"
+  },
+  "photogallery.qmd": {
+    "photogallery.html": "c7ba5d26"
   }
 }

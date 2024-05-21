@@ -36,6 +36,9 @@ website:
             href: sections/networking.qmd
           - text: Gestión
             href: sections/gestion.qmd
+      - href: photogallery.qmd
+        text: Galería
+        
   
 format:
   html:
