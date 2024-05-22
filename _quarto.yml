@@ -24,14 +24,14 @@ website:
         text: Integrantes
       - href: map.qmd
         text: Sitios
-      - text: Actividades
+      - text: Temas de Trabajo
         menu:
           - text: Base de Datos
             href: sections/base_datos.qmd
-          - text: Protocolos
+          - text: Estándares y Protocolos
             href: sections/protocolos.qmd
-          - text: Conexiones
-            href: sections/networking.qmd
+          - text: Monitorización
+            href: sections/monitoreo.qmd
           - text: Gestión
             href: sections/gestion.qmd
       - href: photogallery.qmd
