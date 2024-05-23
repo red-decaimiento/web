@@ -1,10 +1,9 @@
 ---
 title: "Base de Datos"
-image: dB.png
 ---
 ### Objetivos 
 Generación de una base de datos de sistemas de estudio de bosques con decaimiento, vinculándose a redes internacionales, de cara a la realización de investigaciones coordinadas. 
 
 ### Responsables
-Por definir
+Por definir.
 
