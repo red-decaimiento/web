@@ -2,6 +2,8 @@
   {
     "listing": "/people/index.html",
     "items": [
+      "/people/lloret_francisco/index.html",
+      "/people/ruiz_benito/index.html",
       "/people/alcaraz_domingo/index.html",
       "/people/aldea_jorge/index.html",
       "/people/andivia_enrique/index.html",
@@ -21,7 +23,6 @@
       "/people/herrero_asier/index.html",
       "/people/hodar_jose/index.html",
       "/people/linares_juan/index.html",
-      "/people/lloret_francisco/index.html",
       "/people/margalef_jordi/index.html",
       "/people/martin_benito/index.html",
       "/people/martinez_vilalta/index.html",
@@ -32,12 +33,18 @@
       "/people/perez_luque/index.html",
       "/people/rodes_blanco/index.html",
       "/people/romeralo_tapia/index.html",
-      "/people/ruiz_benito/index.html",
       "/people/sanchez_salguero/index.html",
       "/people/sanguesa_barreda/index.html",
       "/people/vilagrosa_carmona/index.html",
       "/people/zamora_rodriguez/index.html",
       "/people/zavala_miguel/index.html"
+    ]
+  },
+  {
+    "listing": "/people/coordinadores/index.html",
+    "items": [
+      "/people/coordinadores/lloret_francisco/index.html",
+      "/people/coordinadores/ruiz_benito/index.html"
     ]
   }
 ]

@@ -74,6 +74,34 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-coordinadores .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-image','listing-title','listing-categories',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-coordinadores'] = new List('listing-coordinadores', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
     const listingTargetEl = window.document.querySelector('#listing-people .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
@@ -163,21 +191,21 @@ window.Quarto = {
 <span class="menu-text">Sitios</span></a>
   </li>  
   <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-actividades" role="button" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">Actividades</span>
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-temas-de-trabajo" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">Temas de Trabajo</span>
     </a>
-    <ul class="dropdown-menu" aria-labelledby="nav-menu-actividades">    
+    <ul class="dropdown-menu" aria-labelledby="nav-menu-temas-de-trabajo">    
         <li>
     <a class="dropdown-item" href="../sections/base_datos.html">
  <span class="dropdown-text">Base de Datos</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../sections/protocolos.html">
- <span class="dropdown-text">Protocolos</span></a>
+ <span class="dropdown-text">Estándares y Protocolos</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../sections/networking.html">
- <span class="dropdown-text">Conexiones</span></a>
+    <a class="dropdown-item" href="../sections/monitoreo.html">
+ <span class="dropdown-text">Monitorización</span></a>
   </li>  
         <li>
     <a class="dropdown-item" href="../sections/gestion.html">
@@ -201,21 +229,100 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
-    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(36)</span></div><div class="category" data-category="Dendroecología">Dendroecología <span class="quarto-category-count">(18)</span></div><div class="category" data-category="Dendroquímica">Dendroquímica <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Dinámica forestal">Dinámica forestal <span class="quarto-category-count">(29)</span></div><div class="category" data-category="Ecofisiología">Ecofisiología <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Ecología de Suelos">Ecología de Suelos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Especies invasoras">Especies invasoras <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genética">Genética <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gestión forestal">Gestión forestal <span class="quarto-category-count">(7)</span></div><div class="category" data-category="Interacciones bióticas">Interacciones bióticas <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Interacciones planta-suelo">Interacciones planta-suelo <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Inventario">Inventario <span class="quarto-category-count">(10)</span></div><div class="category" data-category="Modelización">Modelización <span class="quarto-category-count">(17)</span></div><div class="category" data-category="Monitorización">Monitorización <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Patología">Patología <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Restauración">Restauración <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teledetección">Teledetección <span class="quarto-category-count">(5)</span></div></div></div>
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#coordinadores" id="toc-coordinadores" class="nav-link active" data-scroll-target="#coordinadores">Coordinadores</a></li>
+  <li><a href="#miembros" id="toc-miembros" class="nav-link" data-scroll-target="#miembros">Miembros</a></li>
+  </ul>
+</nav>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(38)</span></div><div class="category" data-category="Dendroecología">Dendroecología <span class="quarto-category-count">(19)</span></div><div class="category" data-category="Dendroquímica">Dendroquímica <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Dinámica forestal">Dinámica forestal <span class="quarto-category-count">(31)</span></div><div class="category" data-category="Ecofisiología">Ecofisiología <span class="quarto-category-count">(12)</span></div><div class="category" data-category="Ecología de Suelos">Ecología de Suelos <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Especies invasoras">Especies invasoras <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Genética">Genética <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Gestión forestal">Gestión forestal <span class="quarto-category-count">(8)</span></div><div class="category" data-category="Interacciones bióticas">Interacciones bióticas <span class="quarto-category-count">(6)</span></div><div class="category" data-category="Interacciones planta-suelo">Interacciones planta-suelo <span class="quarto-category-count">(3)</span></div><div class="category" data-category="Inventario">Inventario <span class="quarto-category-count">(11)</span></div><div class="category" data-category="Modelización">Modelización <span class="quarto-category-count">(19)</span></div><div class="category" data-category="Monitorización">Monitorización <span class="quarto-category-count">(13)</span></div><div class="category" data-category="Patología">Patología <span class="quarto-category-count">(4)</span></div><div class="category" data-category="Restauración">Restauración <span class="quarto-category-count">(1)</span></div><div class="category" data-category="Teledetección">Teledetección <span class="quarto-category-count">(5)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 
 
 
+<section id="coordinadores" class="level2">
+<h2 class="anchored" data-anchor-id="coordinadores">Coordinadores</h2>
+<div id="listing-coordinadores" class="quarto-listing quarto-listing-container-grid">
+<div class="list grid quarto-listing-cols-3">
+<div class="g-col-1" data-index="0" data-categories="Dinámica forestal,Dendroecología,Modelización" data-listing-file-modified-sort="1716448905869" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<a href="../people/lloret_francisco/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../people/lloret_francisco/avatar_lloret_francisco.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Francisco Lloret
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Dinámica forestal'); return false;">
+Dinámica forestal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Dendroecología'); return false;">
+Dendroecología
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Modelización'); return false;">
+Modelización
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+<div class="g-col-1" data-index="1" data-categories="Dinámica forestal,Gestión forestal,Inventario,Modelización,Monitorización" data-listing-file-modified-sort="1716448896228" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<a href="../people/ruiz_benito/index.html" class="quarto-grid-link">
+<div class="quarto-grid-item card h-100 card-left">
+<p class="card-img-top">
+<img src="../people/ruiz_benito/avatar_ruiz_benito.jpg" class="thumbnail-image card-img" style="height: 150px;">
+</p>
+<div class="card-body post-contents">
+<h5 class="no-anchor card-title listing-title">
+Paloma Ruiz Benito
+</h5>
+<div class="listing-categories">
+<div class="listing-category" onclick="window.quartoListingCategory('Dinámica forestal'); return false;">
+Dinámica forestal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Gestión forestal'); return false;">
+Gestión forestal
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Inventario'); return false;">
+Inventario
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Modelización'); return false;">
+Modelización
+</div>
+<div class="listing-category" onclick="window.quartoListingCategory('Monitorización'); return false;">
+Monitorización
+</div>
+</div>
+</div>
+</div>
+</a>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div>
+</section>
+<section id="miembros" class="level2">
+<h2 class="anchored" data-anchor-id="miembros">Miembros</h2>
+<div id="miembros">
+
+</div>
 
 
 
+</section>
 
 <div class="quarto-listing quarto-listing-container-grid" id="listing-people">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="Teledetección" data-listing-file-modified-sort="1716326963638" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<div class="g-col-1" data-index="0" data-categories="Teledetección" data-listing-file-modified-sort="1716448914604" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
 <a href="../people/alcaraz_domingo/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -705,7 +812,7 @@ Genética
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="19" data-categories="Dinámica forestal,Dendroecología,Modelización" data-listing-file-modified-sort="1716327307169" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
+<div class="g-col-1" data-index="19" data-categories="Dinámica forestal,Dendroecología,Modelización" data-listing-file-modified-sort="1716448905869" data-listing-reading-time-sort="1" data-listing-word-count-sort="10">
 <a href="../people/lloret_francisco/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -1004,7 +1111,7 @@ Interacciones bióticas
 </div>
 </a>
 </div>
-<div class="g-col-1" data-index="30" data-categories="Dinámica forestal,Gestión forestal,Inventario,Modelización,Monitorización" data-listing-file-modified-sort="1716327468461" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
+<div class="g-col-1" data-index="30" data-categories="Dinámica forestal,Gestión forestal,Inventario,Modelización,Monitorización" data-listing-file-modified-sort="1716448896228" data-listing-reading-time-sort="1" data-listing-word-count-sort="24">
 <a href="../people/ruiz_benito/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">

@@ -157,5 +157,14 @@
   },
   "sections/monitoreo.qmd": {
     "monitoreo.html": "849af35c"
+  },
+  "people/coordinadores/index.qmd": {
+    "index.html": "a8698d1d"
+  },
+  "people/coordinadores/lloret_francisco/index.qmd": {
+    "index.html": "2adc0eed"
+  },
+  "people/coordinadores/ruiz_benito/index.qmd": {
+    "index.html": "a192d77c"
   }
 }
