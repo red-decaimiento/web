@@ -34,6 +34,10 @@ website:
             href: sections/monitoreo.qmd
           - text: Gestión
             href: sections/gestion.qmd
+      - text: Jornadas
+        menu:
+          - text: Primeras Jornadas 2024
+            href: workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.qmd
       - href: photogallery.qmd
         text: Galería
         

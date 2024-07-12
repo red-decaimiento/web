@@ -1,0 +1,218 @@
+---
+# title: 'I Reunión Red Ibérica de Seguimiento del Decaimiento Forestal Inducido por el Clima (ReDec)'
+page-layout: full
+toc: true
+toc-depth: 2
+---
+
+# Reunión Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) {.unnumbered .unlisted}
+
+# Objetivos de la Reunión 
+
+La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la primera exclusivamente entre miembros de la red en torno a mesas de trabajo que engloban las actividades de ReDec, la segunda donde se realizará una jornada sobre casos y gestión del decaimiento en distintas regiones de la península y debate con gestores en una salida de campo, y la tercera donde se realizará una salida de campo voluntaria para la visita de sitios con decaimiento en distintas masas forestales.
+
+# Primera Jornada 
+# Reunión miembros ReDec {.unnumbered .unlisted}
+
+###  Fecha y Lugar de Celebración
+- 17 septiembre de 2014 
+- Lugar: Jardín Botánico Detunda-Cueva de Nerja, Málaga
+
+## Programa
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+library(knitr)
+library(gt)
+
+
+raw <- readxl::read_excel("horario.xlsx")
+
+
+d  <- raw |> 
+    rename(
+        Hora = time, 
+        Mesa = mesa,
+        Coordina = coordinacion) |>
+    mutate(
+        Coordina = str_replace_all(Coordina,
+    c("Francisco Lloret" = "[Francisco Lloret](../../people/lloret_francisco)", 
+    "Paloma Ruiz-Benito" = "[Paloma Ruiz-Benito](../../people/ruiz_benito)",
+    "Enrique Andivia" = "[Enrique Andivia](../../people/andivia_enrique)", 
+    "Raúl Sánchez-Salguero" = "[Raúl Sánchez-Salguero](../../people/sanchez_salguero)",
+    "Antonio J. Pérez-Luque" = "[Antonio J. Pérez-Luque](../../people/perez_luque)",
+     "Antonio Gazol" = "[Antonio Gazol](../../people/gazol_burgos)",
+     "Lorena Gómez-Aparicio" = "[Lorena Gómez-Aparicio](../../people/gomez_aparicio)",
+     "Jorge Curiel" = "[Jorge Curiel](../../people/curiel_jorge)",
+     "Jordi Martínez-Vilalta" = "[Jordi Martínez-Vilalta](../../people/martinez_vilalta)",
+     "Rafael M. Navarro Cerrillo" = "[Rafael M. Navarro Cerrillo](../../people/navarro_cerrillo)", 
+     "Miguel A. de Zavala" = "[Miguel A. de Zavala](../../people/zavala_miguel)" 
+    ))
+    ) 
+```
+
+```{r}
+#| echo: false
+
+d17 <- d |> 
+    filter(day == 17) |> 
+    dplyr::select(-jornada, -day) 
+
+gt::gt(d17) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(10),
+    "Mesa" ~ pct(40),
+    "Coordina" ~ pct(50)
+  ) |> 
+  sub_missing(
+    columns = 3,
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  as_raw_html()
+```
+
+
+# Segunda Jornada - Jornada Pública
+# Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
+
+Esta jornada tiene como objetivo debatir entre investigadores y gestores sobre sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión pretende realizar una pequeña síntesis de los casos de decaimiento en distintas regiones de la península y abrir un debate con gestores durante una salida de campo en zonas con distintos estados y síntomas de decaimiento forestal en el Parque Natural de Sierra Tejeda, Almijara y Alhama para establecer una hoja de ruta nacional.
+
+###  Fecha y Lugar de Celebración
+- 18 septiembre de 2014 
+- Lugar: Salón del Museo de la Cueva de Nerja, Málaga
+
+## Programa
+
+```{r}
+#| echo: false
+
+d18 <- d |> 
+    filter(day == 18) |> 
+    dplyr::select(-jornada, -day) 
+
+gt::gt(d18) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(10),
+    "Mesa" ~ pct(40),
+    "Coordina" ~ pct(50)
+  ) |> 
+  sub_missing(
+    columns = 3,
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  as_raw_html()
+```
+
+# Logística 
+## ¿Cómo llegar? 
+- Jardín Botánico Detunda - Cueva de Nerja. Recinto de la Cueva de Nerja. 29787. Maro. Nerja. Málaga
+
+## Ubicación 
+
+```{r}
+#| echo: false
+lat_jardin <- 36.7611 
+long_jardin <- -3.8450
+
+
+content <- paste(sep = "<br/>",
+  "<b><a href='https://visita.nerja.es/es/descubre/puntos-de-interes/jardin-botanico-detunda-cueva-de-nerja-p107361
+'>Jardín Botánico Detunda - Cueva de Nerja</a></b>",
+  "Recinto de la Cueva de Nerja",
+  "29787. Maro. Nerja. Málaga"
+)  
+
+library(leaflet)
+m <- leaflet() |>
+  addTiles() |>
+  setView(lng = long_jardin, lat = lat_jardin, zoom = 16) |> 
+  addMarkers(lng = long_jardin, lat = lat_jardin, 
+  popup = content)
+
+m
+```
+
+## Transporte público
+- Autobús: Desde Málaga a Nerja (Duración: 1h 30min) (8:30, 10:45, 12:45, 14:00, 15:00)
+- Taxi, Uber o Blablacar desde Aeropuerto o Estación de tren María Zambrano
+
+## Alojamientos 
+
+- Nerja pueblo o Nerja Cueva.
+- [Web del Ayuntamiento de Nerja](https://visita.nerja.es/es/planifica/donde-dormir)
+- [Booking](https://www.booking.com/searchresults.es.html?label=gog235jc-1DCAEoggI46AdIM1gDaEaIAQGYAQq4ARfIAQzYAQPoAQGIAgGoAgO4AvW3tbQGwAIB0gIkMTkyMDA5MjctOGI4ZS00MTlkLTljODEtZjQ2NmVkNmJkYjJl2AIE4AIB&sid=ff2755efc7dfbdeebb4d2796a7b25184&aid=397594&ss=Nerja%2C+Andaluc%C3%ADa%2C+Espa%C3%B1a&ssne=Puebla+de+Don+Fadrique&ssne_untouched=Puebla+de+Don+Fadrique&efdco=1&lang=es&sb=1&src_elem=sb&dest_id=-393985&dest_type=city&ac_position=0&ac_click_type=b&ac_langcode=es&ac_suggestion_list_length=5&search_selected=true&search_pageview_id=427d6f3b95310aa6&checkin=2024-09-16&checkout=2024-09-19&group_adults=1&no_rooms=1&group_children=0&order=price)
+
+## Información y Dudas
+- Raúl Sánchez-Salguero dendrolavide@upo.es 
+
+# Jornada de Campo 
+# Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
+
+Esta jornada tiene como objetivo realizar un viaje compartido entre gestores e investigadores por zonas con decaimiento en Andalucía para debatir sobre el estado del decaimiento arbóreo en la península Ibérica y posibles alternativas de mitigación, adaptación, restauración y resiliencia
+
+###  Fecha y Lugar de Celebración
+- 19 septiembre de 2014 
+- Salida: XXX 
+
+## Programa
+```{r}
+#| echo: false
+
+d19 <- d |> 
+    filter(day == 19) |> 
+    dplyr::select(-jornada, -day) 
+
+gt::gt(d19) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(10),
+    "Mesa" ~ pct(40),
+    "Coordina" ~ pct(50)
+  ) |> 
+  sub_missing(
+    columns = 1:3,
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  as_raw_html()
+```
