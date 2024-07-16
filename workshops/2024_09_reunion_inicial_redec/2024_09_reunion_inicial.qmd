@@ -1,19 +1,20 @@
 ---
-# title: 'I Reunión Red Ibérica de Seguimiento del Decaimiento Forestal Inducido por el Clima (ReDec)'
+# title: 'Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa'
 page-layout: full
 toc: true
 toc-depth: 2
 ---
 
-# Reunión Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) {.unnumbered .unlisted}
+# Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
+
+- Fecha: 17 (reunión interna), 18 y 19 de Septiembre 2024 (jornadas públicas)
+- Lugar: Nerja, Málaga. 
 
 # Objetivos de la Reunión 
 
-La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la primera exclusivamente entre miembros de la red en torno a mesas de trabajo que engloban las actividades de ReDec, la segunda donde se realizará una jornada sobre casos y gestión del decaimiento en distintas regiones de la península y debate con gestores en una salida de campo, y la tercera donde se realizará una salida de campo voluntaria para la visita de sitios con decaimiento en distintas masas forestales.
+La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la [primera](2024_09_reunion_inicial.qmd#sec-reunion-interna) exclusivamente entre miembros de la red en torno a mesas de trabajo que engloban las actividades de ReDec, la segunda donde se realizará una [jornada pública y abierta](2024_09_reunion_inicial.qmd#sec-reunion-publica) sobre casos y gestión del decaimiento en distintas comunidades autónomas y de debate con los gestores en una salida de campo, y la tercera donde se realizará una [salida de campo](2024_09_reunion_inicial.qmd#sec-visita-campo) para la visita de sitios con decaimiento en distintas masas forestales
 
-# Primera Jornada 
-# Reunión miembros ReDec {.unnumbered .unlisted}
-
+# Reunión interna miembros de ReDec {#sec-reunion-interna}
 ###  Fecha y Lugar de Celebración
 - 17 septiembre de 2014 
 - Lugar: Jardín Botánico Detunda-Cueva de Nerja, Málaga
@@ -30,7 +31,6 @@ library(gt)
 
 
 raw <- readxl::read_excel("horario.xlsx")
-
 
 d  <- raw |> 
     rename(
@@ -49,7 +49,9 @@ d  <- raw |>
      "Jorge Curiel" = "[Jorge Curiel](../../people/curiel_jorge)",
      "Jordi Martínez-Vilalta" = "[Jordi Martínez-Vilalta](../../people/martinez_vilalta)",
      "Rafael M. Navarro Cerrillo" = "[Rafael M. Navarro Cerrillo](../../people/navarro_cerrillo)", 
-     "Miguel A. de Zavala" = "[Miguel A. de Zavala](../../people/zavala_miguel)" 
+     "Miguel A. de Zavala" = "[Miguel A. de Zavala](../../people/zavala_miguel)",
+     "Mariano García Alonso" = "[Mariano García Alonso](../../people/garcia_alonso)",
+     "Regino Zamora" = "[Regino Zamora](../../people/zamora_rodriguez)" 
     ))
     ) 
 ```
@@ -70,9 +72,9 @@ gt::gt(d17) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 3,
@@ -87,15 +89,13 @@ gt::gt(d17) |>
   as_raw_html()
 ```
 
+# Segunda Jornada - Jornada Pública {#sec-reunion-publica}
 
-# Segunda Jornada - Jornada Pública
-# Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
-
-Esta jornada tiene como objetivo debatir entre investigadores y gestores sobre sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión pretende realizar una pequeña síntesis de los casos de decaimiento en distintas regiones de la península y abrir un debate con gestores durante una salida de campo en zonas con distintos estados y síntomas de decaimiento forestal en el Parque Natural de Sierra Tejeda, Almijara y Alhama para establecer una hoja de ruta nacional.
+Esta jornada tiene como objetivo debatir entre investigadores y gestores sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión pretende realizar una pequeña síntesis de los casos de decaimiento en distintas zonas de la península y abrir un debate con gestores durante la mañana y una salida de campo cercana en zonas con distintos estados y síntomas de decaimiento en el Parque Natural de las Sierras Tejeda, Almijara y Alhama para establecer una hoja de ruta nacional.
 
 ###  Fecha y Lugar de Celebración
 - 18 septiembre de 2014 
-- Lugar: Salón del Museo de la Cueva de Nerja, Málaga
+- Lugar: Salón Museo de Nerja del Ayuntamiento de Nerja (Málaga)
 
 ## Programa
 
@@ -115,9 +115,9 @@ gt::gt(d18) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 3,
@@ -164,6 +164,7 @@ m
 ## Transporte público
 - Autobús: Desde Málaga a Nerja (Duración: 1h 30min) (8:30, 10:45, 12:45, 14:00, 15:00)
 - Taxi, Uber o Blablacar desde Aeropuerto o Estación de tren María Zambrano
+- [Autobús Urbano Nerja](http://www.grupoveranoazul.com/urbanos-de-nerja.php)
 
 ## Alojamientos 
 
@@ -174,14 +175,17 @@ m
 ## Información y Dudas
 - Raúl Sánchez-Salguero dendrolavide@upo.es 
 
-# Jornada de Campo 
-# Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
+
+# Jornada de Campo {#sec-visita-campo}
 
 Esta jornada tiene como objetivo realizar un viaje compartido entre gestores e investigadores por zonas con decaimiento en Andalucía para debatir sobre el estado del decaimiento arbóreo en la península Ibérica y posibles alternativas de mitigación, adaptación, restauración y resiliencia
 
 ###  Fecha y Lugar de Celebración
 - 19 septiembre de 2014 
-- Salida: XXX 
+- Salida: Nerja 
+
+## Inscripción
+Para inscribirte a las jornadas públicas del 18 y 19 de Septiembre rellena el siguiente [formulario](https://forms.gle/KVLEqZzn7dr1EaX39).
 
 ## Programa
 ```{r}
@@ -200,9 +204,9 @@ gt::gt(d19) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 1:3,
@@ -216,3 +220,21 @@ gt::gt(d19) |>
   ) |> 
   as_raw_html()
 ```
+
+Se entregará picnic a cubrir por los participantes y se parará en el camino para los cafés.
+Se realizará una parada en el aeropuerto de Málaga en el camino de vuelta
+
+# Organiza 
+
+::: {layout="[[50,50], [50,50]]" layout-valign="center"}
+
+![[Red de Decaimiento Forestal Inducido por el Clima (ReDeC)](https://redeciberica.es/)](../../images/logo_redec.png){fig-align="center" width=250}
+
+![[Consejería de Sostenibilidad, Medio Ambiente y Economía Azul (Junta de Andalucía)](https://www.juntadeandalucia.es/organismos/sostenibilidadmedioambienteyeconomiaazul.html)](/workshops/2024_09_reunion_inicial_redec/logos_jornadas/logo_consejeria.png){fig-align="center" width=400}
+
+![[Universidad Pablo de Olavide](https://www.upo.es/)](/workshops/2024_09_reunion_inicial_redec/logos_jornadas/logo_upo.jpg){fig-align="center" width=300}
+
+![[DendrOlavide](https://www.upo.es/investiga/estructura-funcion-ecosistemas-mediterraneos/dendrolavide-lab/)](/workshops/2024_09_reunion_inicial_redec/logos_jornadas/logo_dendrolavide.png){fig-align="center" width=200}
+
+
+:::

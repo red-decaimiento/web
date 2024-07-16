@@ -21,6 +21,7 @@
 #
 #
 #
+#
 #| echo: false
 #| message: false
 #| warning: false
@@ -30,7 +31,6 @@ library(gt)
 
 
 raw <- readxl::read_excel("horario.xlsx")
-
 
 d  <- raw |> 
     rename(
@@ -49,7 +49,9 @@ d  <- raw |>
      "Jorge Curiel" = "[Jorge Curiel](../../people/curiel_jorge)",
      "Jordi Martínez-Vilalta" = "[Jordi Martínez-Vilalta](../../people/martinez_vilalta)",
      "Rafael M. Navarro Cerrillo" = "[Rafael M. Navarro Cerrillo](../../people/navarro_cerrillo)", 
-     "Miguel A. de Zavala" = "[Miguel A. de Zavala](../../people/zavala_miguel)" 
+     "Miguel A. de Zavala" = "[Miguel A. de Zavala](../../people/zavala_miguel)",
+     "Mariano García Alonso" = "[Mariano García Alonso](../../people/garcia_alonso)",
+     "Regino Zamora" = "[Regino Zamora](../../people/zamora_rodriguez)" 
     ))
     ) 
 #
@@ -70,9 +72,9 @@ gt::gt(d17) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 3,
@@ -85,8 +87,6 @@ gt::gt(d17) |>
     locations = cells_column_labels(everything())
   ) |> 
   as_raw_html()
-#
-#
 #
 #
 #
@@ -115,9 +115,9 @@ gt::gt(d18) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 3,
@@ -185,6 +185,10 @@ m
 #
 #
 #
+#
+#
+#
+#
 #| echo: false
 
 d19 <- d |> 
@@ -200,9 +204,9 @@ gt::gt(d19) |>
   ) |> 
   cols_hide(columns = type) |> 
   cols_width(
-    "Hora" ~ pct(10),
+    "Hora" ~ pct(15),
     "Mesa" ~ pct(40),
-    "Coordina" ~ pct(50)
+    "Coordina" ~ pct(45)
   ) |> 
   sub_missing(
     columns = 1:3,
@@ -215,6 +219,23 @@ gt::gt(d19) |>
     locations = cells_column_labels(everything())
   ) |> 
   as_raw_html()
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
+#
 #
 #
 #
