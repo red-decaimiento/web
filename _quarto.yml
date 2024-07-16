@@ -49,4 +49,5 @@ format:
       - cosmo
     toc: true
 
-
+execute: 
+  freeze: auto
