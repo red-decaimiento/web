@@ -12,7 +12,8 @@ toc-depth: 2
 
 # Objetivos de la Reunión 
 
-La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la [primera](2024_09_reunion_inicial.qmd#sec-reunion-interna) exclusivamente entre miembros de la red en torno a mesas de trabajo que engloban las actividades de ReDec, la segunda donde se realizará una [jornada pública y abierta](2024_09_reunion_inicial.qmd#sec-reunion-publica) sobre casos y gestión del decaimiento en distintas comunidades autónomas y de debate con los gestores en una salida de campo, y la tercera donde se realizará una [salida de campo](2024_09_reunion_inicial.qmd#sec-visita-campo) para la visita de sitios con decaimiento en distintas masas forestales
+La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la [primera](2024_09_reunion_inicial.qmd#sec-reunion-interna) pretende propiciar un espacio de debate entre los investigadores de la red en torno a mesas de trabajo que engloban las actividades de ReDec; la [segunda jornada](2024_09_reunion_inicial.qmd#sec-reunion-publica) pretende facilitar un punto de encuentro entre los investigadores y los gestores que hacen frente a los procesos de decaimiento en distintas comunidades autónomas y debatir posibles alternativas de mitigación, adaptación, restauración y resiliencia; y la [tercera jornada](2024_09_reunion_inicial.qmd#sec-visita-campo) donde se realizará un viaje compartido entre gestores e investigadores por zonas con diferentes estados de decaimiento en Andalucía.
+
 
 # Reunión interna miembros de ReDec {#sec-reunion-interna}
 ###  Fecha y Lugar de Celebración
@@ -91,7 +92,7 @@ gt::gt(d17) |>
 
 # Segunda Jornada - Jornada Pública {#sec-reunion-publica}
 
-Esta jornada tiene como objetivo debatir entre investigadores y gestores sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión pretende realizar una pequeña síntesis de los casos de decaimiento en distintas zonas de la península y abrir un debate con gestores durante la mañana y una salida de campo cercana en zonas con distintos estados y síntomas de decaimiento en el Parque Natural de las Sierras Tejeda, Almijara y Alhama para establecer una hoja de ruta nacional.
+Esta reunión se ha estructurado en dos sesiones. La primera abordará el decaimiento desde una perspectiva que parte de lo local hasta lo general exponiendo instrumentos y herramientas de evaluación, análisis y lucha contra el decaimiento puestas en marchas por diferentes organismos públicos. En la segunda sesión se expondrán una síntesis de la incidencia del decaimiento forestal en distintas zonas de España abriéndose finalmente un foro de debate entre gestores e investigadores.
 
 ###  Fecha y Lugar de Celebración
 - 18 septiembre de 2014 
@@ -193,10 +194,10 @@ Para inscribirte a las jornadas públicas del 18 y 19 de Septiembre rellena el s
 
 d19 <- d |> 
     filter(day == 19) |> 
-    dplyr::select(-jornada, -day) 
+    dplyr::select(-jornada, -day, -Coordina, Actividad = Mesa) 
 
 gt::gt(d19) |> 
-  fmt_markdown(colum = Coordina) |>
+  # fmt_markdown(colum = Coordina) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
@@ -205,11 +206,10 @@ gt::gt(d19) |>
   cols_hide(columns = type) |> 
   cols_width(
     "Hora" ~ pct(15),
-    "Mesa" ~ pct(40),
-    "Coordina" ~ pct(45)
+    "Actividad" ~ pct(40)
   ) |> 
   sub_missing(
-    columns = 1:3,
+    columns = 1:2,
     missing_text = ""
   ) |> 
   tab_style(
