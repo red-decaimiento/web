@@ -96,7 +96,7 @@ Esta reunión se ha estructurado en dos sesiones. La primera abordará el decaim
 
 ###  Fecha y Lugar de Celebración
 - 18 septiembre de 2014 
-- Lugar: Salón Museo de Nerja del Ayuntamiento de Nerja (Málaga)
+- Lugar: Salón de actos (planta -2) Museo de Nerja del Ayuntamiento de Nerja (Málaga)
 
 ## Programa
 
@@ -135,7 +135,8 @@ gt::gt(d18) |>
 
 # Logística 
 ## ¿Cómo llegar? 
-- Jardín Botánico Detunda - Cueva de Nerja. Recinto de la Cueva de Nerja. 29787. Maro. Nerja. Málaga
+- Día 17: Jardín Botánico Detunda - Cueva de Nerja. Recinto de la Cueva de Nerja. 29787. Maro. Nerja. Málaga
+- Día 18: Salón Museo de Nerja del Ayuntamiento de Nerja (Málaga) 
 
 ## Ubicación 
 
@@ -145,7 +146,17 @@ lat_jardin <- 36.7611
 long_jardin <- -3.8450
 
 
-content <- paste(sep = "<br/>",
+lat_museo <- 36.74675
+long_museo <- -3.87761
+  
+content_museo <- paste(sep = "<br/>","Jornada Día 18", 
+  "<b><a href='https://visita.nerja.es/es/descubre/puntos-de-interes/museo-de-nerja-p107365'>Museo de Nerja</a></b>",
+  "Plaza de España, 4",
+  "29780. Maro. Nerja. Málaga"
+)  
+
+
+content_jardin <- paste(sep = "<br/>","Jornada Día 17", 
   "<b><a href='https://visita.nerja.es/es/descubre/puntos-de-interes/jardin-botanico-detunda-cueva-de-nerja-p107361
 '>Jardín Botánico Detunda - Cueva de Nerja</a></b>",
   "Recinto de la Cueva de Nerja",
@@ -155,9 +166,10 @@ content <- paste(sep = "<br/>",
 library(leaflet)
 m <- leaflet() |>
   addTiles() |>
-  setView(lng = long_jardin, lat = lat_jardin, zoom = 16) |> 
-  addMarkers(lng = long_jardin, lat = lat_jardin, 
-  popup = content)
+  #setView(lng = long_jardin, lat = lat_jardin, zoom = 16) |> 
+  addMarkers(lng = long_jardin, lat = lat_jardin, popup = content_jardin) |> 
+  addMarkers(lng = long_museo, lat = lat_museo, popup = content_museo) 
+  
 
 m
 ```
