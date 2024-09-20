@@ -32,3 +32,6 @@ toc: false
 Somos un grupo de [investigadores y gestores](people/index.qmd) de diversas instituciones españolas, unidos en un Grupo de Trabajo dedicado al estudio del decaimiento forestal. Nuestro objetivo es consolidar el conocimiento existente sobre los sistemas forestales afectados, donde se llevan a cabo trabajos de campo e investigaciones, para profundizar en la comprensión de este fenómeno y así contribuir a su gestión eficiente.
 
 Actualmente nos hemos constituido como [Grupo de Trabajo](https://www.aeet.org/es/gruposdetrabajo/redec.html) dentro de la [Asociación Española de Ecología Terrestre](https://www.aeet.org/). 
+
+## Formulario de Inscripción
+Si deseas pertenecer a la red, puedes rellenar el siguiente [**formulario**](https://redec.fillout.com/inscripcion), y nos pondremos en contacto contigo. 

@@ -143,6 +143,7 @@ ul.task-list li input[type="checkbox"] {
 </ul>
           </div> <!-- /navcollapse -->
           <div class="quarto-navbar-tools">
+    <a href="./redeciberica@gmail.com" title="" class="quarto-navigation-tool px-1" aria-label=""><i class="bi bi-envelope"></i></a>
 </div>
       </div> <!-- /container-fluid -->
     </nav>
@@ -174,6 +175,10 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="bienvenidos-a-la-web-de-la-red-ibérica-de-seguimiento-del-decaimiento-forestal">Bienvenidos a la web de la Red Ibérica de Seguimiento del Decaimiento Forestal</h3>
 <p>Somos un grupo de <a href="./people/index.html">investigadores y gestores</a> de diversas instituciones españolas, unidos en un Grupo de Trabajo dedicado al estudio del decaimiento forestal. Nuestro objetivo es consolidar el conocimiento existente sobre los sistemas forestales afectados, donde se llevan a cabo trabajos de campo e investigaciones, para profundizar en la comprensión de este fenómeno y así contribuir a su gestión eficiente.</p>
 <p>Actualmente nos hemos constituido como <a href="https://www.aeet.org/es/gruposdetrabajo/redec.html">Grupo de Trabajo</a> dentro de la <a href="https://www.aeet.org/">Asociación Española de Ecología Terrestre</a>.</p>
+</section>
+<section id="formulario-de-inscripción" class="level2">
+<h2 class="anchored" data-anchor-id="formulario-de-inscripción">Formulario de Inscripción</h2>
+<p>Si deseas pertenecer a la red, puedes rellenar el siguiente <a href="https://redec.fillout.com/inscripcion"><strong>formulario</strong></a>, y nos pondremos en contacto contigo.</p>
 
 
 </section>
@@ -260,7 +265,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/red-decaimiento\.github\.io\/redecweb\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -16,7 +16,7 @@ about:
       href: https://orcid.org/0000-0003-2366-6908
     - text: "{{< fa globe >}} Personal web"
       href: https://grupos.eez.csic.es/mae/manuel-fernandez-lopez/
-categories: [Interacciones planta-suelo, Interacciones bióticas]
+categories: [Interacciones planta-suelo, Interacciones bióticas, Ecología de Suelos]
 ---
  
 <hr>
@@ -24,7 +24,7 @@ categories: [Interacciones planta-suelo, Interacciones bióticas]
 :::{#person-profile}
 
 ## Grupo de Investigación
-- Microbiología de Ecosistemas Agroforestales
+- [Microbiología de Ecosistemas Agroforestales](https://grupos.eez.csic.es/mae/)
 
 ## Institución
 - [Estación Experimental del Zaidín. Consejo Superior de Investigaciones Científicas](https://www.eez.csic.es/)
