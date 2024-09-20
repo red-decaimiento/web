@@ -1,0 +1,30 @@
+---
+title: "Jesús Rodríguez Calcerrada"
+email: "jesus.rcalcerrada@upm.es"  
+image: avatar_rodriguez_calcerrada.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rodriguez_calcerrada.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jesus.rcalcerrada@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-7408-7653
+categories: [Ecofisiología, Dinámica forestal, Ecología Forestal, Selvicultura, Regeneración]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Functioning of Forest Systems in a Changing Environment (FORESCENT)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

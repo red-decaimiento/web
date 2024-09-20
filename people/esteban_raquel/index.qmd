@@ -1,0 +1,32 @@
+---
+title: "Raquel Esteban"
+email: "raquel.esteban@ehu.eus"  
+image: avatar_esteban_raquel.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_esteban_raquel.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: raquel.esteban@ehu.eus
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2560-3310
+    - text: "{{< fa globe >}} Personal web"
+      href: https://resteban224.wixsite.com/http-raquelesteban
+categories: [Ecofisiología, Compuestos de Fotoprotección]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- BEZ-EKOFISKO: Biodiversidad, Servicios Ecosistémicos y Ecofisiología del Estrés y de la Contaminación en Plantas
+
+## Institución
+- [Universidad del País Vascp](https://www.ehu.eus/es/)
+
+:::

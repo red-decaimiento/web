@@ -1,7 +1,6 @@
 ---
 title: "Elena Granda"
-email: "elena.granda@uah.es" 
-namesort: "granda_elena" 
+email: "elena.granda@uah.es"  
 image: avatar_granda_elena.jpg
 page-layout: full
 about: 

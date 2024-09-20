@@ -1,0 +1,30 @@
+---
+title: "María José Aroca Fernández"
+email: "pepa.aroca@upm.es"  
+image: avatar_aroca_fernandez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aroca_fernandez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: pepa.aroca@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0608-886X
+categories: [Edafología, Restauración, Gestión forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Gestión Forestal Sostenible (ECOGESFOR)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

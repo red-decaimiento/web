@@ -1,0 +1,28 @@
+---
+title: "Javier Alfaya Serrano"
+email: "jalfaya98@gmail.com"  
+image: avatar_alfaya_serrano.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_alfaya_serrano.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jalfaya98@gmail.com
+categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Laboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)
+
+## Institución
+- [Universidad Pablo de Olavide](https://www.upo.es/)
+
+:::

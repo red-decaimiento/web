@@ -1,0 +1,30 @@
+---
+title: "Pablo González Moreno"
+email: "ir2gomop@uco.es"  
+image: avatar_gonzalez_moreno.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gonzalez_moreno.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: ir2gomop@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9764-8927
+categories: [Especies Invasoras, Modelización, Dinámica forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

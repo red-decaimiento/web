@@ -1,0 +1,28 @@
+---
+title: "Elisabet Martínez Sancho"
+email: "eli.martinez@ub.edu"  
+image: avatar_martinez_sancho.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_martinez_sancho.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: eli.martinez@ub.edu
+categories: []
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universitat de Barcelona](https://web.ub.edu/)
+
+:::

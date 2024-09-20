@@ -1,0 +1,32 @@
+---
+title: "Aitor Gastón González"
+email: "aitor.gaston@upm.es"  
+image: avatar_gaston_gonzalez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gaston_gonzalez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: aitor.gaston@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0443-3909
+    - text: "{{< fa globe >}} Personal web"
+      href: https://blogs.upm.es/aitorgaston/
+categories: [Ecología Forestal, Modelización, Edafología, Biodiversidad]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Gestión Forestal Sostenible (ECOGESFOR)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

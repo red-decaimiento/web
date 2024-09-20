@@ -1,0 +1,30 @@
+---
+title: "José Luis Quero"
+email: "b62qupej@uco.es"  
+image: avatar_quero_jose.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_quero_jose.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: b62qupej@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5553-506X
+categories: [Ecofisiología, Teledetección, Inventario]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología Terrestre
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

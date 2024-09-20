@@ -1,0 +1,32 @@
+---
+title: "Francisco Javier Gallego Rodríguez"
+email: "fjgallego@bio.ucm.es"  
+image: avatar_gallego_rodriguez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gallego_rodriguez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: fjgallego@bio.ucm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9921-8960
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.ucm.es/genomicaagroalimentariayambiental/genetica-forestal
+categories: [Genética, Genómica, Dinámica forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+
+## Institución
+- [Universidad Complutense de Madrid](https://www.ucm.es/)
+
+:::

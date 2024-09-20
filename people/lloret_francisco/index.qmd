@@ -1,7 +1,6 @@
 ---
 title: "Francisco Lloret"
-email: "francisco.lloret@uab.cat" 
-namesort: "lloret_francisco" 
+email: "francisco.lloret@uab.cat"  
 image: avatar_lloret_francisco.jpg
 page-layout: full
 about: 
@@ -15,8 +14,6 @@ about:
       href: francisco.lloret@uab.cat
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9836-4069
-    - text: "{{< fa globe >}} Personal web"
-      href: https://www.creaf.cat/es/personal/francisco-lloret-maya
 categories: [Dinámica forestal, Dendroecología, Modelización]
 ---
  

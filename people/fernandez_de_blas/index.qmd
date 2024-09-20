@@ -1,0 +1,28 @@
+---
+title: "Cristopher Fernández de Blas"
+email: "cristopher.fernandez@uah.es"  
+image: avatar_fernandez_de_blas.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_fernandez_de_blas.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: cristopher.fernandez@uah.es
+categories: [Dinámica forestal, Ecofisiología, Inventario]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

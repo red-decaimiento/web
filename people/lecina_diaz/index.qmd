@@ -1,0 +1,30 @@
+---
+title: "Judit Lecina-Díaz"
+email: "judit.lecina@tum.de"  
+image: avatar_lecina_diaz.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_lecina_diaz.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: judit.lecina@tum.de
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6867-5886
+categories: [Dinámica forestal, Inventario, Gestión forestal, Monitorización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecosystem Dynamics and Forest Management in Mountain Landscapes
+
+## Institución
+- [Universidad Técnica de Munich](https://www.tum.de/en/)
+
+:::

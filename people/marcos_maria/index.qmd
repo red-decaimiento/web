@@ -1,0 +1,28 @@
+---
+title: "María José Marcos"
+email: "ag2mapam@uco.es"  
+image: avatar_marcos_maria.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_marcos_maria.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: ag2mapam@uco.es
+categories: [Teledetección]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología Terrestre
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

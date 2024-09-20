@@ -1,0 +1,30 @@
+---
+title: "Rocío Hernández-Clemente"
+email: "rociohc@uco.es"  
+image: avatar_hernandez_clemente.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hernandez_clemente.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rociohc@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-4434-8346
+categories: [Teledetección, Ecofisiología, Dinámica forestal, Modelización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología Terrestre
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

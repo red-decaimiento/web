@@ -1,7 +1,6 @@
 ---
 title: "Juan Carlos Linares"
-email: "jclincal@upo.es" 
-namesort: "linares_juan" 
+email: "jclincal@upo.es"  
 image: avatar_linares_juan.jpg
 page-layout: full
 about: 

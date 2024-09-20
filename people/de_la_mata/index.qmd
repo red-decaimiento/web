@@ -1,0 +1,32 @@
+---
+title: "Raúl de la Mata"
+email: "delamatapombo@yahoo.es"  
+image: avatar_de_la_mata.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_de_la_mata.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: delamatapombo@yahoo.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-1744-5543
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Raul-De-La-Mata-2
+categories: [Genética, Interacciones bióticas, Ecofisiología]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Instituto de Investigación de la Dehesa (INDEHESA)
+
+## Institución
+- [Universidad de Extremadura](https://www.unex.es/)
+
+:::

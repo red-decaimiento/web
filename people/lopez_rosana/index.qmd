@@ -1,0 +1,30 @@
+---
+title: "Rosana López"
+email: "rosanalop@gmail.com"  
+image: avatar_lopez_rosana.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_lopez_rosana.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: rosanalop@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3553-9148
+categories: [Ecofisiología, Dendroecología, Gestión forestal, Monitorización, Genética]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Functioning of Forest Systems in a Changing Environment (FORESCENT)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

@@ -1,0 +1,32 @@
+---
+title: "Luis Matías Resina"
+email: "lmatias@us.es"  
+image: avatar_matias_resina.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_matias_resina.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: lmatias@us.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5603-5390
+    - text: "{{< fa globe >}} Personal web"
+      href: https://sites.google.com/site/lmatiasecology/
+categories: [Dinámica forestal, Ecofisiología, Dendroecología, Interacciones bióticas]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad de Sevilla](https://www.us.es/)
+
+:::

@@ -1,7 +1,6 @@
 ---
 title: "Domingo Alcaraz"
 email: "dalcaraz@ugr.es"  
-namesort: "alcaraz_domingo"
 image: avatar_alcaraz_domingo.jpg
 page-layout: full
 about: 

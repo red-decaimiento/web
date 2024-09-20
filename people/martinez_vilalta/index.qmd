@@ -1,7 +1,6 @@
 ---
 title: "Jordi Martínez Vilalta"
-email: "jordi.martinez.vilalta@uab.es"
-namesort: "martinez_jordi"  
+email: "jordi.martinez.vilalta@uab.es"  
 image: avatar_martinez_vilalta.jpg
 page-layout: full
 about: 

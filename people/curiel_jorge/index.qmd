@@ -2,7 +2,6 @@
 title: "Jorge Curiel"
 email: "jorge.curiel@bc3research.org"  
 image: avatar_curiel_jorge.jpg
-namesort: "curiel_jorge"
 page-layout: full
 about: 
   id: person-profile

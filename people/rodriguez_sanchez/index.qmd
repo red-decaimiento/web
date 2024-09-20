@@ -1,0 +1,32 @@
+---
+title: "Francisco Rodríguez Sánchez"
+email: "frodriguez@us.es"  
+image: avatar_rodriguez_sanchez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rodriguez_sanchez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: frodriguez@us.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7981-1599
+    - text: "{{< fa globe >}} Personal web"
+      href: https://frodriguezsanchez.net/
+categories: [Modelización, Monitorización, Interacciones bióticas]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Computational Ecology and Global Change (MAYBE_lab)
+
+## Institución
+- [Universidad de Sevilla](https://www.us.es/)
+
+:::

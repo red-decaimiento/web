@@ -1,0 +1,33 @@
+---
+title: "Julio Javier Diez Casero"
+email: "juliojavier.diez@uva.es"  
+image: avatar_diez_casero.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_diez_casero.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: juliojavier.diez@uva.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-0558-8141
+    - text: "{{< fa globe >}} Personal web"
+      href: https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=b7574af43e9e6f09&idioma=es&tipo=activ,&elmeucv=N
+categories: [Patología, Micología, Virología, Control Biológico, Decaimientos]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Patología Forestal
+- Control Biológico Forestal
+
+## Institución
+- [Universidad de Valladolid](https://www.uva.es/)
+
+:::

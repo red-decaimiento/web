@@ -1,0 +1,32 @@
+---
+title: "Raúl García Valdés"
+email: "raul.garcia.valdes@urjc.es"  
+image: avatar_garcia_valdes.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_garcia_valdes.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: raul.garcia.valdes@urjc.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-6399-4709
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Raul-Garcia-Valdes
+categories: [Dinámica forestal, Modelización, Inventario, Teledetección]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+
+## Institución
+- [Universidad Rey Juan Carlos](https://www.urjc.es/)
+
+:::

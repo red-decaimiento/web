@@ -1,7 +1,6 @@
 ---
 title: "Regino Zamora Rodríguez"
-email: "rzamora@ugr.es"
-namesort: "zamora_regino"  
+email: "rzamora@ugr.es"  
 image: avatar_zamora_rodriguez.jpg
 page-layout: full
 about: 

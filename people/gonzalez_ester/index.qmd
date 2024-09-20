@@ -1,7 +1,6 @@
 ---
 title: "Ester González"
-email: "ester.gonzalez@ipe.csic.es"
-namesort: "gonzalez_ester"  
+email: "ester.gonzalez@ipe.csic.es"  
 image: avatar_gonzalez_ester.jpg
 page-layout: full
 about: 

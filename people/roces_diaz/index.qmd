@@ -1,0 +1,32 @@
+---
+title: "José Valentín (Pipo) Roces Díaz"
+email: "jvroces@gmail.com"  
+image: avatar_roces_diaz.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_roces_diaz.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jvroces@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2569-8049
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Jose-V-Roces-Diaz
+categories: [Teledetección, Dinámica del Paisaje, Dinámica forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Landscape & Fire Lab
+
+## Institución
+- [Instituto Mixto de Investigación en Biodiversidad. Universidad de Ovideo-CSIC](https://imib.csic.es/)
+
+:::

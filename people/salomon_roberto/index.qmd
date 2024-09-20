@@ -1,0 +1,30 @@
+---
+title: "Roberto L. Salomón"
+email: "roberto.salomon@upm.es"  
+image: avatar_salomon_roberto.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_salomon_roberto.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: roberto.salomon@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2674-1731
+categories: [Ecofisiología, Modelización, Dendroecología, Gestión forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Functioning of Forest Systems in a Changing Environment (FORESCENT)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

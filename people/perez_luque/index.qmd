@@ -1,7 +1,6 @@
 ---
 title: "Antonio J. Pérez-Luque"
-email: "antonio.perez@inia.csic.es"
-namesort: "perez_antonio"  
+email: "antonio.perez@inia.csic.es"  
 image: avatar_perez_luque.jpg
 page-layout: full
 about: 

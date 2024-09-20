@@ -1,0 +1,28 @@
+---
+title: "Juan A. Martín García"
+email: "juan.martin.garcia@upm.es"  
+image: avatar_martin_garcia.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_martin_garcia.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: juan.martin.garcia@upm.es
+categories: []
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

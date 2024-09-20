@@ -1,0 +1,32 @@
+---
+title: "Álvaro Rubio Cuadrado"
+email: "alvaro.rubio.cuadrado@upm.es"  
+image: avatar_rubio_cuadrado.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rubio_cuadrado.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: alvaro.rubio.cuadrado@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5299-6063
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Alvaro-Rubio-Cuadrado
+categories: [Dendroecología, Dinámica forestal, Modelización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Functioning of Forest Systems in a Changing Environment (FORESCENT)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

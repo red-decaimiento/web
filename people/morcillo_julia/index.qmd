@@ -1,7 +1,6 @@
 ---
 title: "Luna Morcillo Julià"
-email: "luna@ua.es"
-namesort: "morcillo_luna"  
+email: "luna@ua.es"  
 image: avatar_morcillo_julia.jpg
 page-layout: full
 about: 

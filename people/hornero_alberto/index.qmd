@@ -1,0 +1,32 @@
+---
+title: "Alberto Hornero"
+email: "alberto.hornero@csic.es"  
+image: avatar_hornero_alberto.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hornero_alberto.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: alberto.hornero@csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8434-2168
+    - text: "{{< fa globe >}} Personal web"
+      href: https://ahornero.com
+categories: [Teledetección, Dinámica forestal, Modelización, Monitorización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Laboratory for Research Methods in Quantitative Remote Sensing
+
+## Institución
+- [Instituto de Agricultura Sostenible. Consejo Superior de Investigaciones Científicas](https://www.ias.csic.es/)
+
+:::

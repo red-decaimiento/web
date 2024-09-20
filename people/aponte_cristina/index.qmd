@@ -1,7 +1,6 @@
 ---
 title: "Cristina Aponte"
-email: "cristina.aponte@inia.csic.es" 
-namesort: "aponte_cristina"
+email: "cristina.aponte@inia.csic.es"  
 image: avatar_aponte_cristina.jpg
 page-layout: full
 about: 

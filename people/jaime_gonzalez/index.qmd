@@ -1,7 +1,6 @@
 ---
 title: "Luciana Jaime González"
-email: "lujaimegonzalez@gmail.com" 
-namesort: "gonzalez_jaime" 
+email: "lujaimegonzalez@gmail.com"  
 image: avatar_jaime_gonzalez.jpg
 page-layout: full
 about: 

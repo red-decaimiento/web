@@ -1,7 +1,6 @@
 ---
 title: "Miren del Río"
 email: "delrio@inia.csic.es"  
-namesort: "del_rio"
 image: avatar_del_rio.jpg
 page-layout: full
 about: 

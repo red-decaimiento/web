@@ -1,7 +1,6 @@
 ---
 title: "Paloma Ruiz Benito"
-email: "paloma.ruizb@uah.es"
-namesort: "ruiz_paloma" 
+email: "paloma.ruizb@uah.es"  
 image: avatar_ruiz_benito.jpg
 page-layout: full
 about: 

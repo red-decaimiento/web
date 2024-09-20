@@ -1,7 +1,6 @@
 ---
 title: "Carmen Romeralo Tapia"
-email: "carmen.romeralo@inia.csic.es" 
-namesort: "romeralo_carmen" 
+email: "carmen.romeralo@inia.csic.es"  
 image: avatar_romeralo_tapia.jpg
 page-layout: full
 about: 

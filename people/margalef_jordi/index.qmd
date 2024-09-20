@@ -1,7 +1,6 @@
 ---
 title: "Jordi Margalef"
-email: "jmargalefmarrase@gmail.com"
-namesort: "margalef_jordi"  
+email: "jmargalefmarrase@gmail.com"  
 image: avatar_margalef_jordi.jpg
 page-layout: full
 about: 

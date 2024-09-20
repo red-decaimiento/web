@@ -1,0 +1,32 @@
+---
+title: "Mariano Moreno de las Heras"
+email: "mariano.moreno@ub.edu"  
+image: avatar_moreno_de_las_heras.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_moreno_de_las_heras.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mariano.moreno@ub.edu
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3366-5060
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Mariano-Moreno-De-Las-Heras
+categories: [Interacciones planta-suelo, Restauración, Dinámica forestal, Monitorización, Gestión forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- GRAM: Grup de Recerca Ambiental Mediterrània
+
+## Institución
+- [Universitat de Barcelona](https://web.ub.edu/)
+
+:::

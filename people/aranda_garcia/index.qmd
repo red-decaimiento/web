@@ -1,0 +1,30 @@
+---
+title: "Ismael Aranda García"
+email: "aranda@inia.csic.es"  
+image: avatar_aranda_garcia.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aranda_garcia.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: aranda@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9086-7940
+categories: [Ecofisiología, Metabolómica, Ecología Forestal, Regeneración]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
+
+## Institución
+- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

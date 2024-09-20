@@ -1,0 +1,30 @@
+---
+title: "Juan Ignacio García Viñas"
+email: "juanignacio.garcia@upm.es"  
+image: avatar_garcia_vinas.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_garcia_vinas.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: juanignacio.garcia@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0024-8917
+categories: [Dinámica forestal, Biodiversidad, Monitorización, Inventario]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología y Gestión Forestal Sostenible (ECOGESFOR)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

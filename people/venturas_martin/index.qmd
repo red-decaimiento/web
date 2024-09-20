@@ -1,0 +1,32 @@
+---
+title: "Martín Venturas"
+email: "martin.venturas@upm.es"  
+image: avatar_venturas_martin.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_venturas_martin.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: martin.venturas@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5972-9064
+    - text: "{{< fa globe >}} Personal web"
+      href: www.martinventuras.com
+categories: [Ecofisiología, Modelización, Hidráulica vegetal, Gestión forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Functioning of Forest Systems in a Changing Environment (FORESCENT)
+
+## Institución
+- [Universidad Politécnica de Madrid](https://www.upm.es/)
+
+:::

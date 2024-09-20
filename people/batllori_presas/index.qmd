@@ -1,0 +1,31 @@
+---
+title: "Enric Batllori Presas"
+email: "enric.batllori@ub.edu"  
+image: avatar_carreira_de_la_fuente.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_batllori_presas.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: enric.batllori@ub.edu
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2130-0489
+    - text: "{{< fa globe >}} Personal web"
+      href: https://investigacion.ujaen.es/investigadores/191321/detalle
+categories: [Dinámica forestal, Biogeografía, Dendroecología]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+## Institución
+- [Universitat de Barcelona](https://web.ub.edu/es/)
+
+:::

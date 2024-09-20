@@ -1,0 +1,28 @@
+---
+title: "Adrián Escudero Alcántara"
+email: "adrian.escudero@urjc.es"  
+image: avatar_escudero_alcantara.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_escudero_alcantara.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: adrian.escudero@urjc.es
+categories: []
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Investigación Forestal
+
+## Institución
+- [Universidad Rey Juan Carlos](https://www.urjc.es/)
+
+:::

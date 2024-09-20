@@ -1,0 +1,28 @@
+---
+title: "Francisco Tomás-Riera"
+email: "fran.tomas.riera@gmail.com"  
+image: avatar_tomas_riera.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_tomas_riera.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: fran.tomas.riera@gmail.com
+categories: [Teledetección]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

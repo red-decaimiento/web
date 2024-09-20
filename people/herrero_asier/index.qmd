@@ -1,7 +1,6 @@
 ---
 title: "Asier Herrero"
-email: "asier.herrero@ehu.eus" 
-namesort: "herrero_asier" 
+email: "asier.herrero@ehu.eus"  
 image: avatar_herrero_asier.jpg
 page-layout: full
 about: 

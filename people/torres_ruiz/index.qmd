@@ -1,0 +1,30 @@
+---
+title: "José M. Torres-Ruiz"
+email: "jmtorresruiz@irnas.csic.es"  
+image: avatar_torres_ruiz.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_torres_ruiz.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jmtorresruiz@irnas.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-1367-7056
+categories: [Ecofisiología]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecofisiología Vegetal y Riego (ECOVER)
+
+## Institución
+- [Instituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas](https://www.irnas.csic.es/)
+
+:::

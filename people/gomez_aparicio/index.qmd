@@ -1,7 +1,6 @@
 ---
 title: "Lorena Gómez Aparicio"
-email: "lorenag@irnase.csic.es" 
-namesort: "gomez_lorena" 
+email: "lorenag@irnase.csic.es"  
 image: avatar_gomez_aparicio.jpg
 page-layout: full
 about: 

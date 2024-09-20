@@ -1,0 +1,32 @@
+---
+title: "Julen Astigarraga"
+email: "julenastigarraga@gmail.com"  
+image: avatar_astigarraga_julen.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_astigarraga_julen.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: julenastigarraga@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9520-3713
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.researchgate.net/profile/Julen-Astigarraga
+categories: [Inventario, Dinámica forestal, Modelización, Monitorización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Ecología y Restauración Forestal
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::

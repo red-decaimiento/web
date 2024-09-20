@@ -1,0 +1,30 @@
+---
+title: "Cristina Acosta"
+email: "cristina.acostamunoz@gmail.com"  
+image: avatar_acosta_cristina.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_acosta_cristina.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: cristina.acostamunoz@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9796-6367
+categories: [Teledetección, Dinámica forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::

@@ -1,0 +1,28 @@
+---
+title: "Alejandro Solla"
+email: "asolla@unex.es"  
+image: avatar_solla_alejandro.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_solla_alejandro.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: asolla@unex.es
+categories: []
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- [Universidad de Extremadura](https://www.unex.es/)
+
+:::
