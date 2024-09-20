@@ -17,6 +17,9 @@ website:
         href: https://github.com/red-decaimiento/web
         
   navbar:
+    tools:
+      - icon: envelope
+        href: redeciberica@gmail.com
     left:
       - href: about.qmd
         text: La red
