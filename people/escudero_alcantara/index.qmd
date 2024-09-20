@@ -1,6 +1,7 @@
 ---
 title: "Adrián Escudero Alcántara"
 email: "adrian.escudero@urjc.es"  
+namesort: "escudero_alcantara"
 image: avatar_escudero_alcantara.jpg
 page-layout: full
 about: 

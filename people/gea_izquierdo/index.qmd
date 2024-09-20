@@ -1,6 +1,7 @@
 ---
 title: "Guillermo Gea Izquierdo"
 email: "gea.guillermo@inia.csic.es"  
+namesort: "gea_izquierdo"
 image: avatar_gea_izquierdo.jpg
 page-layout: full
 about: 

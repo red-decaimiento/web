@@ -1,6 +1,7 @@
 ---
 title: "Francisco Lloret"
 email: "francisco.lloret@uab.cat"  
+namesort: "lloret_francisco"
 image: avatar_lloret_francisco.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Rosana López"
 email: "rosanalop@gmail.com"  
+namesort: "lopez_rosana"
 image: avatar_lopez_rosana.jpg
 page-layout: full
 about: 

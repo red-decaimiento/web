@@ -1,6 +1,7 @@
 ---
 title: "Francisco Tomás-Riera"
 email: "fran.tomas.riera@gmail.com"  
+namesort: "tomas_riera"
 image: avatar_tomas_riera.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Francisco Javier Gallego Rodríguez"
 email: "fjgallego@bio.ucm.es"  
+namesort: "gallego_rodriguez"
 image: avatar_gallego_rodriguez.jpg
 page-layout: full
 about: 

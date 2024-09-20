@@ -1,6 +1,7 @@
 ---
 title: "Raúl de la Mata"
 email: "delamatapombo@yahoo.es"  
+namesort: "de_la_mata"
 image: avatar_de_la_mata.jpg
 page-layout: full
 about: 

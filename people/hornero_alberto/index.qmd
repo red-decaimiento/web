@@ -1,6 +1,7 @@
 ---
 title: "Alberto Hornero"
 email: "alberto.hornero@csic.es"  
+namesort: "hornero_alberto"
 image: avatar_hornero_alberto.jpg
 page-layout: full
 about: 

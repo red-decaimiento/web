@@ -1,6 +1,7 @@
 ---
 title: "José Luis Quero"
 email: "b62qupej@uco.es"  
+namesort: "quero_jose"
 image: avatar_quero_jose.jpg
 page-layout: full
 about: 

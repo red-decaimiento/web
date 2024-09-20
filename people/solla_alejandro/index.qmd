@@ -1,6 +1,7 @@
 ---
 title: "Alejandro Solla"
 email: "asolla@unex.es"  
+namesort: "solla_alejandro"
 image: avatar_solla_alejandro.jpg
 page-layout: full
 about: 

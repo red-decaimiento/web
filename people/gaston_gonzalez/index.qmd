@@ -1,6 +1,7 @@
 ---
 title: "Aitor Gastón González"
 email: "aitor.gaston@upm.es"  
+namesort: "gaston_gonzalez"
 image: avatar_gaston_gonzalez.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Martín Venturas"
 email: "martin.venturas@upm.es"  
+namesort: "venturas_martin"
 image: avatar_venturas_martin.jpg
 page-layout: full
 about: 

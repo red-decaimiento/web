@@ -1,6 +1,7 @@
 ---
 title: "Francisco Rodríguez Sánchez"
 email: "frodriguez@us.es"  
+namesort: "rodriguez_sanchez"
 image: avatar_rodriguez_sanchez.jpg
 page-layout: full
 about: 

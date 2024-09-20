@@ -1,6 +1,7 @@
 ---
 title: "Manuel Fernández López"
 email: "manuel.fernandez@eez.csic.es"  
+namesort: "fernandez_lopez"
 image: avatar_fernandez_lopez.jpg
 page-layout: full
 about: 

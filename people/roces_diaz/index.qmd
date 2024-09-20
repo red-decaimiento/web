@@ -1,6 +1,7 @@
 ---
 title: "José Valentín (Pipo) Roces Díaz"
 email: "jvroces@gmail.com"  
+namesort: "roces_diaz"
 image: avatar_roces_diaz.jpg
 page-layout: full
 about: 

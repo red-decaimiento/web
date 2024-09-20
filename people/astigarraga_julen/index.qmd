@@ -1,6 +1,7 @@
 ---
 title: "Julen Astigarraga"
 email: "julenastigarraga@gmail.com"  
+namesort: "astigarraga_julen"
 image: avatar_astigarraga_julen.jpg
 page-layout: full
 about: 

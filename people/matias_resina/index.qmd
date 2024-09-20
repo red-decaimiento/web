@@ -1,6 +1,7 @@
 ---
 title: "Luis Matías Resina"
 email: "lmatias@us.es"  
+namesort: "matias_resina"
 image: avatar_matias_resina.jpg
 page-layout: full
 about: 

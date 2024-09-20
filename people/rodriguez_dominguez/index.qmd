@@ -1,6 +1,7 @@
 ---
 title: "Celia Rodríguez Dominguez"
 email: "crodriguez@irnas.csic.es"  
+namesort: "rodriguez_dominguez"
 image: avatar_rodriguez_dominguez.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Juan Ignacio García Viñas"
 email: "juanignacio.garcia@upm.es"  
+namesort: "garcia_vinas"
 image: avatar_garcia_vinas.jpg
 page-layout: full
 about: 

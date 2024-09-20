@@ -1,6 +1,7 @@
 ---
 title: "José M. Torres-Ruiz"
 email: "jmtorresruiz@irnas.csic.es"  
+namesort: "torres_ruiz"
 image: avatar_torres_ruiz.jpg
 page-layout: full
 about: 

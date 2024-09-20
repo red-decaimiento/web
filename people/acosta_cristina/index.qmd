@@ -1,6 +1,7 @@
 ---
 title: "Cristina Acosta"
 email: "cristina.acostamunoz@gmail.com"  
+namesort: "acosta_cristina"
 image: avatar_acosta_cristina.jpg
 page-layout: full
 about: 

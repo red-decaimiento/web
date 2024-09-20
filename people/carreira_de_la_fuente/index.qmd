@@ -1,6 +1,7 @@
 ---
 title: "José Antonio Carreira de la Fuente"
 email: "jafuente@ujaen.es"  
+namesort: "carreira_de_la_fuente"
 image: avatar_carreira_de_la_fuente.jpg
 page-layout: full
 about: 

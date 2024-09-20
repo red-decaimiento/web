@@ -1,6 +1,7 @@
 ---
 title: "Julio Javier Diez Casero"
 email: "juliojavier.diez@uva.es"  
+namesort: "diez_casero"
 image: avatar_diez_casero.jpg
 page-layout: full
 about: 

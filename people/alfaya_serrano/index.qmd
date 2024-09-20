@@ -1,6 +1,7 @@
 ---
 title: "Javier Alfaya Serrano"
 email: "jalfaya98@gmail.com"  
+namesort: "alfaya_serrano"
 image: avatar_alfaya_serrano.jpg
 page-layout: full
 about: 

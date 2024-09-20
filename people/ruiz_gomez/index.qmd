@@ -1,6 +1,7 @@
 ---
 title: "Francisco José Ruiz Gómez"
 email: "g72rugof@uco.es"  
+namesort: "ruiz_gomez"
 image: avatar_ruiz_gomez.jpg
 page-layout: full
 about: 

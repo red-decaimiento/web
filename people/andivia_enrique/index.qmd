@@ -1,6 +1,7 @@
 ---
 title: "Enrique Andivia"
 email: "eandivia@ucm.es"  
+namesort: "andivia_enrique"
 image: avatar_andivia_enrique.jpg
 page-layout: full
 about: 

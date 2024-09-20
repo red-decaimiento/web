@@ -1,6 +1,7 @@
 ---
 title: "Juan A. Martín García"
 email: "juan.martin.garcia@upm.es"  
+namesort: "martin_garcia"
 image: avatar_martin_garcia.jpg
 page-layout: full
 about: 

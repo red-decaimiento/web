@@ -1,6 +1,7 @@
 ---
 title: "Cristopher Fernández de Blas"
 email: "cristopher.fernandez@uah.es"  
+namesort: "fernandez_de_blas"
 image: avatar_fernandez_de_blas.jpg
 page-layout: full
 about: 

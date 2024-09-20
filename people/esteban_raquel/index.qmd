@@ -1,6 +1,7 @@
 ---
 title: "Raquel Esteban"
 email: "raquel.esteban@ehu.eus"  
+namesort: "esteban_raquel"
 image: avatar_esteban_raquel.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Ismael Aranda García"
 email: "aranda@inia.csic.es"  
+namesort: "aranda_garcia"
 image: avatar_aranda_garcia.jpg
 page-layout: full
 about: 

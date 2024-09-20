@@ -1,6 +1,7 @@
 ---
 title: "Mariano García Alonso"
 email: "mariano.garcia@uah.es"  
+namesort: "garcia_alonso"
 image: avatar_garcia_alonso.jpg
 page-layout: full
 about: 

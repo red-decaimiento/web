@@ -1,6 +1,7 @@
 ---
 title: "Elisabet Martínez Sancho"
 email: "eli.martinez@ub.edu"  
+namesort: "martinez_sancho"
 image: avatar_martinez_sancho.jpg
 page-layout: full
 about: 

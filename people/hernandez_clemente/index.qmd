@@ -1,6 +1,7 @@
 ---
 title: "Rocío Hernández-Clemente"
 email: "rociohc@uco.es"  
+namesort: "hernandez_clemente"
 image: avatar_hernandez_clemente.jpg
 page-layout: full
 about: 

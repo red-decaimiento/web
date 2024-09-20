@@ -1,6 +1,7 @@
 ---
 title: "Miguel A. Zavala"
 email: "ma.zavala@uah.es"  
+namesort: "zavala_miguel"
 image: avatar_zavala_miguel.jpg
 page-layout: full
 about: 

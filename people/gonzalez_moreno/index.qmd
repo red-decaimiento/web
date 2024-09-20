@@ -1,6 +1,7 @@
 ---
 title: "Pablo González Moreno"
 email: "ir2gomop@uco.es"  
+namesort: "gonzalez_moreno"
 image: avatar_gonzalez_moreno.jpg
 page-layout: full
 about: 

@@ -1,6 +1,7 @@
 ---
 title: "Marta Pardos"
 email: "pardos@inia.csic.es"  
+namesort: "pardos_marta"
 image: avatar_pardos_marta.jpg
 page-layout: full
 about: 

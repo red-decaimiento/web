@@ -1,6 +1,7 @@
 ---
 title: "Rafael M. Navarro-Cerrillo"
 email: "rmnavarro@uco.es"  
+namesort: "navarro_cerrillo"
 image: avatar_navarro_cerrillo.jpg
 page-layout: full
 about: 

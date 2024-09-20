@@ -1,6 +1,7 @@
 ---
 title: "Roberto L. Salomón"
 email: "roberto.salomon@upm.es"  
+namesort: "salomon_roberto"
 image: avatar_salomon_roberto.jpg
 page-layout: full
 about: 

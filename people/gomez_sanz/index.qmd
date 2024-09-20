@@ -1,6 +1,7 @@
 ---
 title: "Valentín Gómez Sanz"
 email: "valentín.gomez@upm.es"  
+namesort: "gomez_sanz"
 image: avatar_gomez_sanz.jpg
 page-layout: full
 about: 

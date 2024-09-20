@@ -19,7 +19,7 @@ website:
   navbar:
     tools:
       - icon: envelope
-        href: redeciberica@gmail.com
+        href: mailto:redeciberica@gmail.com
     left:
       - href: about.qmd
         text: La red

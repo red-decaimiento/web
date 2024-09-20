@@ -1,6 +1,7 @@
 ---
 title: "Jonàs Oliva Palau"
 email: "jonas.oliva@udl.cat"  
+namesort: "oliva_palau"
 image: avatar_oliva_palau.jpg
 page-layout: full
 about: 

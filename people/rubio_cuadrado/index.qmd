@@ -1,6 +1,7 @@
 ---
 title: "Álvaro Rubio Cuadrado"
 email: "alvaro.rubio.cuadrado@upm.es"  
+namesort: "rubio_cuadrado"
 image: avatar_rubio_cuadrado.jpg
 page-layout: full
 about: 

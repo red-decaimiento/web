@@ -1,5 +1,7 @@
 library(tidyverse)
 library(here)
+library(glue)
+library(stringi)
 
 
 # Read files 
@@ -113,6 +115,7 @@ for (i in 1:nrow(person)) {
   ---
   title: \"{paste(x$name_first,x$name_last, sep=" ")}\"
   email: \"{x$person_mail}\"  
+  namesort: \"{name_dir(x$name_last, x$name_first)}\"
   image: {paste0("avatar_", name_dir(x$name_last, x$name_first), ".jpg")}
   page-layout: full
   about: 
@@ -147,7 +150,6 @@ for (i in 1:nrow(person)) {
 
 
 
-
 ## Custom loop to add images 
 for (i in 1:nrow(person)) {
   
@@ -175,7 +177,7 @@ fff <- list.files(here::here("people"),
 
 lapply(fff, unlink)
 
-
+e
 
 
 

@@ -1,6 +1,7 @@
 ---
 title: "Mariano Moreno de las Heras"
 email: "mariano.moreno@ub.edu"  
+namesort: "moreno_de_las_heras"
 image: avatar_moreno_de_las_heras.jpg
 page-layout: full
 about: 

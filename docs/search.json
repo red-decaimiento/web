@@ -1,17 +1,31 @@
 [
   {
-    "objectID": "people/andivia_enrique/index.html#grupo-de-investigación",
-    "href": "people/andivia_enrique/index.html#grupo-de-investigación",
-    "title": "Enrique Andivia",
+    "objectID": "people/gonzalez_moreno/index.html#grupo-de-investigación",
+    "href": "people/gonzalez_moreno/index.html#grupo-de-investigación",
+    "title": "Pablo González Moreno",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nForest Restoration and Adaptation Lab\nGrupo de Ecología y Restauración Forestal"
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
   },
   {
-    "objectID": "people/andivia_enrique/index.html#institución",
-    "href": "people/andivia_enrique/index.html#institución",
-    "title": "Enrique Andivia",
+    "objectID": "people/gonzalez_moreno/index.html#institución",
+    "href": "people/gonzalez_moreno/index.html#institución",
+    "title": "Pablo González Moreno",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad Complutense de Madrid"
+    "text": "Institución\n\nUniversidad de Córdoba"
+  },
+  {
+    "objectID": "people/gonzalez_ester/index.html#grupo-de-investigación",
+    "href": "people/gonzalez_ester/index.html#grupo-de-investigación",
+    "title": "Ester González",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/gonzalez_ester/index.html#institución",
+    "href": "people/gonzalez_ester/index.html#institución",
+    "title": "Ester González",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/zavala_miguel/index.html#grupo-de-investigación",
@@ -42,18 +56,46 @@
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/martinez_vilalta/index.html#grupo-de-investigación",
-    "href": "people/martinez_vilalta/index.html#grupo-de-investigación",
-    "title": "Jordi Martínez Vilalta",
+    "objectID": "people/hornero_alberto/index.html#grupo-de-investigación",
+    "href": "people/hornero_alberto/index.html#grupo-de-investigación",
+    "title": "Alberto Hornero",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcoPhys: Fisiología ecosistémica y cambio global\nFunctional biogeography and resilience of terrestrial ecosystems (RESET)"
+    "text": "Grupo de Investigación\n\nLaboratory for Research Methods in Quantitative Remote Sensing"
   },
   {
-    "objectID": "people/martinez_vilalta/index.html#institución",
-    "href": "people/martinez_vilalta/index.html#institución",
-    "title": "Jordi Martínez Vilalta",
+    "objectID": "people/hornero_alberto/index.html#institución",
+    "href": "people/hornero_alberto/index.html#institución",
+    "title": "Alberto Hornero",
     "section": "Institución",
-    "text": "Institución\n\nCentro de Investigación Ecológica y Aplicaciones Forestales"
+    "text": "Institución\n\nInstituto de Agricultura Sostenible. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/venturas_martin/index.html#grupo-de-investigación",
+    "href": "people/venturas_martin/index.html#grupo-de-investigación",
+    "title": "Martín Venturas",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
+  },
+  {
+    "objectID": "people/venturas_martin/index.html#institución",
+    "href": "people/venturas_martin/index.html#institución",
+    "title": "Martín Venturas",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/garcia_alonso/index.html#grupo-de-investigación",
+    "href": "people/garcia_alonso/index.html#grupo-de-investigación",
+    "title": "Mariano García Alonso",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)"
+  },
+  {
+    "objectID": "people/garcia_alonso/index.html#institución",
+    "href": "people/garcia_alonso/index.html#institución",
+    "title": "Mariano García Alonso",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
   },
   {
     "objectID": "people/camarero_jesus/index.html#grupo-de-investigación",
@@ -84,60 +126,102 @@
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/martin_benito/index.html#grupo-de-investigación",
-    "href": "people/martin_benito/index.html#grupo-de-investigación",
-    "title": "Darío Martín Benito",
+    "objectID": "people/morcillo_julia/index.html#grupo-de-investigación",
+    "href": "people/morcillo_julia/index.html#grupo-de-investigación",
+    "title": "Luna Morcillo Julià",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+    "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/martin_benito/index.html#institución",
-    "href": "people/martin_benito/index.html#institución",
-    "title": "Darío Martín Benito",
+    "objectID": "people/morcillo_julia/index.html#institución",
+    "href": "people/morcillo_julia/index.html#institución",
+    "title": "Luna Morcillo Julià",
+    "section": "Institución",
+    "text": "Institución\n\nCentro de Estudios Ambientales del Mediterráneo"
+  },
+  {
+    "objectID": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
+    "href": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
+    "title": "Alberto Vilagrosa Carmona",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación Forestal"
+  },
+  {
+    "objectID": "people/vilagrosa_carmona/index.html#institución",
+    "href": "people/vilagrosa_carmona/index.html#institución",
+    "title": "Alberto Vilagrosa Carmona",
+    "section": "Institución",
+    "text": "Institución\n\nCentro de Estudios Ambientales del Mediterráneo"
+  },
+  {
+    "objectID": "people/ruiz_benito/index.html#grupo-de-investigación",
+    "href": "people/ruiz_benito/index.html#grupo-de-investigación",
+    "title": "Paloma Ruiz Benito",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales\nGrupo de Investigación en Teledetección Ambiental (GITA)"
+  },
+  {
+    "objectID": "people/ruiz_benito/index.html#institución",
+    "href": "people/ruiz_benito/index.html#institución",
+    "title": "Paloma Ruiz Benito",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/del_rio/index.html#grupo-de-investigación",
+    "href": "people/del_rio/index.html#grupo-de-investigación",
+    "title": "Miren del Río",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/del_rio/index.html#institución",
+    "href": "people/del_rio/index.html#institución",
+    "title": "Miren del Río",
     "section": "Institución",
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/zamora_rodriguez/index.html#grupo-de-investigación",
-    "href": "people/zamora_rodriguez/index.html#grupo-de-investigación",
-    "title": "Regino Zamora Rodríguez",
+    "objectID": "people/gomez_sanz/index.html#grupo-de-investigación",
+    "href": "people/gomez_sanz/index.html#grupo-de-investigación",
+    "title": "Valentín Gómez Sanz",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
+    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
   },
   {
-    "objectID": "people/zamora_rodriguez/index.html#institución",
-    "href": "people/zamora_rodriguez/index.html#institución",
-    "title": "Regino Zamora Rodríguez",
+    "objectID": "people/gomez_sanz/index.html#institución",
+    "href": "people/gomez_sanz/index.html#institución",
+    "title": "Valentín Gómez Sanz",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad de Granada"
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
   },
   {
-    "objectID": "people/linares_juan/index.html#grupo-de-investigación",
-    "href": "people/linares_juan/index.html#grupo-de-investigación",
-    "title": "Juan Carlos Linares",
+    "objectID": "people/martin_garcia/index.html#grupo-de-investigación",
+    "href": "people/martin_garcia/index.html#grupo-de-investigación",
+    "title": "Juan A. Martín García",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nDendrOlavide Lab"
+    "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/linares_juan/index.html#institución",
-    "href": "people/linares_juan/index.html#institución",
-    "title": "Juan Carlos Linares",
+    "objectID": "people/martin_garcia/index.html#institución",
+    "href": "people/martin_garcia/index.html#institución",
+    "title": "Juan A. Martín García",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad Pablo de Olavide"
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
   },
   {
-    "objectID": "people/rodes_blanco/index.html#grupo-de-investigación",
-    "href": "people/rodes_blanco/index.html#grupo-de-investigación",
-    "title": "Marina Rodes Blanco",
+    "objectID": "people/torres_ruiz/index.html#grupo-de-investigación",
+    "href": "people/torres_ruiz/index.html#grupo-de-investigación",
+    "title": "José M. Torres-Ruiz",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)\nGrupo de Ecología y Restauración Forestal"
+    "text": "Grupo de Investigación\n\nEcofisiología Vegetal y Riego (ECOVER)"
   },
   {
-    "objectID": "people/rodes_blanco/index.html#institución",
-    "href": "people/rodes_blanco/index.html#institución",
-    "title": "Marina Rodes Blanco",
+    "objectID": "people/torres_ruiz/index.html#institución",
+    "href": "people/torres_ruiz/index.html#institución",
+    "title": "José M. Torres-Ruiz",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+    "text": "Institución\n\nInstituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/index.html",
@@ -161,18 +245,74 @@
     "text": "Miembros"
   },
   {
-    "objectID": "people/granda_elena/index.html#grupo-de-investigación",
-    "href": "people/granda_elena/index.html#grupo-de-investigación",
-    "title": "Elena Granda",
+    "objectID": "people/lecina_diaz/index.html#grupo-de-investigación",
+    "href": "people/lecina_diaz/index.html#grupo-de-investigación",
+    "title": "Judit Lecina-Díaz",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Invasiones Biológicas\nGrupo de Ecología y Restauración Forestal"
+    "text": "Grupo de Investigación\n\nEcosystem Dynamics and Forest Management in Mountain Landscapes"
   },
   {
-    "objectID": "people/granda_elena/index.html#institución",
-    "href": "people/granda_elena/index.html#institución",
-    "title": "Elena Granda",
+    "objectID": "people/lecina_diaz/index.html#institución",
+    "href": "people/lecina_diaz/index.html#institución",
+    "title": "Judit Lecina-Díaz",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+    "text": "Institución\n\nUniversidad Técnica de Munich"
+  },
+  {
+    "objectID": "people/romeralo_tapia/index.html#grupo-de-investigación",
+    "href": "people/romeralo_tapia/index.html#grupo-de-investigación",
+    "title": "Carmen Romeralo Tapia",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/romeralo_tapia/index.html#institución",
+    "href": "people/romeralo_tapia/index.html#institución",
+    "title": "Carmen Romeralo Tapia",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/carreira_de_la_fuente/index.html#grupo-de-investigación",
+    "href": "people/carreira_de_la_fuente/index.html#grupo-de-investigación",
+    "title": "José Antonio Carreira de la Fuente",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología Forestal y del Suelo (PAIDI RNM-296)\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
+  },
+  {
+    "objectID": "people/carreira_de_la_fuente/index.html#institución",
+    "href": "people/carreira_de_la_fuente/index.html#institución",
+    "title": "José Antonio Carreira de la Fuente",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Jaén"
+  },
+  {
+    "objectID": "people/hernandez_clemente/index.html#grupo-de-investigación",
+    "href": "people/hernandez_clemente/index.html#grupo-de-investigación",
+    "title": "Rocío Hernández-Clemente",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología Terrestre"
+  },
+  {
+    "objectID": "people/hernandez_clemente/index.html#institución",
+    "href": "people/hernandez_clemente/index.html#institución",
+    "title": "Rocío Hernández-Clemente",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
+  },
+  {
+    "objectID": "people/roces_diaz/index.html#grupo-de-investigación",
+    "href": "people/roces_diaz/index.html#grupo-de-investigación",
+    "title": "José Valentín (Pipo) Roces Díaz",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nLandscape & Fire Lab"
+  },
+  {
+    "objectID": "people/roces_diaz/index.html#institución",
+    "href": "people/roces_diaz/index.html#institución",
+    "title": "José Valentín (Pipo) Roces Díaz",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto Mixto de Investigación en Biodiversidad. Universidad de Ovideo-CSIC"
   },
   {
     "objectID": "people/lloret_francisco/index.html#grupo-de-investigación",
@@ -189,18 +329,74 @@
     "text": "Institución\n\nCentro de Investigación Ecológica y Aplicaciones Forestales"
   },
   {
-    "objectID": "people/gea_izquierdo/index.html#grupo-de-investigación",
-    "href": "people/gea_izquierdo/index.html#grupo-de-investigación",
-    "title": "Guillermo Gea Izquierdo",
+    "objectID": "people/gomez_aparicio/index.html#grupo-de-investigación",
+    "href": "people/gomez_aparicio/index.html#grupo-de-investigación",
+    "title": "Lorena Gómez Aparicio",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+    "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/gea_izquierdo/index.html#institución",
-    "href": "people/gea_izquierdo/index.html#institución",
-    "title": "Guillermo Gea Izquierdo",
+    "objectID": "people/gomez_aparicio/index.html#institución",
+    "href": "people/gomez_aparicio/index.html#institución",
+    "title": "Lorena Gómez Aparicio",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/solla_alejandro/index.html#grupo-de-investigación",
+    "href": "people/solla_alejandro/index.html#grupo-de-investigación",
+    "title": "Alejandro Solla",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/solla_alejandro/index.html#institución",
+    "href": "people/solla_alejandro/index.html#institución",
+    "title": "Alejandro Solla",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Extremadura"
+  },
+  {
+    "objectID": "people/diez_casero/index.html#grupo-de-investigación",
+    "href": "people/diez_casero/index.html#grupo-de-investigación",
+    "title": "Julio Javier Diez Casero",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nPatología Forestal\nControl Biológico Forestal"
+  },
+  {
+    "objectID": "people/diez_casero/index.html#institución",
+    "href": "people/diez_casero/index.html#institución",
+    "title": "Julio Javier Diez Casero",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Valladolid"
+  },
+  {
+    "objectID": "people/aponte_cristina/index.html#grupo-de-investigación",
+    "href": "people/aponte_cristina/index.html#grupo-de-investigación",
+    "title": "Cristina Aponte",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDinámica y Gestión Forestal. Incendios Forestales"
+  },
+  {
+    "objectID": "people/aponte_cristina/index.html#institución",
+    "href": "people/aponte_cristina/index.html#institución",
+    "title": "Cristina Aponte",
     "section": "Institución",
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/quero_jose/index.html#grupo-de-investigación",
+    "href": "people/quero_jose/index.html#grupo-de-investigación",
+    "title": "José Luis Quero",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología Terrestre"
+  },
+  {
+    "objectID": "people/quero_jose/index.html#institución",
+    "href": "people/quero_jose/index.html#institución",
+    "title": "José Luis Quero",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
   },
   {
     "objectID": "people/aldea_jorge/index.html#grupo-de-investigación",
@@ -217,32 +413,60 @@
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/herrero_asier/index.html#grupo-de-investigación",
-    "href": "people/herrero_asier/index.html#grupo-de-investigación",
-    "title": "Asier Herrero",
+    "objectID": "people/margalef_jordi/index.html#grupo-de-investigación",
+    "href": "people/margalef_jordi/index.html#grupo-de-investigación",
+    "title": "Jordi Margalef",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFisioKlima-AgroSosT\nGrupo de Ecología y Restauración Forestal"
+    "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/herrero_asier/index.html#institución",
-    "href": "people/herrero_asier/index.html#institución",
-    "title": "Asier Herrero",
+    "objectID": "people/margalef_jordi/index.html#institución",
+    "href": "people/margalef_jordi/index.html#institución",
+    "title": "Jordi Margalef",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad del País Vascp"
+    "text": "Institución\n\nCentro de Investigaciones sobre Desertificación. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/sanchez_salguero/index.html#grupo-de-investigación",
-    "href": "people/sanchez_salguero/index.html#grupo-de-investigación",
-    "title": "Raúl Sánchez Salguero",
+    "objectID": "people/alcaraz_domingo/index.html#grupo-de-investigación",
+    "href": "people/alcaraz_domingo/index.html#grupo-de-investigación",
+    "title": "Domingo Alcaraz",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
+    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
   },
   {
-    "objectID": "people/sanchez_salguero/index.html#institución",
-    "href": "people/sanchez_salguero/index.html#institución",
-    "title": "Raúl Sánchez Salguero",
+    "objectID": "people/alcaraz_domingo/index.html#institución",
+    "href": "people/alcaraz_domingo/index.html#institución",
+    "title": "Domingo Alcaraz",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad Pablo de Olavide"
+    "text": "Institución\n\nUniversidad de Granada"
+  },
+  {
+    "objectID": "people/moreno_de_las_heras/index.html#grupo-de-investigación",
+    "href": "people/moreno_de_las_heras/index.html#grupo-de-investigación",
+    "title": "Mariano Moreno de las Heras",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGRAM: Grup de Recerca Ambiental Mediterrània"
+  },
+  {
+    "objectID": "people/moreno_de_las_heras/index.html#institución",
+    "href": "people/moreno_de_las_heras/index.html#institución",
+    "title": "Mariano Moreno de las Heras",
+    "section": "Institución",
+    "text": "Institución\n\nUniversitat de Barcelona"
+  },
+  {
+    "objectID": "people/gallego_rodriguez/index.html#grupo-de-investigación",
+    "href": "people/gallego_rodriguez/index.html#grupo-de-investigación",
+    "title": "Francisco Javier Gallego Rodríguez",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+  },
+  {
+    "objectID": "people/gallego_rodriguez/index.html#institución",
+    "href": "people/gallego_rodriguez/index.html#institución",
+    "title": "Francisco Javier Gallego Rodríguez",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Complutense de Madrid"
   },
   {
     "objectID": "people/curiel_jorge/index.html#grupo-de-investigación",
@@ -259,39 +483,88 @@
     "text": "Institución\n\nBasque Centre for Climate Change"
   },
   {
-    "objectID": "people/calama_rafael/index.html#grupo-de-investigación",
-    "href": "people/calama_rafael/index.html#grupo-de-investigación",
-    "title": "Rafael Calama",
+    "objectID": "people/de_la_mata/index.html#grupo-de-investigación",
+    "href": "people/de_la_mata/index.html#grupo-de-investigación",
+    "title": "Raúl de la Mata",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
+    "text": "Grupo de Investigación\n\nInstituto de Investigación de la Dehesa (INDEHESA)"
   },
   {
-    "objectID": "people/calama_rafael/index.html#institución",
-    "href": "people/calama_rafael/index.html#institución",
-    "title": "Rafael Calama",
+    "objectID": "people/de_la_mata/index.html#institución",
+    "href": "people/de_la_mata/index.html#institución",
+    "title": "Raúl de la Mata",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Extremadura"
+  },
+  {
+    "objectID": "people/aroca_fernandez/index.html#grupo-de-investigación",
+    "href": "people/aroca_fernandez/index.html#grupo-de-investigación",
+    "title": "María José Aroca Fernández",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
+  },
+  {
+    "objectID": "people/aroca_fernandez/index.html#institución",
+    "href": "people/aroca_fernandez/index.html#institución",
+    "title": "María José Aroca Fernández",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/escudero_alcantara/index.html#grupo-de-investigación",
+    "href": "people/escudero_alcantara/index.html#grupo-de-investigación",
+    "title": "Adrián Escudero Alcántara",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Investigación Forestal"
+  },
+  {
+    "objectID": "people/escudero_alcantara/index.html#institución",
+    "href": "people/escudero_alcantara/index.html#institución",
+    "title": "Adrián Escudero Alcántara",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Rey Juan Carlos"
+  },
+  {
+    "objectID": "people/aranda_garcia/index.html#grupo-de-investigación",
+    "href": "people/aranda_garcia/index.html#grupo-de-investigación",
+    "title": "Ismael Aranda García",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+  },
+  {
+    "objectID": "people/aranda_garcia/index.html#institución",
+    "href": "people/aranda_garcia/index.html#institución",
+    "title": "Ismael Aranda García",
     "section": "Institución",
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "La red",
+    "section": "",
+    "text": "Los fenómenos de decaimiento forestal están cobrando gran relevancia en un contexto de cambio climático, ya que en muchos casos, aparecen asociados a episodios de sequía y calor. El proceso de decaimiento inducido por el clima suele ocurrir de una manera no lineal, llegando a causar la muerte de los árboles, e impactando por tanto al ecosistema forestal, de una manera relativamente rápida. A pesar de que hasta ahora en general ha afectado a proporciones pequeñas del territorio, el fenómeno tiene el potencial de ser la avanzada de una situación mucho más general en un futuro próximo de cambio climático. Por tanto, el estudio de los eventos de decaimiento inducidos climáticamente es clave para determinar su impacto en los ecosistemas forestales.\nLa Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC), es una red de investigadores, pertenecientes a diferentes grupos de investigación españoles, que vienen estudiando los procecos de decaimiento forestal ocurridos en la península Ibérica desde diferentes aproximaciones. Con el objetivo de poner en común el conocimiento existente de los sistemas forestales afectados en los que se está realizando trabajo de campo e investigación, se ha creado esta red, con el objetivo de avanzar en el conocimiento del decaimiento forestal, reforzar vínculos entre los grupos de investigación para promover la colaboración y el flujo de información, para ayudar a los gestores forestales a afrontar el problema del decaimiento. La red se ha constituido como grupo de trabajo dentro de la Asociación Española de Ecología Terrestre.\nLos objetivos de la red son:\n\nIdentificar grupos y personas investigadoras expertas en la investigación sobre el decaimiento arbóreo.\nPromover el flujo de información sobre la investigación realizada, en curso y proyectada, y la colaboración entre dichos grupos y personas. Para ello el primero paso sería realizar un catálogo de sitios con decaimiento inducido por clima en los que se ha realizado o se esté realizando trabajo de campo e investigación.\nAnalizar la viabilidad de protocolos comunes y de estudios comparativos entre los diferentes sistemas de estudio (por ejemplo, sobre la atribución de señal climática a los casos de decaimiento y el papel de otros agentes como la gestión, las plagas, o el medio físico y edáfico).\nCoordinar la monitorización y el estudio a largo plazo sobre el funcionamiento y dinámica de los bosques afectados por decaimiento.\nVisualizar los grupos de investigación ibéricos sobre decaimiento forestal a nivel nacional (constituyendo un grupo de trabajo de la Asociación Española de Ecología Terrestre - AEET) e internacional (International Union of Forest Research Organizations - IUFRO; International Tree Mortality Network - ITMN).\nPromover la coordinación y colaboración con otros colectivos científicos, como la Sociedad Española de Ciencias Forestales, y técnicos, como los vinculados a la gestión forestal.\nPromover el impacto en la sociedad del conocimiento generado por la investigación realizada sobre el decaimiento forestal, particularmente en los ámbitos de la gestión forestal y la conservación."
+  },
+  {
+    "objectID": "photogallery.html",
+    "href": "photogallery.html",
     "title": "Red Ibérica de Decaimiento Forestal inducido por el Clima",
     "section": "",
-    "text": "Red Ibérica de Seguimiento del Decaimiento Forestal inducido por el Clima"
+    "text": "Abies alba, Huesca (F. Lloret)\n\n\n\n\n\n\n\nAbies alba, Huesca (F. Lloret)\n\n\n\n\n\n\n\nAbies pinsapo, (F. Lloret)\n\n\n\n\n\n\n\n\n\nCedrus, (F. Lloret)\n\n\n\n\n\n\n\nJuniperus phoenicea, (F. Lloret)\n\n\n\n\n\n\n\nPinus halepensis, Murcia (F. Lloret)\n\n\n\n\n\n\n\n\n\nPinus pinea, (F. Lloret)\n\n\n\n\n\n\n\nPinus sylvestris, Sort (F. Lloret)\n\n\n\n\n\n\n\nPinus sylvestris, Sierra de la Almijara (A.J. Pérez-Luque)\n\n\n\n\n\n\n\n\n\nPinus sylvestris & Pinus pinaster, Sierra de la Almijara (A.J. Pérez-Luque)\n\n\n\n\n\n\n\nPinus sylvestris, Valsain (A.J. Pérez-Luque)\n\n\n\n\n\n\n\nPinus sylvestris, Teruel (F. Lloret)\n\n\n\n\n\n\n\n\n\nQuercus ilex, Prades (F. Lloret)\n\n\n\n\n\n\n\nQuercus suber, Cádiz (F. Lloret)\n\n\n\n\n\n\n\n\nAbies alba, Huesca (F. Lloret)\nAbies alba, Huesca (F. Lloret)\nAbies pinsapo, (F. Lloret)\nCedrus, (F. Lloret)\nJuniperus phoenicea, (F. Lloret)\nPinus halepensis, Murcia (F. Lloret)\nPinus pinea, (F. Lloret)\nPinus sylvestris, Sort (F. Lloret)\nPinus sylvestris, Sierra de la Almijara (A.J. Pérez-Luque)\nPinus sylvestris & Pinus pinaster, Sierra de la Almijara (A.J. Pérez-Luque)\nPinus sylvestris, Valsain (A.J. Pérez-Luque)\nPinus sylvestris, Teruel (F. Lloret)\nQuercus ilex, Prades (F. Lloret)\nQuercus suber, Cádiz (F. Lloret)"
   },
   {
-    "objectID": "sections/protocolos.html",
-    "href": "sections/protocolos.html",
-    "title": "Estándares y Protocolos",
+    "objectID": "sections/monitoreo.html",
+    "href": "sections/monitoreo.html",
+    "title": "Monitorización",
     "section": "",
-    "text": "Objetivos\nElaboración de criterios para determinar el decaimiento forestal y sus causas climáticas y bióticas, así como sus consecuencias en los servicios ecosistémicos y en la biodiversidad.\n\n\nResponsables\nPor definir"
+    "text": "Objetivos\nEstablecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático\n\n\nResponsables\nPor definir"
   },
   {
-    "objectID": "sections/gestion.html",
-    "href": "sections/gestion.html",
-    "title": "Gestión",
+    "objectID": "sections/base_datos.html",
+    "href": "sections/base_datos.html",
+    "title": "Base de Datos",
     "section": "",
-    "text": "Objetivos\nPropuestas y evaluación de programas y actuaciones de gestión forestal adaptativa utilizando soluciones basadas en la naturaleza ante el decaimiento forestal, en un contexto de cambio climático y de usos.\n\n\nResponsables\nPor definir"
+    "text": "Objetivos\nGeneración de una base de datos de sistemas de estudio de bosques con decaimiento, vinculándose a redes internacionales, de cara a la realización de investigaciones coordinadas.\n\n\nResponsables\nPor definir."
   },
   {
     "objectID": "workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.html",
@@ -364,32 +637,74 @@
     "text": "Programa\n\n\n\n\n  \n  \n\n\n\n\n\n\n\nHora\nActividad\n\n\n\n\n08:00 - 08:15\nSalida desde Nerja en autobús\n\n\n\n\nVisita a pinares de repoblación y naturales con decaimiento\n\n\n\n\nVisita a formaciones de *Quercus* con decaimiento\n\n\n\n\nVisita a bosques puros y mixtos de pinsapo con decaimiento\n\n\n20:00 - 20:15\nVuelta a la Cueva de Nerja\n\n\n\n\n\n\n\n\nSe entregará picnic a cubrir por los participantes y se parará en el camino para los cafés. Se realizará una parada en el aeropuerto de Málaga en el camino de vuelta"
   },
   {
-    "objectID": "sections/base_datos.html",
-    "href": "sections/base_datos.html",
-    "title": "Base de Datos",
+    "objectID": "sections/gestion.html",
+    "href": "sections/gestion.html",
+    "title": "Gestión",
     "section": "",
-    "text": "Objetivos\nGeneración de una base de datos de sistemas de estudio de bosques con decaimiento, vinculándose a redes internacionales, de cara a la realización de investigaciones coordinadas.\n\n\nResponsables\nPor definir."
+    "text": "Objetivos\nPropuestas y evaluación de programas y actuaciones de gestión forestal adaptativa utilizando soluciones basadas en la naturaleza ante el decaimiento forestal, en un contexto de cambio climático y de usos.\n\n\nResponsables\nPor definir"
   },
   {
-    "objectID": "sections/monitoreo.html",
-    "href": "sections/monitoreo.html",
-    "title": "Monitorización",
+    "objectID": "sections/protocolos.html",
+    "href": "sections/protocolos.html",
+    "title": "Estándares y Protocolos",
     "section": "",
-    "text": "Objetivos\nEstablecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático\n\n\nResponsables\nPor definir"
+    "text": "Objetivos\nElaboración de criterios para determinar el decaimiento forestal y sus causas climáticas y bióticas, así como sus consecuencias en los servicios ecosistémicos y en la biodiversidad.\n\n\nResponsables\nPor definir"
   },
   {
-    "objectID": "photogallery.html",
-    "href": "photogallery.html",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Red Ibérica de Decaimiento Forestal inducido por el Clima",
     "section": "",
-    "text": "Abies alba, Huesca (F. Lloret)\n\n\n\n\n\n\n\nAbies alba, Huesca (F. Lloret)\n\n\n\n\n\n\n\nAbies pinsapo, (F. Lloret)\n\n\n\n\n\n\n\n\n\nCedrus, (F. Lloret)\n\n\n\n\n\n\n\nJuniperus phoenicea, (F. Lloret)\n\n\n\n\n\n\n\nPinus halepensis, Murcia (F. Lloret)\n\n\n\n\n\n\n\n\n\nPinus pinea, (F. Lloret)\n\n\n\n\n\n\n\nPinus sylvestris, Sort (F. Lloret)\n\n\n\n\n\n\n\nPinus sylvestris, Sierra de la Almijara (A.J. Pérez-Luque)\n\n\n\n\n\n\n\n\n\nPinus sylvestris & Pinus pinaster, Sierra de la Almijara (A.J. Pérez-Luque)\n\n\n\n\n\n\n\nPinus sylvestris, Valsain (A.J. Pérez-Luque)\n\n\n\n\n\n\n\nPinus sylvestris, Teruel (F. Lloret)\n\n\n\n\n\n\n\n\n\nQuercus ilex, Prades (F. Lloret)\n\n\n\n\n\n\n\nQuercus suber, Cádiz (F. Lloret)\n\n\n\n\n\n\n\n\nAbies alba, Huesca (F. Lloret)\nAbies alba, Huesca (F. Lloret)\nAbies pinsapo, (F. Lloret)\nCedrus, (F. Lloret)\nJuniperus phoenicea, (F. Lloret)\nPinus halepensis, Murcia (F. Lloret)\nPinus pinea, (F. Lloret)\nPinus sylvestris, Sort (F. Lloret)\nPinus sylvestris, Sierra de la Almijara (A.J. Pérez-Luque)\nPinus sylvestris & Pinus pinaster, Sierra de la Almijara (A.J. Pérez-Luque)\nPinus sylvestris, Valsain (A.J. Pérez-Luque)\nPinus sylvestris, Teruel (F. Lloret)\nQuercus ilex, Prades (F. Lloret)\nQuercus suber, Cádiz (F. Lloret)"
+    "text": "Red Ibérica de Seguimiento del Decaimiento Forestal inducido por el Clima"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "La red",
-    "section": "",
-    "text": "Los fenómenos de decaimiento forestal están cobrando gran relevancia en un contexto de cambio climático, ya que en muchos casos, aparecen asociados a episodios de sequía y calor. El proceso de decaimiento inducido por el clima suele ocurrir de una manera no lineal, llegando a causar la muerte de los árboles, e impactando por tanto al ecosistema forestal, de una manera relativamente rápida. A pesar de que hasta ahora en general ha afectado a proporciones pequeñas del territorio, el fenómeno tiene el potencial de ser la avanzada de una situación mucho más general en un futuro próximo de cambio climático. Por tanto, el estudio de los eventos de decaimiento inducidos climáticamente es clave para determinar su impacto en los ecosistemas forestales.\nLa Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC), es una red de investigadores, pertenecientes a diferentes grupos de investigación españoles, que vienen estudiando los procecos de decaimiento forestal ocurridos en la península Ibérica desde diferentes aproximaciones. Con el objetivo de poner en común el conocimiento existente de los sistemas forestales afectados en los que se está realizando trabajo de campo e investigación, se ha creado esta red, con el objetivo de avanzar en el conocimiento del decaimiento forestal, reforzar vínculos entre los grupos de investigación para promover la colaboración y el flujo de información, para ayudar a los gestores forestales a afrontar el problema del decaimiento. La red se ha constituido como grupo de trabajo dentro de la Asociación Española de Ecología Terrestre.\nLos objetivos de la red son:\n\nIdentificar grupos y personas investigadoras expertas en la investigación sobre el decaimiento arbóreo.\nPromover el flujo de información sobre la investigación realizada, en curso y proyectada, y la colaboración entre dichos grupos y personas. Para ello el primero paso sería realizar un catálogo de sitios con decaimiento inducido por clima en los que se ha realizado o se esté realizando trabajo de campo e investigación.\nAnalizar la viabilidad de protocolos comunes y de estudios comparativos entre los diferentes sistemas de estudio (por ejemplo, sobre la atribución de señal climática a los casos de decaimiento y el papel de otros agentes como la gestión, las plagas, o el medio físico y edáfico).\nCoordinar la monitorización y el estudio a largo plazo sobre el funcionamiento y dinámica de los bosques afectados por decaimiento.\nVisualizar los grupos de investigación ibéricos sobre decaimiento forestal a nivel nacional (constituyendo un grupo de trabajo de la Asociación Española de Ecología Terrestre - AEET) e internacional (International Union of Forest Research Organizations - IUFRO; International Tree Mortality Network - ITMN).\nPromover la coordinación y colaboración con otros colectivos científicos, como la Sociedad Española de Ciencias Forestales, y técnicos, como los vinculados a la gestión forestal.\nPromover el impacto en la sociedad del conocimiento generado por la investigación realizada sobre el decaimiento forestal, particularmente en los ámbitos de la gestión forestal y la conservación."
+    "objectID": "index.html#formulario-de-inscripción",
+    "href": "index.html#formulario-de-inscripción",
+    "title": "Red Ibérica de Decaimiento Forestal inducido por el Clima",
+    "section": "Formulario de Inscripción",
+    "text": "Formulario de Inscripción\nSi deseas pertenecer a la red, puedes rellenar el siguiente formulario, y nos pondremos en contacto contigo."
+  },
+  {
+    "objectID": "people/calama_rafael/index.html#grupo-de-investigación",
+    "href": "people/calama_rafael/index.html#grupo-de-investigación",
+    "title": "Rafael Calama",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/calama_rafael/index.html#institución",
+    "href": "people/calama_rafael/index.html#institución",
+    "title": "Rafael Calama",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/lopez_rosana/index.html#grupo-de-investigación",
+    "href": "people/lopez_rosana/index.html#grupo-de-investigación",
+    "title": "Rosana López",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
+  },
+  {
+    "objectID": "people/lopez_rosana/index.html#institución",
+    "href": "people/lopez_rosana/index.html#institución",
+    "title": "Rosana López",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/marcos_maria/index.html#grupo-de-investigación",
+    "href": "people/marcos_maria/index.html#grupo-de-investigación",
+    "title": "María José Marcos",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología Terrestre"
+  },
+  {
+    "objectID": "people/marcos_maria/index.html#institución",
+    "href": "people/marcos_maria/index.html#institución",
+    "title": "María José Marcos",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
   },
   {
     "objectID": "people/hodar_jose/index.html#grupo-de-investigación",
@@ -406,6 +721,34 @@
     "text": "Institución\n\nUniversidad de Granada"
   },
   {
+    "objectID": "people/gaston_gonzalez/index.html#grupo-de-investigación",
+    "href": "people/gaston_gonzalez/index.html#grupo-de-investigación",
+    "title": "Aitor Gastón González",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
+  },
+  {
+    "objectID": "people/gaston_gonzalez/index.html#institución",
+    "href": "people/gaston_gonzalez/index.html#institución",
+    "title": "Aitor Gastón González",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/garcia_vinas/index.html#grupo-de-investigación",
+    "href": "people/garcia_vinas/index.html#grupo-de-investigación",
+    "title": "Juan Ignacio García Viñas",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
+  },
+  {
+    "objectID": "people/garcia_vinas/index.html#institución",
+    "href": "people/garcia_vinas/index.html#institución",
+    "title": "Juan Ignacio García Viñas",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
     "objectID": "people/jaime_gonzalez/index.html#grupo-de-investigación",
     "href": "people/jaime_gonzalez/index.html#grupo-de-investigación",
     "title": "Luciana Jaime González",
@@ -420,74 +763,200 @@
     "text": "Institución\n\nUniversidad de Lleida"
   },
   {
-    "objectID": "people/alcaraz_domingo/index.html#grupo-de-investigación",
-    "href": "people/alcaraz_domingo/index.html#grupo-de-investigación",
-    "title": "Domingo Alcaraz",
+    "objectID": "people/sanchez_salguero/index.html#grupo-de-investigación",
+    "href": "people/sanchez_salguero/index.html#grupo-de-investigación",
+    "title": "Raúl Sánchez Salguero",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
+    "text": "Grupo de Investigación\n\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
   },
   {
-    "objectID": "people/alcaraz_domingo/index.html#institución",
-    "href": "people/alcaraz_domingo/index.html#institución",
-    "title": "Domingo Alcaraz",
+    "objectID": "people/sanchez_salguero/index.html#institución",
+    "href": "people/sanchez_salguero/index.html#institución",
+    "title": "Raúl Sánchez Salguero",
     "section": "Institución",
-    "text": "Institución\n\nUniversidad de Granada"
+    "text": "Institución\n\nUniversidad Pablo de Olavide"
   },
   {
-    "objectID": "people/margalef_jordi/index.html#grupo-de-investigación",
-    "href": "people/margalef_jordi/index.html#grupo-de-investigación",
-    "title": "Jordi Margalef",
+    "objectID": "people/herrero_asier/index.html#grupo-de-investigación",
+    "href": "people/herrero_asier/index.html#grupo-de-investigación",
+    "title": "Asier Herrero",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
+    "text": "Grupo de Investigación\n\nFisioKlima-AgroSosT\nGrupo de Ecología y Restauración Forestal"
   },
   {
-    "objectID": "people/margalef_jordi/index.html#institución",
-    "href": "people/margalef_jordi/index.html#institución",
-    "title": "Jordi Margalef",
+    "objectID": "people/herrero_asier/index.html#institución",
+    "href": "people/herrero_asier/index.html#institución",
+    "title": "Asier Herrero",
     "section": "Institución",
-    "text": "Institución\n\nCentro de Investigaciones sobre Desertificación. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nUniversidad del País Vascp"
   },
   {
-    "objectID": "people/aponte_cristina/index.html#grupo-de-investigación",
-    "href": "people/aponte_cristina/index.html#grupo-de-investigación",
-    "title": "Cristina Aponte",
+    "objectID": "people/rodriguez_dominguez/index.html#grupo-de-investigación",
+    "href": "people/rodriguez_dominguez/index.html#grupo-de-investigación",
+    "title": "Celia Rodríguez Dominguez",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nDinámica y Gestión Forestal. Incendios Forestales"
+    "text": "Grupo de Investigación\n\nEcofisiología Vegetal y Riego (ECOVER)"
   },
   {
-    "objectID": "people/aponte_cristina/index.html#institución",
-    "href": "people/aponte_cristina/index.html#institución",
-    "title": "Cristina Aponte",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/gomez_aparicio/index.html#grupo-de-investigación",
-    "href": "people/gomez_aparicio/index.html#grupo-de-investigación",
-    "title": "Lorena Gómez Aparicio",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/gomez_aparicio/index.html#institución",
-    "href": "people/gomez_aparicio/index.html#institución",
-    "title": "Lorena Gómez Aparicio",
+    "objectID": "people/rodriguez_dominguez/index.html#institución",
+    "href": "people/rodriguez_dominguez/index.html#institución",
+    "title": "Celia Rodríguez Dominguez",
     "section": "Institución",
     "text": "Institución\n\nInstituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/romeralo_tapia/index.html#grupo-de-investigación",
-    "href": "people/romeralo_tapia/index.html#grupo-de-investigación",
-    "title": "Carmen Romeralo Tapia",
+    "objectID": "people/esteban_raquel/index.html#grupo-de-investigación",
+    "href": "people/esteban_raquel/index.html#grupo-de-investigación",
+    "title": "Raquel Esteban",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nBEZ-EKOFISKO: Biodiversidad, Servicios Ecosistémicos y Ecofisiología del Estrés y de la Contaminación en Plantas"
+  },
+  {
+    "objectID": "people/esteban_raquel/index.html#institución",
+    "href": "people/esteban_raquel/index.html#institución",
+    "title": "Raquel Esteban",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad del País Vascp"
+  },
+  {
+    "objectID": "people/batllori_presas/index.html#grupo-de-investigación",
+    "href": "people/batllori_presas/index.html#grupo-de-investigación",
+    "title": "Enric Batllori Presas",
     "section": "Grupo de Investigación",
     "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/romeralo_tapia/index.html#institución",
-    "href": "people/romeralo_tapia/index.html#institución",
-    "title": "Carmen Romeralo Tapia",
+    "objectID": "people/batllori_presas/index.html#institución",
+    "href": "people/batllori_presas/index.html#institución",
+    "title": "Enric Batllori Presas",
+    "section": "Institución",
+    "text": "Institución\n\nUniversitat de Barcelona"
+  },
+  {
+    "objectID": "people/astigarraga_julen/index.html#grupo-de-investigación",
+    "href": "people/astigarraga_julen/index.html#grupo-de-investigación",
+    "title": "Julen Astigarraga",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/astigarraga_julen/index.html#institución",
+    "href": "people/astigarraga_julen/index.html#institución",
+    "title": "Julen Astigarraga",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/gea_izquierdo/index.html#grupo-de-investigación",
+    "href": "people/gea_izquierdo/index.html#grupo-de-investigación",
+    "title": "Guillermo Gea Izquierdo",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+  },
+  {
+    "objectID": "people/gea_izquierdo/index.html#institución",
+    "href": "people/gea_izquierdo/index.html#institución",
+    "title": "Guillermo Gea Izquierdo",
     "section": "Institución",
     "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/garcia_valdes/index.html#grupo-de-investigación",
+    "href": "people/garcia_valdes/index.html#grupo-de-investigación",
+    "title": "Raúl García Valdés",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+  },
+  {
+    "objectID": "people/garcia_valdes/index.html#institución",
+    "href": "people/garcia_valdes/index.html#institución",
+    "title": "Raúl García Valdés",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Rey Juan Carlos"
+  },
+  {
+    "objectID": "people/acosta_cristina/index.html#grupo-de-investigación",
+    "href": "people/acosta_cristina/index.html#grupo-de-investigación",
+    "title": "Cristina Acosta",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+  },
+  {
+    "objectID": "people/acosta_cristina/index.html#institución",
+    "href": "people/acosta_cristina/index.html#institución",
+    "title": "Cristina Acosta",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
+  },
+  {
+    "objectID": "people/rodriguez_calcerrada/index.html#grupo-de-investigación",
+    "href": "people/rodriguez_calcerrada/index.html#grupo-de-investigación",
+    "title": "Jesús Rodríguez Calcerrada",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
+  },
+  {
+    "objectID": "people/rodriguez_calcerrada/index.html#institución",
+    "href": "people/rodriguez_calcerrada/index.html#institución",
+    "title": "Jesús Rodríguez Calcerrada",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/rubio_cuadrado/index.html#grupo-de-investigación",
+    "href": "people/rubio_cuadrado/index.html#grupo-de-investigación",
+    "title": "Álvaro Rubio Cuadrado",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
+  },
+  {
+    "objectID": "people/rubio_cuadrado/index.html#institución",
+    "href": "people/rubio_cuadrado/index.html#institución",
+    "title": "Álvaro Rubio Cuadrado",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/tomas_riera/index.html#grupo-de-investigación",
+    "href": "people/tomas_riera/index.html#grupo-de-investigación",
+    "title": "Francisco Tomás-Riera",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/tomas_riera/index.html#institución",
+    "href": "people/tomas_riera/index.html#institución",
+    "title": "Francisco Tomás-Riera",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
+  },
+  {
+    "objectID": "people/salomon_roberto/index.html#grupo-de-investigación",
+    "href": "people/salomon_roberto/index.html#grupo-de-investigación",
+    "title": "Roberto L. Salomón",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
+  },
+  {
+    "objectID": "people/salomon_roberto/index.html#institución",
+    "href": "people/salomon_roberto/index.html#institución",
+    "title": "Roberto L. Salomón",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Politécnica de Madrid"
+  },
+  {
+    "objectID": "people/granda_elena/index.html#grupo-de-investigación",
+    "href": "people/granda_elena/index.html#grupo-de-investigación",
+    "title": "Elena Granda",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Invasiones Biológicas\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/granda_elena/index.html#institución",
+    "href": "people/granda_elena/index.html#institución",
+    "title": "Elena Granda",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Alcalá de Henares"
   },
   {
     "objectID": "people/gazol_burgos/index.html#grupo-de-investigación",
@@ -504,6 +973,20 @@
     "text": "Institución\n\nInstituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas"
   },
   {
+    "objectID": "people/martinez_sancho/index.html#grupo-de-investigación",
+    "href": "people/martinez_sancho/index.html#grupo-de-investigación",
+    "title": "Elisabet Martínez Sancho",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación"
+  },
+  {
+    "objectID": "people/martinez_sancho/index.html#institución",
+    "href": "people/martinez_sancho/index.html#institución",
+    "title": "Elisabet Martínez Sancho",
+    "section": "Institución",
+    "text": "Institución\n\nUniversitat de Barcelona"
+  },
+  {
     "objectID": "people/fernandez_lopez/index.html#grupo-de-investigación",
     "href": "people/fernandez_lopez/index.html#grupo-de-investigación",
     "title": "Manuel Fernández López",
@@ -518,60 +1001,88 @@
     "text": "Institución\n\nEstación Experimental del Zaidín. Consejo Superior de Investigaciones Científicas"
   },
   {
-    "objectID": "people/del_rio/index.html#grupo-de-investigación",
-    "href": "people/del_rio/index.html#grupo-de-investigación",
-    "title": "Miren del Río",
+    "objectID": "people/rodes_blanco/index.html#grupo-de-investigación",
+    "href": "people/rodes_blanco/index.html#grupo-de-investigación",
+    "title": "Marina Rodes Blanco",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
+    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)\nGrupo de Ecología y Restauración Forestal"
   },
   {
-    "objectID": "people/del_rio/index.html#institución",
-    "href": "people/del_rio/index.html#institución",
-    "title": "Miren del Río",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/ruiz_benito/index.html#grupo-de-investigación",
-    "href": "people/ruiz_benito/index.html#grupo-de-investigación",
-    "title": "Paloma Ruiz Benito",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales\nGrupo de Investigación en Teledetección Ambiental (GITA)"
-  },
-  {
-    "objectID": "people/ruiz_benito/index.html#institución",
-    "href": "people/ruiz_benito/index.html#institución",
-    "title": "Paloma Ruiz Benito",
+    "objectID": "people/rodes_blanco/index.html#institución",
+    "href": "people/rodes_blanco/index.html#institución",
+    "title": "Marina Rodes Blanco",
     "section": "Institución",
     "text": "Institución\n\nUniversidad de Alcalá de Henares"
   },
   {
-    "objectID": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
-    "href": "people/vilagrosa_carmona/index.html#grupo-de-investigación",
-    "title": "Alberto Vilagrosa Carmona",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Investigación Forestal"
-  },
-  {
-    "objectID": "people/vilagrosa_carmona/index.html#institución",
-    "href": "people/vilagrosa_carmona/index.html#institución",
-    "title": "Alberto Vilagrosa Carmona",
-    "section": "Institución",
-    "text": "Institución\n\nCentro de Estudios Ambientales del Mediterráneo"
-  },
-  {
-    "objectID": "people/morcillo_julia/index.html#grupo-de-investigación",
-    "href": "people/morcillo_julia/index.html#grupo-de-investigación",
-    "title": "Luna Morcillo Julià",
+    "objectID": "people/matias_resina/index.html#grupo-de-investigación",
+    "href": "people/matias_resina/index.html#grupo-de-investigación",
+    "title": "Luis Matías Resina",
     "section": "Grupo de Investigación",
     "text": "Grupo de Investigación"
   },
   {
-    "objectID": "people/morcillo_julia/index.html#institución",
-    "href": "people/morcillo_julia/index.html#institución",
-    "title": "Luna Morcillo Julià",
+    "objectID": "people/matias_resina/index.html#institución",
+    "href": "people/matias_resina/index.html#institución",
+    "title": "Luis Matías Resina",
     "section": "Institución",
-    "text": "Institución\n\nCentro de Estudios Ambientales del Mediterráneo"
+    "text": "Institución\n\nUniversidad de Sevilla"
+  },
+  {
+    "objectID": "people/linares_juan/index.html#grupo-de-investigación",
+    "href": "people/linares_juan/index.html#grupo-de-investigación",
+    "title": "Juan Carlos Linares",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nDendrOlavide Lab"
+  },
+  {
+    "objectID": "people/linares_juan/index.html#institución",
+    "href": "people/linares_juan/index.html#institución",
+    "title": "Juan Carlos Linares",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Pablo de Olavide"
+  },
+  {
+    "objectID": "people/zamora_rodriguez/index.html#grupo-de-investigación",
+    "href": "people/zamora_rodriguez/index.html#grupo-de-investigación",
+    "title": "Regino Zamora Rodríguez",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nGrupo de Ecología Terrestre"
+  },
+  {
+    "objectID": "people/zamora_rodriguez/index.html#institución",
+    "href": "people/zamora_rodriguez/index.html#institución",
+    "title": "Regino Zamora Rodríguez",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Granada"
+  },
+  {
+    "objectID": "people/martin_benito/index.html#grupo-de-investigación",
+    "href": "people/martin_benito/index.html#grupo-de-investigación",
+    "title": "Darío Martín Benito",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
+  },
+  {
+    "objectID": "people/martin_benito/index.html#institución",
+    "href": "people/martin_benito/index.html#institución",
+    "title": "Darío Martín Benito",
+    "section": "Institución",
+    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+  },
+  {
+    "objectID": "people/alfaya_serrano/index.html#grupo-de-investigación",
+    "href": "people/alfaya_serrano/index.html#grupo-de-investigación",
+    "title": "Javier Alfaya Serrano",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
+  },
+  {
+    "objectID": "people/alfaya_serrano/index.html#institución",
+    "href": "people/alfaya_serrano/index.html#institución",
+    "title": "Javier Alfaya Serrano",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Pablo de Olavide"
   },
   {
     "objectID": "people/navarro_cerrillo/index.html#grupo-de-investigación",
@@ -588,18 +1099,46 @@
     "text": "Institución\n\nUniversidad de Córdoba"
   },
   {
-    "objectID": "people/garcia_alonso/index.html#grupo-de-investigación",
-    "href": "people/garcia_alonso/index.html#grupo-de-investigación",
-    "title": "Mariano García Alonso",
+    "objectID": "people/fernandez_de_blas/index.html#grupo-de-investigación",
+    "href": "people/fernandez_de_blas/index.html#grupo-de-investigación",
+    "title": "Cristopher Fernández de Blas",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Investigación en Teledetección Ambiental (GITA)"
+    "text": "Grupo de Investigación\n\nGrupo de Ecología y Restauración Forestal"
   },
   {
-    "objectID": "people/garcia_alonso/index.html#institución",
-    "href": "people/garcia_alonso/index.html#institución",
-    "title": "Mariano García Alonso",
+    "objectID": "people/fernandez_de_blas/index.html#institución",
+    "href": "people/fernandez_de_blas/index.html#institución",
+    "title": "Cristopher Fernández de Blas",
     "section": "Institución",
     "text": "Institución\n\nUniversidad de Alcalá de Henares"
+  },
+  {
+    "objectID": "people/martinez_vilalta/index.html#grupo-de-investigación",
+    "href": "people/martinez_vilalta/index.html#grupo-de-investigación",
+    "title": "Jordi Martínez Vilalta",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEcoPhys: Fisiología ecosistémica y cambio global\nFunctional biogeography and resilience of terrestrial ecosystems (RESET)"
+  },
+  {
+    "objectID": "people/martinez_vilalta/index.html#institución",
+    "href": "people/martinez_vilalta/index.html#institución",
+    "title": "Jordi Martínez Vilalta",
+    "section": "Institución",
+    "text": "Institución\n\nCentro de Investigación Ecológica y Aplicaciones Forestales"
+  },
+  {
+    "objectID": "people/ruiz_gomez/index.html#grupo-de-investigación",
+    "href": "people/ruiz_gomez/index.html#grupo-de-investigación",
+    "title": "Francisco José Ruiz Gómez",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+  },
+  {
+    "objectID": "people/ruiz_gomez/index.html#institución",
+    "href": "people/ruiz_gomez/index.html#institución",
+    "title": "Francisco José Ruiz Gómez",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad de Córdoba"
   },
   {
     "objectID": "people/sanguesa_barreda/index.html#grupo-de-investigación",
@@ -630,559 +1169,6 @@
     "text": "Institución\n\nUniversidad de Lleida"
   },
   {
-    "objectID": "people/gonzalez_ester/index.html#grupo-de-investigación",
-    "href": "people/gonzalez_ester/index.html#grupo-de-investigación",
-    "title": "Ester González",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/gonzalez_ester/index.html#institución",
-    "href": "people/gonzalez_ester/index.html#institución",
-    "title": "Ester González",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto Pirenáico de Ecología. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "index.html#formulario-de-inscripción",
-    "href": "index.html#formulario-de-inscripción",
-    "title": "Red Ibérica de Decaimiento Forestal inducido por el Clima",
-    "section": "Formulario de Inscripción",
-    "text": "Formulario de Inscripción\nSi deseas pertenecer a la red, puedes rellenar el siguiente formulario, y nos pondremos en contacto contigo."
-  },
-  {
-    "objectID": "people/gonzalez_moreno/index.html#grupo-de-investigación",
-    "href": "people/gonzalez_moreno/index.html#grupo-de-investigación",
-    "title": "Pablo González Moreno",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
-  },
-  {
-    "objectID": "people/gonzalez_moreno/index.html#institución",
-    "href": "people/gonzalez_moreno/index.html#institución",
-    "title": "Pablo González Moreno",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/hornero_alberto/index.html#grupo-de-investigación",
-    "href": "people/hornero_alberto/index.html#grupo-de-investigación",
-    "title": "Alberto Hornero",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nLaboratory for Research Methods in Quantitative Remote Sensing"
-  },
-  {
-    "objectID": "people/hornero_alberto/index.html#institución",
-    "href": "people/hornero_alberto/index.html#institución",
-    "title": "Alberto Hornero",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Agricultura Sostenible. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/venturas_martin/index.html#grupo-de-investigación",
-    "href": "people/venturas_martin/index.html#grupo-de-investigación",
-    "title": "Martín Venturas",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
-  },
-  {
-    "objectID": "people/venturas_martin/index.html#institución",
-    "href": "people/venturas_martin/index.html#institución",
-    "title": "Martín Venturas",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/gomez_sanz/index.html#grupo-de-investigación",
-    "href": "people/gomez_sanz/index.html#grupo-de-investigación",
-    "title": "Valentín Gómez Sanz",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
-  },
-  {
-    "objectID": "people/gomez_sanz/index.html#institución",
-    "href": "people/gomez_sanz/index.html#institución",
-    "title": "Valentín Gómez Sanz",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/martin_garcia/index.html#grupo-de-investigación",
-    "href": "people/martin_garcia/index.html#grupo-de-investigación",
-    "title": "Juan A. Martín García",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/martin_garcia/index.html#institución",
-    "href": "people/martin_garcia/index.html#institución",
-    "title": "Juan A. Martín García",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/torres_ruiz/index.html#grupo-de-investigación",
-    "href": "people/torres_ruiz/index.html#grupo-de-investigación",
-    "title": "José M. Torres-Ruiz",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcofisiología Vegetal y Riego (ECOVER)"
-  },
-  {
-    "objectID": "people/torres_ruiz/index.html#institución",
-    "href": "people/torres_ruiz/index.html#institución",
-    "title": "José M. Torres-Ruiz",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/salomon_roberto/index.html#grupo-de-investigación",
-    "href": "people/salomon_roberto/index.html#grupo-de-investigación",
-    "title": "Roberto L. Salomón",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
-  },
-  {
-    "objectID": "people/salomon_roberto/index.html#institución",
-    "href": "people/salomon_roberto/index.html#institución",
-    "title": "Roberto L. Salomón",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/tomas_riera/index.html#grupo-de-investigación",
-    "href": "people/tomas_riera/index.html#grupo-de-investigación",
-    "title": "Francisco Tomás-Riera",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/tomas_riera/index.html#institución",
-    "href": "people/tomas_riera/index.html#institución",
-    "title": "Francisco Tomás-Riera",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/rubio_cuadrado/index.html#grupo-de-investigación",
-    "href": "people/rubio_cuadrado/index.html#grupo-de-investigación",
-    "title": "Álvaro Rubio Cuadrado",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
-  },
-  {
-    "objectID": "people/rubio_cuadrado/index.html#institución",
-    "href": "people/rubio_cuadrado/index.html#institución",
-    "title": "Álvaro Rubio Cuadrado",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/rodriguez_calcerrada/index.html#grupo-de-investigación",
-    "href": "people/rodriguez_calcerrada/index.html#grupo-de-investigación",
-    "title": "Jesús Rodríguez Calcerrada",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
-  },
-  {
-    "objectID": "people/rodriguez_calcerrada/index.html#institución",
-    "href": "people/rodriguez_calcerrada/index.html#institución",
-    "title": "Jesús Rodríguez Calcerrada",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/acosta_cristina/index.html#grupo-de-investigación",
-    "href": "people/acosta_cristina/index.html#grupo-de-investigación",
-    "title": "Cristina Acosta",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
-  },
-  {
-    "objectID": "people/acosta_cristina/index.html#institución",
-    "href": "people/acosta_cristina/index.html#institución",
-    "title": "Cristina Acosta",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/garcia_valdes/index.html#grupo-de-investigación",
-    "href": "people/garcia_valdes/index.html#grupo-de-investigación",
-    "title": "Raúl García Valdés",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
-  },
-  {
-    "objectID": "people/garcia_valdes/index.html#institución",
-    "href": "people/garcia_valdes/index.html#institución",
-    "title": "Raúl García Valdés",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Rey Juan Carlos"
-  },
-  {
-    "objectID": "people/astigarraga_julen/index.html#grupo-de-investigación",
-    "href": "people/astigarraga_julen/index.html#grupo-de-investigación",
-    "title": "Julen Astigarraga",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Ecología y Restauración Forestal"
-  },
-  {
-    "objectID": "people/astigarraga_julen/index.html#institución",
-    "href": "people/astigarraga_julen/index.html#institución",
-    "title": "Julen Astigarraga",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Alcalá de Henares"
-  },
-  {
-    "objectID": "people/batllori_presas/index.html#grupo-de-investigación",
-    "href": "people/batllori_presas/index.html#grupo-de-investigación",
-    "title": "Enric Batllori Presas",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/batllori_presas/index.html#institución",
-    "href": "people/batllori_presas/index.html#institución",
-    "title": "Enric Batllori Presas",
-    "section": "Institución",
-    "text": "Institución\n\nUniversitat de Barcelona"
-  },
-  {
-    "objectID": "people/esteban_raquel/index.html#grupo-de-investigación",
-    "href": "people/esteban_raquel/index.html#grupo-de-investigación",
-    "title": "Raquel Esteban",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nBEZ-EKOFISKO: Biodiversidad, Servicios Ecosistémicos y Ecofisiología del Estrés y de la Contaminación en Plantas"
-  },
-  {
-    "objectID": "people/esteban_raquel/index.html#institución",
-    "href": "people/esteban_raquel/index.html#institución",
-    "title": "Raquel Esteban",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad del País Vascp"
-  },
-  {
-    "objectID": "people/rodriguez_dominguez/index.html#grupo-de-investigación",
-    "href": "people/rodriguez_dominguez/index.html#grupo-de-investigación",
-    "title": "Celia Rodríguez Dominguez",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcofisiología Vegetal y Riego (ECOVER)"
-  },
-  {
-    "objectID": "people/rodriguez_dominguez/index.html#institución",
-    "href": "people/rodriguez_dominguez/index.html#institución",
-    "title": "Celia Rodríguez Dominguez",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/garcia_vinas/index.html#grupo-de-investigación",
-    "href": "people/garcia_vinas/index.html#grupo-de-investigación",
-    "title": "Juan Ignacio García Viñas",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
-  },
-  {
-    "objectID": "people/garcia_vinas/index.html#institución",
-    "href": "people/garcia_vinas/index.html#institución",
-    "title": "Juan Ignacio García Viñas",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/gaston_gonzalez/index.html#grupo-de-investigación",
-    "href": "people/gaston_gonzalez/index.html#grupo-de-investigación",
-    "title": "Aitor Gastón González",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
-  },
-  {
-    "objectID": "people/gaston_gonzalez/index.html#institución",
-    "href": "people/gaston_gonzalez/index.html#institución",
-    "title": "Aitor Gastón González",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/marcos_maria/index.html#grupo-de-investigación",
-    "href": "people/marcos_maria/index.html#grupo-de-investigación",
-    "title": "María José Marcos",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología Terrestre"
-  },
-  {
-    "objectID": "people/marcos_maria/index.html#institución",
-    "href": "people/marcos_maria/index.html#institución",
-    "title": "María José Marcos",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/lopez_rosana/index.html#grupo-de-investigación",
-    "href": "people/lopez_rosana/index.html#grupo-de-investigación",
-    "title": "Rosana López",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nFunctioning of Forest Systems in a Changing Environment (FORESCENT)"
-  },
-  {
-    "objectID": "people/lopez_rosana/index.html#institución",
-    "href": "people/lopez_rosana/index.html#institución",
-    "title": "Rosana López",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/aranda_garcia/index.html#grupo-de-investigación",
-    "href": "people/aranda_garcia/index.html#grupo-de-investigación",
-    "title": "Ismael Aranda García",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
-  },
-  {
-    "objectID": "people/aranda_garcia/index.html#institución",
-    "href": "people/aranda_garcia/index.html#institución",
-    "title": "Ismael Aranda García",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
-  },
-  {
-    "objectID": "people/escudero_alcantara/index.html#grupo-de-investigación",
-    "href": "people/escudero_alcantara/index.html#grupo-de-investigación",
-    "title": "Adrián Escudero Alcántara",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Investigación Forestal"
-  },
-  {
-    "objectID": "people/escudero_alcantara/index.html#institución",
-    "href": "people/escudero_alcantara/index.html#institución",
-    "title": "Adrián Escudero Alcántara",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Rey Juan Carlos"
-  },
-  {
-    "objectID": "people/aroca_fernandez/index.html#grupo-de-investigación",
-    "href": "people/aroca_fernandez/index.html#grupo-de-investigación",
-    "title": "María José Aroca Fernández",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Gestión Forestal Sostenible (ECOGESFOR)"
-  },
-  {
-    "objectID": "people/aroca_fernandez/index.html#institución",
-    "href": "people/aroca_fernandez/index.html#institución",
-    "title": "María José Aroca Fernández",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Politécnica de Madrid"
-  },
-  {
-    "objectID": "people/de_la_mata/index.html#grupo-de-investigación",
-    "href": "people/de_la_mata/index.html#grupo-de-investigación",
-    "title": "Raúl de la Mata",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nInstituto de Investigación de la Dehesa (INDEHESA)"
-  },
-  {
-    "objectID": "people/de_la_mata/index.html#institución",
-    "href": "people/de_la_mata/index.html#institución",
-    "title": "Raúl de la Mata",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Extremadura"
-  },
-  {
-    "objectID": "people/gallego_rodriguez/index.html#grupo-de-investigación",
-    "href": "people/gallego_rodriguez/index.html#grupo-de-investigación",
-    "title": "Francisco Javier Gallego Rodríguez",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
-  },
-  {
-    "objectID": "people/gallego_rodriguez/index.html#institución",
-    "href": "people/gallego_rodriguez/index.html#institución",
-    "title": "Francisco Javier Gallego Rodríguez",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Complutense de Madrid"
-  },
-  {
-    "objectID": "people/moreno_de_las_heras/index.html#grupo-de-investigación",
-    "href": "people/moreno_de_las_heras/index.html#grupo-de-investigación",
-    "title": "Mariano Moreno de las Heras",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGRAM: Grup de Recerca Ambiental Mediterrània"
-  },
-  {
-    "objectID": "people/moreno_de_las_heras/index.html#institución",
-    "href": "people/moreno_de_las_heras/index.html#institución",
-    "title": "Mariano Moreno de las Heras",
-    "section": "Institución",
-    "text": "Institución\n\nUniversitat de Barcelona"
-  },
-  {
-    "objectID": "people/quero_jose/index.html#grupo-de-investigación",
-    "href": "people/quero_jose/index.html#grupo-de-investigación",
-    "title": "José Luis Quero",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología Terrestre"
-  },
-  {
-    "objectID": "people/quero_jose/index.html#institución",
-    "href": "people/quero_jose/index.html#institución",
-    "title": "José Luis Quero",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/diez_casero/index.html#grupo-de-investigación",
-    "href": "people/diez_casero/index.html#grupo-de-investigación",
-    "title": "Julio Javier Diez Casero",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nPatología Forestal\nControl Biológico Forestal"
-  },
-  {
-    "objectID": "people/diez_casero/index.html#institución",
-    "href": "people/diez_casero/index.html#institución",
-    "title": "Julio Javier Diez Casero",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Valladolid"
-  },
-  {
-    "objectID": "people/solla_alejandro/index.html#grupo-de-investigación",
-    "href": "people/solla_alejandro/index.html#grupo-de-investigación",
-    "title": "Alejandro Solla",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/solla_alejandro/index.html#institución",
-    "href": "people/solla_alejandro/index.html#institución",
-    "title": "Alejandro Solla",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Extremadura"
-  },
-  {
-    "objectID": "people/roces_diaz/index.html#grupo-de-investigación",
-    "href": "people/roces_diaz/index.html#grupo-de-investigación",
-    "title": "José Valentín (Pipo) Roces Díaz",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nLandscape & Fire Lab"
-  },
-  {
-    "objectID": "people/roces_diaz/index.html#institución",
-    "href": "people/roces_diaz/index.html#institución",
-    "title": "José Valentín (Pipo) Roces Díaz",
-    "section": "Institución",
-    "text": "Institución\n\nInstituto Mixto de Investigación en Biodiversidad. Universidad de Ovideo-CSIC"
-  },
-  {
-    "objectID": "people/hernandez_clemente/index.html#grupo-de-investigación",
-    "href": "people/hernandez_clemente/index.html#grupo-de-investigación",
-    "title": "Rocío Hernández-Clemente",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología Terrestre"
-  },
-  {
-    "objectID": "people/hernandez_clemente/index.html#institución",
-    "href": "people/hernandez_clemente/index.html#institución",
-    "title": "Rocío Hernández-Clemente",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
-    "objectID": "people/carreira_de_la_fuente/index.html#grupo-de-investigación",
-    "href": "people/carreira_de_la_fuente/index.html#grupo-de-investigación",
-    "title": "José Antonio Carreira de la Fuente",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología Forestal y del Suelo (PAIDI RNM-296)\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
-  },
-  {
-    "objectID": "people/carreira_de_la_fuente/index.html#institución",
-    "href": "people/carreira_de_la_fuente/index.html#institución",
-    "title": "José Antonio Carreira de la Fuente",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Jaén"
-  },
-  {
-    "objectID": "people/lecina_diaz/index.html#grupo-de-investigación",
-    "href": "people/lecina_diaz/index.html#grupo-de-investigación",
-    "title": "Judit Lecina-Díaz",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcosystem Dynamics and Forest Management in Mountain Landscapes"
-  },
-  {
-    "objectID": "people/lecina_diaz/index.html#institución",
-    "href": "people/lecina_diaz/index.html#institución",
-    "title": "Judit Lecina-Díaz",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Técnica de Munich"
-  },
-  {
-    "objectID": "people/martinez_sancho/index.html#grupo-de-investigación",
-    "href": "people/martinez_sancho/index.html#grupo-de-investigación",
-    "title": "Elisabet Martínez Sancho",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/martinez_sancho/index.html#institución",
-    "href": "people/martinez_sancho/index.html#institución",
-    "title": "Elisabet Martínez Sancho",
-    "section": "Institución",
-    "text": "Institución\n\nUniversitat de Barcelona"
-  },
-  {
-    "objectID": "people/matias_resina/index.html#grupo-de-investigación",
-    "href": "people/matias_resina/index.html#grupo-de-investigación",
-    "title": "Luis Matías Resina",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
-  },
-  {
-    "objectID": "people/matias_resina/index.html#institución",
-    "href": "people/matias_resina/index.html#institución",
-    "title": "Luis Matías Resina",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Sevilla"
-  },
-  {
-    "objectID": "people/alfaya_serrano/index.html#grupo-de-investigación",
-    "href": "people/alfaya_serrano/index.html#grupo-de-investigación",
-    "title": "Javier Alfaya Serrano",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nLaboratorio de Dendrocronología, Ciencias de la Madera, Ecología y Gestión Forestal (DendrOlavide)"
-  },
-  {
-    "objectID": "people/alfaya_serrano/index.html#institución",
-    "href": "people/alfaya_serrano/index.html#institución",
-    "title": "Javier Alfaya Serrano",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad Pablo de Olavide"
-  },
-  {
-    "objectID": "people/fernandez_de_blas/index.html#grupo-de-investigación",
-    "href": "people/fernandez_de_blas/index.html#grupo-de-investigación",
-    "title": "Cristopher Fernández de Blas",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nGrupo de Ecología y Restauración Forestal"
-  },
-  {
-    "objectID": "people/fernandez_de_blas/index.html#institución",
-    "href": "people/fernandez_de_blas/index.html#institución",
-    "title": "Cristopher Fernández de Blas",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Alcalá de Henares"
-  },
-  {
-    "objectID": "people/ruiz_gomez/index.html#grupo-de-investigación",
-    "href": "people/ruiz_gomez/index.html#grupo-de-investigación",
-    "title": "Francisco José Ruiz Gómez",
-    "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
-  },
-  {
-    "objectID": "people/ruiz_gomez/index.html#institución",
-    "href": "people/ruiz_gomez/index.html#institución",
-    "title": "Francisco José Ruiz Gómez",
-    "section": "Institución",
-    "text": "Institución\n\nUniversidad de Córdoba"
-  },
-  {
     "objectID": "people/rodriguez_sanchez/index.html#grupo-de-investigación",
     "href": "people/rodriguez_sanchez/index.html#grupo-de-investigación",
     "title": "Francisco Rodríguez Sánchez",
@@ -1195,5 +1181,19 @@
     "title": "Francisco Rodríguez Sánchez",
     "section": "Institución",
     "text": "Institución\n\nUniversidad de Sevilla"
+  },
+  {
+    "objectID": "people/andivia_enrique/index.html#grupo-de-investigación",
+    "href": "people/andivia_enrique/index.html#grupo-de-investigación",
+    "title": "Enrique Andivia",
+    "section": "Grupo de Investigación",
+    "text": "Grupo de Investigación\n\nForest Restoration and Adaptation Lab\nGrupo de Ecología y Restauración Forestal"
+  },
+  {
+    "objectID": "people/andivia_enrique/index.html#institución",
+    "href": "people/andivia_enrique/index.html#institución",
+    "title": "Enrique Andivia",
+    "section": "Institución",
+    "text": "Institución\n\nUniversidad Complutense de Madrid"
   }
 ]

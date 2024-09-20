@@ -1,6 +1,7 @@
 ---
 title: "Raúl García Valdés"
 email: "raul.garcia.valdes@urjc.es"  
+namesort: "garcia_valdes"
 image: avatar_garcia_valdes.jpg
 page-layout: full
 about: 

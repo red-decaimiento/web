@@ -1,6 +1,7 @@
 ---
 title: "Judit Lecina-Díaz"
 email: "judit.lecina@tum.de"  
+namesort: "lecina_diaz"
 image: avatar_lecina_diaz.jpg
 page-layout: full
 about: 
