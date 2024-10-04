@@ -1,0 +1,32 @@
+---
+title: "Jofre Carnicer cols"
+email: "jofre.carnicer@ub.edu"  
+namesort: "carnicer_cols"
+image: avatar_carnicer_cols.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_carnicer_cols.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jofre.carnicer@ub.edu
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.creaf.cat/es/personal/jofre-carnicer
+categories: [Dendroecología, Ecofisiología, Dinámica forestal, Ecología Forestal, Dendroquímica, Sensores forestales, sensores microclimáticos,]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Climate Change Ecolab 
+
+## Institución
+- [Centro de Investigación Ecológica y Aplicaciones Forestales](https://www.creaf.cat/es)
+- [Universitat de Barcelona](https://web.ub.edu/es/) 
+
+:::

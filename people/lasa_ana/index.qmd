@@ -1,0 +1,36 @@
+---
+title: "Ana Lasa"
+email: "radikal_ana@hotmail.com"  
+namesort: "lasa_ana"
+image: avatar_lasa_ana.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_lasa_ana.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: radikal_ana@hotmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3783-7157
+    - text: "{{< fa globe >}} Personal web"
+      href: https://grupos.eez.csic.es/mae/ana-v-lasa/
+categories: [Microbioma, Biodiversidad]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Microbiología de Ecosistemas Agroforestales](https://grupos.eez.csic.es/mae/)
+
+## Institución
+- [Estación Experimental del Zaidín. Consejo Superior de Investigaciones Científicas](https://www.eez.csic.es/)
+
+
+:::
+
+

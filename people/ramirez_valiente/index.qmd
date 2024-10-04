@@ -1,0 +1,31 @@
+---
+title: "José Alberto Ramírez-Valiente"
+email: "jose.ramirez@inia.csic.es"  
+namesort: "ramirez_valiente"
+image: avatar_ramirez_valiente.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_ramirez_valiente.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: jose.ramirez@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-5951-2938
+categories: [Ecofisiología, Ecología Forestal, Genética]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Departamento de Ecología y Genética Forestal / Genética de Poblaciones y Evolución](https://www.inia.es/investigacion/forestal/Ecolog%C3%ADa%20y%20Gen%C3%A9tica/Gen%C3%A9tica%20de%20poblaciones%20y%20evoluci%C3%B3n/Pages/Home.aspx)
+
+## Institución
+- [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

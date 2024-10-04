@@ -27,5 +27,6 @@ categories: [Dinámica forestal, Dendroecología, Modelización]
 
 ## Institución
 - [Centro de Investigación Ecológica y Aplicaciones Forestales](https://www.creaf.cat/es)
+- [Universitat de Barcelona](https://web.ub.edu/es/)
 
 :::
