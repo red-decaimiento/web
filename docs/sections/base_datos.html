@@ -190,7 +190,10 @@ ul.task-list li input[type="checkbox"] {
 </section>
 <section id="responsables" class="level3">
 <h3 class="anchored" data-anchor-id="responsables">Responsables</h3>
-<p>Por definir.</p>
+<ul>
+<li><a href="../../people/ruiz_benito">Paloma Ruiz-Benito</a></li>
+<li><a href="../../people/perez_luque">Antonio J. Pérez-Luque</a>)</li>
+</ul>
 
 
 </section>
@@ -277,7 +280,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp('/' + window.location.host + '/');
+      var filterRegex = new RegExp("https:\/\/red-decaimiento\.github\.io\/redecweb\/");
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

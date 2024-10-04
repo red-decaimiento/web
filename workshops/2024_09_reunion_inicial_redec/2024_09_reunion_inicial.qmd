@@ -5,6 +5,9 @@ toc: true
 toc-depth: 2
 ---
 
+# Conclusiones de las Jornadas 
+[Aquí](../../workshops/2024_09_reunion_inicial_redec/202409conclusiones.qmd) tienes las conclusiones de las jornadas. 
+
 # Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) de la investigación a la gestión adaptativa {.unnumbered .unlisted}
 
 - Fecha: 17 (reunión interna), 18 y 19 de Septiembre 2024 (jornadas públicas)
@@ -13,6 +16,9 @@ toc-depth: 2
 # Objetivos de la Reunión 
 
 La primera reunión de ReDec tiene como objetivo debatir sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la [primera](2024_09_reunion_inicial.qmd#sec-reunion-interna) pretende propiciar un espacio de debate entre los investigadores de la red en torno a mesas de trabajo que engloban las actividades de ReDec; la [segunda jornada](2024_09_reunion_inicial.qmd#sec-reunion-publica) pretende facilitar un punto de encuentro entre los investigadores y los gestores que hacen frente a los procesos de decaimiento en distintas comunidades autónomas y debatir posibles alternativas de mitigación, adaptación, restauración y resiliencia; y la [tercera jornada](2024_09_reunion_inicial.qmd#sec-visita-campo) donde se realizará un viaje compartido entre gestores e investigadores por zonas con diferentes estados de decaimiento en Andalucía.
+
+# Conclusiones de las Jornadas 
+[Aquí](../../workshops/2024_09_reunion_inicial_redec/202409conclusiones.qmd) tienes las conclusiones de las jornadas. 
 
 
 # Reunión interna miembros de ReDec {#sec-reunion-interna}
