@@ -190,6 +190,9 @@ ul.task-list li input[type="checkbox"] {
   <div class="about-contents"><div id="person-profile">
 <section id="grupo-de-investigación" class="level2">
 <h2 data-anchor-id="grupo-de-investigación">Grupo de Investigación</h2>
+<ul>
+<li><a href="https://www.inia.es/investigacion/forestal/Gesti%C3%B3n%20forestal/Din%C3%A1mica%20modelizaci%C3%B3n%20y%20gesti%C3%B3n%20forestal/Pages/Home.aspx">Grupo de Dinámica, Modelización y Gestión Forestal</a></li>
+</ul>
 </section>
 <section id="institución" class="level2">
 <h2 data-anchor-id="institución">Institución</h2>
@@ -279,7 +282,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/red-decaimiento\.github\.io\/redecweb\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

@@ -1,0 +1,43 @@
+---
+editor: visual
+toc: false
+---
+
+### Resúmen Primer Encuentro de la Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec). Nerja, septiembre 2024.
+
+La [primera reunión](../../workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.qmd) presencial de ReDeC se ha celebrado en Nerja (Málaga) los días 17-19 de septiembre de 2024. 
+
+El [primer día](../../workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.qmd#sec-reunion-interna) se reunieron 34 [miembros](../../people/index.qmd) de ReDeC en el Jardín Botánico Detunda-Cueva de Nerja, y se dedicó a discusiones sobre: 
+
+- (i) la generación de estándares para la evaluación del decaimiento forestal y la atribución de sus causas potenciales, 
+- (ii) el desarrollo de metodologías para la detección temprana del decaimiento, con un papel relevante de la teledetección, 
+- (iii) la creación de una base de datos de casos de decaimiento en España y su vinculación con iniciativas internacionales, 
+- (iv) la elaboración de protocolos para la monitorización a largo plazo del decaimiento, 
+- (v) el papel de los procesos edáficos en el decaimiento, y 
+- (vi) la divulgación y transferencia de resultados hacia la sociedad. 
+
+El [segundo día](workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.qmd#sec-reunion-publica) reunió en el Museo de Nerja a los miembros de ReDeC con una amplia representación de gestores forestales de las Comunidades Autónomas, del MITECO, de MAPA y de otras instituciones públicas, privadas y asociaciones, con una asistencia aproximada de 100 participantes. En el transcurso de la jornada se expuso la situación del decaimiento de los bosques a lo largo del territorio español, así como de diversas herramientas, técnicas y sistemas de evaluación y seguimiento, y de diferentes actuaciones de gestión para su mitigación. Para finalizar la sesión, se discutió la forma de implementar una colaboración bidireccional y operativa entre el ámbito científico y el de la gestión.
+
+El tercer día se realizó una excursión para ilustrar sobre el terreno diferentes casos de decaimiento y de tratamientos silvícolas en espacios protegidos: Parque Natural de las Sierras de Tejeda, Almijara y Alhama, Parque Natural Montes de Málaga y Parque Nacional de la Sierra de las Nieves. En cada lugar los directores y técnicos de los diferentes espacios explicaron la casuística particular y la gestión realizada.
+
+A resultas de la reunión se ha establecido una hoja de ruta con las siguientes iniciativas:
+
+- Elaborar un documento para identificar criterios y proponer una definición estándar de decaimiento forestal que considere umbrales aplicables a los ámbitos académicos y de gestión (Coordinación: [Antonio Gazol](../../people/gazol_burgos), [Cristina Acosta-Muñoz](../../people/acosta_cristina), [Raúl Sánchez-Salguero](../../people/sanchez_salguero))
+
+- Solicitar información a los miembros de ReDeC para crear una red que identifique los sistemas de estudio del decaimiento forestal en España, previa a una fase posterior en la que se diseñen posibles estudios comparativos (Coordinación: [Paloma Ruiz-Benito](../../people/ruiz_benito), [Antonio J. Pérez-Luque](../../people/perez_luque))
+
+- Recopilar información de sistemas de estudio del decaimiento en los que se realicen o se estén planificando seguimientos a medio/largo plazo con diferentes aproximaciones, como una primera fase para establecer un grupo de trabajo que desarrolle protocolos para la monitorización a largo plazo de las consecuencias del decaimiento (Coordinación: [Francisco Lloret](../../people/lloret_francisco), [Paloma Ruiz-Benito](../../people/ruiz_benito))
+
+- Recopilar información de sistemas de estudio del decaimiento que puedan servir para el desarrollo de procedimientos de alerta temprana del decaimiento mediante teledetección (Coordinación: [Rocío Hernández-Clemente](../../people/hernandez_clemente), [Mariano García Alonso](../../people/garcia_alonso), [José L. Quero](../../people/quero_jose))
+
+- Realizar una encuesta sobre los parámetros edáficos utilizados en el análisis del decaimiento y redacción de un documento con recomendaciones. Evaluar la posibilidad de programar un taller sobre técnicas y metodologías para integrar los procesos edáficos en el estudio del decaimiento forestal (Coordinación: [Lorena Gómez-Aparicio](../../people/gomez_aparicio), [Jorge Curiel](../../people/curiel_jorge), [José A. Carreira](../../people/carreira_de_la_fuente))
+
+- Implementar la página web de ReDeC, proporcionando la información de los miembros de ReDeC, las actividades de la red, y enlaces de interés (Coordinación: [Antonio J. Pérez-Luque](../../people/perez_luque))
+
+- Apoyar la renovación de Task Force sobre mortalidad forestal en el marco de IUFRO, de forma que ReDec se posicione activamente en dicha iniciativa (Coordinación: [Jordi Martínez-Vilalta](../../people/martinez_vilalta), [Francisco Lloret](../../people/lloret_francisco))
+
+- Establecer acciones para regularizar la interacción con los gestores forestales de la administración, que incluya reuniones, transferencia de información y trabajo conjunto, por ejemplo, creando un recopilatorio de casos de decaimiento (por ejemplo, con información de especies afectadas, localización, agentes causales probables, actuaciones de gestión realizadas y resultados) (Coordinación: [Raúl Sánchez-Salguero](../../people/sanchez_salguero))
+
+Finalmente, se acordó convocar una reunión presencial de ReDeC en 2025, a concretar en función del resultado de la solicitud presentada a la convocatoria de Redes de Investigación del MCINU, implementar reuniones on-line para desarrollar los temas específicos que lo requieran, y mantener el formato de reuniones conjuntas con gestores de las administraciones.
+
+ 
