@@ -6,5 +6,5 @@ Generación de una base de datos de sistemas de estudio de bosques con decaimien
 
 ### Responsables
 - [Paloma Ruiz-Benito](../../people/ruiz_benito)
-- [Antonio J. Pérez-Luque](../../people/perez_luque))
+- [Antonio J. Pérez-Luque](../../people/perez_luque)
 

@@ -7,6 +7,6 @@ format: html
 Elaboración de criterios para determinar el decaimiento forestal y sus causas climáticas y bióticas, así como sus consecuencias en los servicios ecosistémicos y en la biodiversidad. 
 
 ### Responsables
-- [Antonio Gazol](../../people/gazol_burgos), 
+- [Antonio Gazol](../../people/gazol_burgos)
 - [Cristina Acosta-Muñoz](../../people/acosta_cristina)
 - [Raúl Sánchez-Salguero](../../people/sanchez_salguero)

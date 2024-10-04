@@ -11,9 +11,9 @@ Establecimiento de redes de seguimiento y protocolos para monitorizar a largo pl
 #### Teledetección 
 - [Rocío Hernández-Clemente](../../people/hernandez_clemente)
 - [Mariano García Alonso](../../people/garcia_alonso)
-- [José L. Quero](../../people/quero_jose))
+- [José L. Quero](../../people/quero_jose)
 
-### Suelo y decaimiento forestal
+#### Suelo y decaimiento forestal
 - [Lorena Gómez-Aparicio](../../people/gomez_aparicio)
 - [Jorge Curiel](../../people/curiel_jorge)
 - [José A. Carreira](../../people/carreira_de_la_fuente)
