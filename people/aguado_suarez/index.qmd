@@ -1,0 +1,31 @@
+---
+title: "Inmaculada Aguado Suárez"
+email: "inmaculada.aguado@uah.es"  
+namesort: "aguado_suarez"
+image: avatar_aguado_suarez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aguado_suarez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: inmaculada.aguado@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9975-849X
+categories: [Teledetección, Monitorización, Dinámica forestal, Regeneración]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Departamento de Geología, Geografía y Medioambiente. Grupo de Investigación de Teledetección Ambiental](https://geogra.uah.es/gita/)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::
