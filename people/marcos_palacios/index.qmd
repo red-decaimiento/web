@@ -1,0 +1,31 @@
+---
+title: "María José Marcos Palacios"
+email: "ag2mapam@uco.es"  
+namesort: "marcos_palacios"
+image: avatar_marcos_palacios.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_marcos_palacios.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: ag2mapam@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-2516-5456	
+categories: [Teledetección, Modelos de transferencia radiativa, Ecofisiología, Biodiversidad y conservación	Espectroscopía de imagenes]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Ecología Terrestre RNM232
+
+## Institución
+- [Universidad de Córdoba](https://www.uco.es/)
+
+:::
