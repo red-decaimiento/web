@@ -18,6 +18,13 @@ library(janitor)
 file <- "/Users/ajpelu/Downloads/[Fillout] Solicitud Inscripción ReDeC results.csv"
 respuestas_fillout <- read_csv(file = file) |> janitor::clean_names()
 
+## filter by date 
+respuestas_fillout<- respuestas_fillout |>
+  mutate(last_updated2 = as.POSIXct(strptime(last_updated, "%a %b %d %Y %H:%M:%S", tz = "GMT"))) |> 
+  filter(last_updated2 >= as.POSIXct("2024-10-03", tz = "GMT"))
+  
+
+
 ## 2 Cargar las funciones ------------------------------------------------------
 generate_links <- function(x) { 
   
@@ -170,7 +177,7 @@ mypath <- here::here("people")
 
 ## 4. Aplica la función a cada respuesta del fillout ---------------------------
 # se puede aplicar un purr pero prefiero hacerlo uno a uno para revisar 
-generate_personal_page(respuestas_fillout[3,])
+generate_personal_page(respuestas_fillout[1,])
 
 ## 5. Siguientes pasos ---------------------------------------------------------
 # - Revisar institucion (nombre, url)
