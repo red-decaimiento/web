@@ -1,0 +1,31 @@
+---
+title: "María José 	López-Caro"
+email: "mjose.lopez@uah.es"  
+namesort: "lopez_caro"
+image: avatar_lopez_caro.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_ruiz_benito.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mjose.lopez@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6279-5801
+categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de Investigación en Teledetección Ambiental (GITA)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::
