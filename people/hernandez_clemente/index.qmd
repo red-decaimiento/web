@@ -15,7 +15,7 @@ about:
       href: rociohc@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-4434-8346
-categories: [Teledetección, Ecofisiología, Dinámica forestal, Modelización]
+categories: [Teledetección, Ecofisiología, Dinámica forestal, Modelización, Biodiversidad y conservación]
 ---
  
 <hr>
@@ -23,7 +23,7 @@ categories: [Teledetección, Ecofisiología, Dinámica forestal, Modelización]
 :::{#person-profile}
 
 ## Grupo de Investigación
-- Ecología Terrestre
+- Ecología Terrestre RNM232
 
 ## Institución
 - [Universidad de Córdoba](https://www.uco.es/)
