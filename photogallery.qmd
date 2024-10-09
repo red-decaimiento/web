@@ -7,7 +7,12 @@ lightbox:
   effect: fade
   desc-position: bottom
   loop: false
+toc: false
 ---
+
+- Las fotos incluidas en esta galería están sujetas a derechos de autor. Para utilizarlas, por favor cite el nombre del autor y obtenga su autorización previa a través del correo de la Red. Ejemplo: **Autor Foto**: *Raúl Rodríguez*, **Fuente**: ReDeC - redeciberica.es
+
+- Si quieres **contribuir** con tus fotos puedes hacerlo a través de este [formulario](https://redec.fillout.com/fotos)
 
 ::: {layout-ncol=3 layout-valign="center"}
 
