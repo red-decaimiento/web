@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0003-3366-5060
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Mariano-Moreno-De-Las-Heras
-categories: [Interacciones planta-suelo, Restauración, Dinámica forestal, Monitorización, Gestión forestal]
+categories: [Interacciones planta-suelo, Restauración, Dinámica forestal, Teledetección, Gestión forestal]
 ---
  
 <hr>
