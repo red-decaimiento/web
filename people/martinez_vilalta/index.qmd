@@ -29,6 +29,7 @@ categories: [Ecofisiología, Dendroecología, Dinámica forestal, Modelización,
 - Functional biogeography and resilience of terrestrial ecosystems (RESET)
 
 ## Institución
-- [Centro de Investigación Ecológica y Aplicaciones Forestales](https://www.creaf.cat/es)
+- [CREAF](https://www.creaf.cat/es)
+- [Universitat Autònoma de Barcelona](https://www.uab.cat/)
 
 :::
