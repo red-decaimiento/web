@@ -15,7 +15,7 @@ about:
       href: b62qupej@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-5553-506X
-categories: [Ecofisiología, Teledetección, Inventario]
+categories: [Ecología forestal, Selvicultura, Ecofisiología, Biodiversidad y conservación, Ecología]
 ---
  
 <hr>
@@ -23,9 +23,10 @@ categories: [Ecofisiología, Teledetección, Inventario]
 :::{#person-profile}
 
 ## Grupo de Investigación
-- Ecología Terrestre
+- Ecología Terrerstre RNM232
 
 ## Institución
 - [Universidad de Córdoba](https://www.uco.es/)
 
 :::
+																		
