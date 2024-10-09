@@ -13,7 +13,9 @@ about:
     - icon: envelope
       text: Email
       href: fran.tomas.riera@gmail.com
-categories: [Teledetección]
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0008-9116-3812	
+categories: [Teledetección, Ecofisiología, Ecología del suelo, Biodiversidad y conservación, Monitorización]
 ---
  
 <hr>
@@ -21,9 +23,10 @@ categories: [Teledetección]
 :::{#person-profile}
 
 ## Grupo de Investigación
-
+- Ecología Terrerstre RNM232
 
 ## Institución
 - [Universidad de Córdoba](https://www.uco.es/)
 
 :::
+	
