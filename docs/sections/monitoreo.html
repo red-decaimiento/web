@@ -158,7 +158,9 @@ ul.task-list li input[type="checkbox"] {
    
   <ul>
   <li><a href="#objetivos" id="toc-objetivos" class="nav-link active" data-scroll-target="#objetivos">Objetivos</a></li>
-  <li><a href="#responsables" id="toc-responsables" class="nav-link" data-scroll-target="#responsables">Responsables</a></li>
+  <li><a href="#teledetección" id="toc-teledetección" class="nav-link" data-scroll-target="#teledetección">Teledetección</a></li>
+  <li><a href="#suelo-y-decaimiento-forestal" id="toc-suelo-y-decaimiento-forestal" class="nav-link" data-scroll-target="#suelo-y-decaimiento-forestal">Suelo y decaimiento forestal</a></li>
+  <li><a href="#internacionalización" id="toc-internacionalización" class="nav-link" data-scroll-target="#internacionalización">Internacionalización</a></li>
   </ul>
 </nav>
     </div>
@@ -184,30 +186,37 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="objetivos" class="level3">
-<h3 class="anchored" data-anchor-id="objetivos">Objetivos</h3>
-<p>Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático</p>
+<section id="objetivos" class="level2">
+<h2 class="anchored" data-anchor-id="objetivos">Objetivos</h2>
+<p>Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:</p>
 </section>
-<section id="responsables" class="level3">
-<h3 class="anchored" data-anchor-id="responsables">Responsables</h3>
-<section id="teledetección" class="level4">
-<h4 class="anchored" data-anchor-id="teledetección">Teledetección</h4>
+<section id="teledetección" class="level2">
+<h2 class="anchored" data-anchor-id="teledetección">Teledetección</h2>
+<section id="responsables" class="level4">
+<h4 class="anchored" data-anchor-id="responsables">Responsables</h4>
 <ul>
 <li><a href="../../people/hernandez_clemente">Rocío Hernández-Clemente</a></li>
 <li><a href="../../people/garcia_alonso">Mariano García Alonso</a></li>
 <li><a href="../../people/quero_jose">José L. Quero</a></li>
 </ul>
 </section>
-<section id="suelo-y-decaimiento-forestal" class="level4">
-<h4 class="anchored" data-anchor-id="suelo-y-decaimiento-forestal">Suelo y decaimiento forestal</h4>
+</section>
+<section id="suelo-y-decaimiento-forestal" class="level2">
+<h2 class="anchored" data-anchor-id="suelo-y-decaimiento-forestal">Suelo y decaimiento forestal</h2>
+<section id="responsables-1" class="level4">
+<h4 class="anchored" data-anchor-id="responsables-1">Responsables</h4>
 <ul>
 <li><a href="../../people/gomez_aparicio">Lorena Gómez-Aparicio</a></li>
 <li><a href="../../people/curiel_jorge">Jorge Curiel</a></li>
 <li><a href="../../people/carreira_de_la_fuente">José A. Carreira</a></li>
 </ul>
 </section>
-<section id="internacionalización" class="level4">
-<h4 class="anchored" data-anchor-id="internacionalización">Internacionalización</h4>
+</section>
+<section id="internacionalización" class="level2">
+<h2 class="anchored" data-anchor-id="internacionalización">Internacionalización</h2>
+<p>El objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la <a href="https://www.tree-mortality.net/"><strong>International Tree Mortality Network</strong></a> y la <a href="https://www.iufro.org/science/task-forces/tree-mortality-patterns/"><strong>IUFRO Task Force</strong> <strong><em>‘Monitoring global tree mortality patterns and trends’</em></strong></a>; así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre <em>Monitoring biotic and abiotic forest disturbances</em>, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.</p>
+<section id="responsables-2" class="level4">
+<h4 class="anchored" data-anchor-id="responsables-2">Responsables</h4>
 <ul>
 <li><a href="../../people/lloret_francisco">Francisco Lloret</a></li>
 <li><a href="../../people/ruiz_benito">Paloma Ruiz-Benito</a></li>
@@ -300,7 +309,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/red-decaimiento\.github\.io\/redecweb\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

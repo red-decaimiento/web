@@ -690,7 +690,7 @@
     "href": "sections/monitoreo.html",
     "title": "Monitorización",
     "section": "",
-    "text": "Objetivos\nEstablecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático\n\n\nResponsables\n\nTeledetección\n\nRocío Hernández-Clemente\nMariano García Alonso\nJosé L. Quero\n\n\n\nSuelo y decaimiento forestal\n\nLorena Gómez-Aparicio\nJorge Curiel\nJosé A. Carreira\n\n\n\nInternacionalización\n\nFrancisco Lloret\nPaloma Ruiz-Benito\nJordi Martínez-Vilalta"
+    "text": "Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:"
   },
   {
     "objectID": "photogallery.html",
@@ -1272,5 +1272,33 @@
     "title": "Enrique Andivia",
     "section": "Institución",
     "text": "Institución\n\nUniversidad Complutense de Madrid"
+  },
+  {
+    "objectID": "sections/monitoreo.html#objetivos",
+    "href": "sections/monitoreo.html#objetivos",
+    "title": "Monitorización",
+    "section": "",
+    "text": "Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:"
+  },
+  {
+    "objectID": "sections/monitoreo.html#teledetección",
+    "href": "sections/monitoreo.html#teledetección",
+    "title": "Monitorización",
+    "section": "Teledetección",
+    "text": "Teledetección\n\nResponsables\n\nRocío Hernández-Clemente\nMariano García Alonso\nJosé L. Quero"
+  },
+  {
+    "objectID": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
+    "href": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
+    "title": "Monitorización",
+    "section": "Suelo y decaimiento forestal",
+    "text": "Suelo y decaimiento forestal\n\nResponsables\n\nLorena Gómez-Aparicio\nJorge Curiel\nJosé A. Carreira"
+  },
+  {
+    "objectID": "sections/monitoreo.html#internacionalización",
+    "href": "sections/monitoreo.html#internacionalización",
+    "title": "Monitorización",
+    "section": "Internacionalización",
+    "text": "Internacionalización\nEl objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la International Tree Mortality Network y la IUFRO Task Force ‘Monitoring global tree mortality patterns and trends’; así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre Monitoring biotic and abiotic forest disturbances, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.\n\nResponsables\n\nFrancisco Lloret\nPaloma Ruiz-Benito\nJordi Martínez-Vilalta"
   }
 ]
