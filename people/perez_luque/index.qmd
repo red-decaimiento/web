@@ -25,8 +25,7 @@ categories: [Teledetección, Dendroecología, Monitorización, Modelización]
 :::{#person-profile}
 
 ## Grupo de Investigación
-- Ecología y Genética Forestal. Ecología Funcional de Especies Forestales
-- Grupo de Ecología Terrestre
+- [Ecología y Genética Forestal. Ecología Funcional de Especies Forestales](https://www.inia.es/investigacion/forestal/Ecolog%C3%ADa%20y%20Gen%C3%A9tica/Ecolog%C3%ADa%20funcional%20de%20especies%20forestales/Pages/Home.aspx)
 
 ## Institución
 - [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)

@@ -15,7 +15,7 @@ about:
       href: rmnavarro@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3470-8640
-categories: [Dinámica forestal, Gestión forestal, Inventario, Teledetección]
+categories: [Selvicultura, Teledetección, Monitorización, Gestión forestal]
 ---
  
 <hr>
@@ -23,7 +23,7 @@ categories: [Dinámica forestal, Gestión forestal, Inventario, Teledetección]
 :::{#person-profile}
 
 ## Grupo de Investigación
-- Evaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)
+- Evaluación y Restauración de Sistemas Agrícolas y Forestales (RNM 360)
 
 ## Institución
 - [Universidad de Córdoba](https://www.uco.es/)

@@ -26,6 +26,6 @@ categories: [Dinámica forestal, Inventario, Modelización]
 - [Grupo de Dinámica, Modelización y Gestión Forestal](https://www.inia.es/investigacion/forestal/Gesti%C3%B3n%20forestal/Din%C3%A1mica%20modelizaci%C3%B3n%20y%20gesti%C3%B3n%20forestal/Pages/Home.aspx)
 
 ## Institución
-- [Instituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+- [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
 
 :::

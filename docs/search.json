@@ -46,7 +46,7 @@
     "href": "people/perez_luque/index.html#grupo-de-investigación",
     "title": "Antonio J. Pérez-Luque",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales\nGrupo de Ecología Terrestre"
+    "text": "Grupo de Investigación\n\nEcología y Genética Forestal. Ecología Funcional de Especies Forestales"
   },
   {
     "objectID": "people/perez_luque/index.html#institución",
@@ -116,7 +116,7 @@
     "href": "people/navarro_cerrillo/index.html#grupo-de-investigación",
     "title": "Rafael M. Navarro-Cerrillo",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (ERSAF)"
+    "text": "Grupo de Investigación\n\nEvaluación y Restauración de Sistemas Agrícolas y Forestales (RNM 360)"
   },
   {
     "objectID": "people/navarro_cerrillo/index.html#institución",
@@ -151,7 +151,7 @@
     "href": "people/martin_benito/index.html#institución",
     "title": "Darío Martín Benito",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/zamora_rodriguez/index.html#grupo-de-investigación",
@@ -389,7 +389,7 @@
     "href": "people/gea_izquierdo/index.html#institución",
     "title": "Guillermo Gea Izquierdo",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/astigarraga_julen/index.html#grupo-de-investigación",
@@ -571,7 +571,7 @@
     "href": "people/calama_rafael/index.html#institución",
     "title": "Rafael Calama",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "index.html",
@@ -693,6 +693,34 @@
     "text": "Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:"
   },
   {
+    "objectID": "sections/monitoreo.html#objetivos",
+    "href": "sections/monitoreo.html#objetivos",
+    "title": "Monitorización",
+    "section": "",
+    "text": "Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:"
+  },
+  {
+    "objectID": "sections/monitoreo.html#teledetección",
+    "href": "sections/monitoreo.html#teledetección",
+    "title": "Monitorización",
+    "section": "Teledetección",
+    "text": "Teledetección\n\nResponsables\n\nRocío Hernández-Clemente\nMariano García Alonso\nJosé L. Quero"
+  },
+  {
+    "objectID": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
+    "href": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
+    "title": "Monitorización",
+    "section": "Suelo y decaimiento forestal",
+    "text": "Suelo y decaimiento forestal\n\nResponsables\n\nLorena Gómez-Aparicio\nJorge Curiel\nJosé A. Carreira"
+  },
+  {
+    "objectID": "sections/monitoreo.html#internacionalización",
+    "href": "sections/monitoreo.html#internacionalización",
+    "title": "Monitorización",
+    "section": "Internacionalización",
+    "text": "Internacionalización\nEl objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la International Tree Mortality Network y la IUFRO Task Force ‘Monitoring global tree mortality patterns and trends’; así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre Monitoring biotic and abiotic forest disturbances, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.\n\nResponsables\n\nFrancisco Lloret\nPaloma Ruiz-Benito\nJordi Martínez-Vilalta"
+  },
+  {
     "objectID": "photogallery.html",
     "href": "photogallery.html",
     "title": "Red Ibérica de Decaimiento Forestal inducido por el Clima",
@@ -718,7 +746,7 @@
     "href": "people/aranda_garcia/index.html#institución",
     "title": "Ismael Aranda García",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/escudero_alcantara/index.html#grupo-de-investigación",
@@ -844,7 +872,7 @@
     "href": "people/aldea_jorge/index.html#institución",
     "title": "Jorge Aldea",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/quero_jose/index.html#grupo-de-investigación",
@@ -872,7 +900,7 @@
     "href": "people/aponte_cristina/index.html#institución",
     "title": "Cristina Aponte",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/diez_casero/index.html#grupo-de-investigación",
@@ -984,7 +1012,7 @@
     "href": "people/romeralo_tapia/index.html#institución",
     "title": "Carmen Romeralo Tapia",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/lecina_diaz/index.html#grupo-de-investigación",
@@ -1082,14 +1110,14 @@
     "href": "people/del_rio/index.html#grupo-de-investigación",
     "title": "Miren del Río",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación"
+    "text": "Grupo de Investigación\n\nGrupo de Dinámica, Modelización y Gestión Forestal"
   },
   {
     "objectID": "people/del_rio/index.html#institución",
     "href": "people/del_rio/index.html#institución",
     "title": "Miren del Río",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/linares_juan/index.html#grupo-de-investigación",
@@ -1152,14 +1180,14 @@
     "href": "people/pardos_marta/index.html#grupo-de-investigación",
     "title": "Marta Pardos",
     "section": "Grupo de Investigación",
-    "text": "Grupo de Investigación\n\nDinámica y Gestión Forestal. Dinám​ica, modelización y gestión forestal"
+    "text": "Grupo de Investigación\n\nGrupo de Dinámica, Modelización y Gestión Forestal"
   },
   {
     "objectID": "people/pardos_marta/index.html#institución",
     "href": "people/pardos_marta/index.html#institución",
     "title": "Marta Pardos",
     "section": "Institución",
-    "text": "Institución\n\nInstituto de Ciencias Forestales, InInstituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
+    "text": "Institución\n\nInstituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas"
   },
   {
     "objectID": "people/camarero_jesus/index.html#grupo-de-investigación",
@@ -1272,33 +1300,5 @@
     "title": "Enrique Andivia",
     "section": "Institución",
     "text": "Institución\n\nUniversidad Complutense de Madrid"
-  },
-  {
-    "objectID": "sections/monitoreo.html#objetivos",
-    "href": "sections/monitoreo.html#objetivos",
-    "title": "Monitorización",
-    "section": "",
-    "text": "Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos:"
-  },
-  {
-    "objectID": "sections/monitoreo.html#teledetección",
-    "href": "sections/monitoreo.html#teledetección",
-    "title": "Monitorización",
-    "section": "Teledetección",
-    "text": "Teledetección\n\nResponsables\n\nRocío Hernández-Clemente\nMariano García Alonso\nJosé L. Quero"
-  },
-  {
-    "objectID": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
-    "href": "sections/monitoreo.html#suelo-y-decaimiento-forestal",
-    "title": "Monitorización",
-    "section": "Suelo y decaimiento forestal",
-    "text": "Suelo y decaimiento forestal\n\nResponsables\n\nLorena Gómez-Aparicio\nJorge Curiel\nJosé A. Carreira"
-  },
-  {
-    "objectID": "sections/monitoreo.html#internacionalización",
-    "href": "sections/monitoreo.html#internacionalización",
-    "title": "Monitorización",
-    "section": "Internacionalización",
-    "text": "Internacionalización\nEl objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la International Tree Mortality Network y la IUFRO Task Force ‘Monitoring global tree mortality patterns and trends’; así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre Monitoring biotic and abiotic forest disturbances, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.\n\nResponsables\n\nFrancisco Lloret\nPaloma Ruiz-Benito\nJordi Martínez-Vilalta"
   }
 ]
