@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_venturas_martin.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: martin.venturas@upm.es
+      href: mailto:martin.venturas@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-5972-9064
     - text: "{{< fa globe >}} Personal web"

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_garcia_valdes.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: raul.garcia.valdes@urjc.es
+      href: mailto:raul.garcia.valdes@urjc.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-6399-4709
     - text: "{{< fa globe >}} Personal web"

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_aroca_fernandez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: pepa.aroca@upm.es
+      href: mailto:pepa.aroca@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-0608-886X
 categories: [Edafología, Restauración, Gestión forestal]

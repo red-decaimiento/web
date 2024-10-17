@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_martinez_sancho.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: eli.martinez@ub.edu
+      href: mailto:eli.martinez@ub.edu
 categories: []
 ---
  

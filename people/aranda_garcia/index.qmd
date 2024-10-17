@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_aranda_garcia.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: aranda@inia.csic.es
+      href: mailto:aranda@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9086-7940
 categories: [Ecofisiología, Metabolómica, Ecología Forestal, Regeneración]

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_marcos_palacios.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: ag2mapam@uco.es
+      href: mailto:ag2mapam@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2516-5456	
 categories: [Teledetección, Modelos de transferencia radiativa, Ecofisiología, Biodiversidad y conservación	Espectroscopía de imagenes]

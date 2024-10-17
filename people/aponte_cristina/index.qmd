@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_aponte_cristina.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: cristina.aponte@inia.csic.es
+      href: mailto:cristina.aponte@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8457-7573
 categories: [Interacciones planta-suelo, Dinámica forestal, Ecología de Suelos]

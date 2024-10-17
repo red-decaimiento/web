@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_martinez_vilalta.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jordi.martinez.vilalta@uab.es
+      href: mailto:jordi.martinez.vilalta@uab.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2332-7298
     - text: "{{< fa globe >}} Personal web"

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_andivia_enrique.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: eandivia@ucm.es
+      href: mailto:eandivia@ucm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9096-3294
     - text: "{{< fa globe >}} Personal web"

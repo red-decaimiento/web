@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_rodes_blanco.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: marina.rodes@uah.es
+      href: mailto:marina.rodes@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9326-5101
 categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]

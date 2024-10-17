@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_matias_resina.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: lmatias@us.es
+      href: mailto:lmatias@us.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-5603-5390
     - text: "{{< fa globe >}} Personal web"

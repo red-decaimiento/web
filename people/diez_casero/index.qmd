@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_diez_casero.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: juliojavier.diez@uva.es
+      href: mailto:juliojavier.diez@uva.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-0558-8141
     - text: "{{< fa globe >}} Personal web"

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_lecina_diaz.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: judit.lecina@tum.de
+      href: mailto:judit.lecina@tum.de
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6867-5886
 categories: [Dinámica forestal, Inventario, Gestión forestal, Monitorización]

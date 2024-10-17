@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_carnicer_cols.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jofre.carnicer@ub.edu
+      href: mailto:jofre.carnicer@ub.edu
     - text: "{{< fa globe >}} Personal web"
       href: https://www.creaf.cat/es/personal/jofre-carnicer
 categories: [Dendroecología, Ecofisiología, Dinámica forestal, Ecología Forestal, Dendroquímica, Sensores forestales, sensores microclimáticos,]

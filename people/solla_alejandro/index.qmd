@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_solla_alejandro.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: asolla@unex.es
+      href: mailto:asolla@unex.es
 categories: []
 ---
  

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_ruiz_benito.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: mjose.lopez@uah.es
+      href: mailto:mjose.lopez@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6279-5801
 categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]

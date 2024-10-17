@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_batllori_presas.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: enric.batllori@ub.edu
+      href: mailto:enric.batllori@ub.edu
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2130-0489
 categories: [Dinámica forestal, Biogeografía, Dendroecología]

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_vilagrosa_carmona.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: alberto.vilagrosa@mscloud.ua.es
+      href: mailto:alberto.vilagrosa@mscloud.ua.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1432-1214
     - text: "{{< fa globe >}} Personal web"

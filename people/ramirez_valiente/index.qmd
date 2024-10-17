@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_ramirez_valiente.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jose.ramirez@inia.csic.es
+      href: mailto:jose.ramirez@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5951-2938
 categories: [Ecofisiología, Ecología Forestal, Genética]

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_alcaraz_domingo.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: dalcaraz@ugr.es
+      href: mailto:dalcaraz@ugr.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-8988-4540
 categories: [Teledetección]

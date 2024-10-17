@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_salomon_roberto.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: roberto.salomon@upm.es
+      href: mailto:roberto.salomon@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-2674-1731
 categories: [Ecofisiología, Modelización, Dendroecología, Gestión forestal]

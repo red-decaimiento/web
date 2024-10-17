@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_gea_izquierdo.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: gea.guillermo@inia.csic.es
+      href: mailto:gea.guillermo@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-0148-3721
     - text: "{{< fa globe >}} Personal web"

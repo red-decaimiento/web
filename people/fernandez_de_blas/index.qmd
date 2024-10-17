@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_fernandez_de_blas.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: cristopher.fernandez@uah.es
+      href: mailto:cristopher.fernandez@uah.es
 categories: [Dinámica forestal, Ecofisiología, Inventario]
 ---
  

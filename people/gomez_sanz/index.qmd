@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_gomez_sanz.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: valentín.gomez@upm.es
+      href: mailto:valentín.gomez@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-4661-1654
 categories: [Ecología de Suelos, Evaluación Medio Físico, Ecología del Paisaje, Autoecología]

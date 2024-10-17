@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_margalef_jordi.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jmargalefmarrase@gmail.com
+      href: mailto:jmargalefmarrase@gmail.com
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/000-0003-4369-9918
 categories: [Dinámica forestal, Dendroecología, Modelización, Patología]

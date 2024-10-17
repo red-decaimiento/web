@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_moreno_de_las_heras.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: mariano.moreno@ub.edu
+      href: mailto:mariano.moreno@ub.edu
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3366-5060
     - text: "{{< fa globe >}} Personal web"

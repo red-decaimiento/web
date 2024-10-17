@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_alfaya_serrano.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jalfaya98@gmail.com
+      href: mailto:jalfaya98@gmail.com
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]
 ---
  

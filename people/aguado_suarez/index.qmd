@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_aguado_suarez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: inmaculada.aguado@uah.es
+      href: mailto:inmaculada.aguado@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9975-849X
 categories: [Teledetección, Monitorización, Dinámica forestal, Regeneración]

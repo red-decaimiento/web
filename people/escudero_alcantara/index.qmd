@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_escudero_alcantara.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: adrian.escudero@urjc.es
+      href: mailto:adrian.escudero@urjc.es
 categories: []
 ---
  

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_zavala_miguel.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: ma.zavala@uah.es
+      href: mailto:ma.zavala@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-1456-0132
 categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]

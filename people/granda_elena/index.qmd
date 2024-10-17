@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_granda_elena.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: elena.granda@uah.es
+      href: mailto:elena.granda@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9559-4213
     - text: "{{< fa globe >}} Personal web"

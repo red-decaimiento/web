@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_carreira_de_la_fuente.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jafuente@ujaen.es
+      href: mailto:jafuente@ujaen.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5995-076X
     - text: "{{< fa globe >}} Personal web"

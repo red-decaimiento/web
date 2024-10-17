@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_martin_garcia.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: juan.martin.garcia@upm.es
+      href: mailto:juan.martin.garcia@upm.es
 categories: []
 ---
  

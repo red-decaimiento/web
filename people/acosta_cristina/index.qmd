@@ -1,6 +1,6 @@
 ---
 title: "Cristina Acosta"
-email: "cristina.acostamunoz@gmail.com"  
+email: "cristina.acosta@uco.es"  
 namesort: "acosta_cristina"
 image: avatar_acosta_cristina.jpg
 page-layout: full
@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_acosta_cristina.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: cristina.acostamunoz@gmail.com
+      href: mailto:mailto:cristina.acosta@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9796-6367
 categories: [Teledetección, Dinámica forestal]

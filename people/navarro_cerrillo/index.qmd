@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_navarro_cerrillo.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: rmnavarro@uco.es
+      href: mailto:rmnavarro@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3470-8640
 categories: [Selvicultura, Teledetección, Monitorización, Gestión forestal]

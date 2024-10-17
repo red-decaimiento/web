@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_rodriguez_sanchez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: frodriguez@us.es
+      href: mailto:frodriguez@us.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7981-1599
     - text: "{{< fa globe >}} Personal web"

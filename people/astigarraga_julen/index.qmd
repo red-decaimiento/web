@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_astigarraga_julen.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: julenastigarraga@gmail.com
+      href: mailto:julenastigarraga@gmail.com
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9520-3713
     - text: "{{< fa globe >}} Personal web"

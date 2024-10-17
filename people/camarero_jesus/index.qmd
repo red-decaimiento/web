@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_camarero_jesus.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jjcamarero@ipe.csic.es
+      href: mailto:jjcamarero@ipe.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-2436-2922
 categories: [Dinámica forestal, Dendroecología]

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_morcillo_julia.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: luna@ua.es
+      href: mailto:luna@ua.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8589-4300
     - text: "{{< fa globe >}} Personal web"

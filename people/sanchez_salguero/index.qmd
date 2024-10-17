@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_sanchez_salguero.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: rsanchez@upo.es
+      href: mailto:rsanchez@upo.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6545-5810
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_gaston_gonzalez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: aitor.gaston@upm.es
+      href: mailto:aitor.gaston@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-0443-3909
     - text: "{{< fa globe >}} Personal web"

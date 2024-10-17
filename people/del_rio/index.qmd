@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_del_rio.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: delrio@inia.csic.es
+      href: mailto:delrio@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7496-3713
 categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]

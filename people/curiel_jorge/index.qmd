@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_curiel_jorge.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jorge.curiel@bc3research.org
+      href: mailto:jorge.curiel@bc3research.org
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-3221-6960
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica]

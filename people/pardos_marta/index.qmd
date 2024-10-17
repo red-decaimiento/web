@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_pardos_marta.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: pardos@inia.csic.es
+      href: mailto:pardos@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5567-5406
 categories: [Dinámica forestal, Gestión forestal, Inventario, Modelización, Monitorización]

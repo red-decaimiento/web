@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_hodar_jose.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: jhodar@ugr.es
+      href: mailto:jhodar@ugr.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3475-4997
 categories: [Interacciones bióticas]

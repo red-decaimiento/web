@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_sanguesa_barreda.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: gabriel.sanguesa@uva.es
+      href: mailto:gabriel.sanguesa@uva.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7722-2424
 categories: [Dendroecología, Dinámica forestal, Monitorización, Ecofisiología]

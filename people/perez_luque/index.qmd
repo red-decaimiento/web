@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_perez_luque.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: antonio.perez@inia.csic.es
+      href: mailto:antonio.perez@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1747-0469
     - text: "{{< fa globe >}} Personal web"

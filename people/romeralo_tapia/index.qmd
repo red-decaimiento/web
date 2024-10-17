@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_romeralo_tapia.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: carmen.romeralo@inia.csic.es
+      href: mailto:carmen.romeralo@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8510-9915
 categories: [Patología, Interacciones bióticas]

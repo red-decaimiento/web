@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_zamora_rodriguez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: rzamora@ugr.es
+      href: mailto:rzamora@ugr.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-5049-9968
 categories: [Dendroecología, Gestión forestal, Inventario, Modelización, Monitorización]

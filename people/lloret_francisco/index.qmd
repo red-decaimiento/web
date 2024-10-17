@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_lloret_francisco.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: francisco.lloret@uab.cat
+      href: mailto:francisco.lloret@uab.cat
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9836-4069
 categories: [Dinámica forestal, Dendroecología, Modelización]

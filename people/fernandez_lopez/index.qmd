@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_fernandez_lopez.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: manuel.fernandez@eez.csic.es
+      href: mailto:manuel.fernandez@eez.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-2366-6908
     - text: "{{< fa globe >}} Personal web"

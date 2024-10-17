@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_de_la_mata.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: delamatapombo@yahoo.es
+      href: mailto:delamatapombo@yahoo.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-1744-5543
     - text: "{{< fa globe >}} Personal web"

@@ -10,9 +10,9 @@ about:
   image-shape: round
   image: avatar_lopez_rosana.jpg
   links:
-    - icon: envelope
+    - icon: new-icon
       text: Email
-      href: rosanalop@gmail.com
+      href: mailto:rosanalop@gmail.com
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3553-9148
 categories: [Ecofisiología, Dendroecología, Gestión forestal, Monitorización, Genética]
