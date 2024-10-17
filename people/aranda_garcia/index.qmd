@@ -15,7 +15,7 @@ about:
       href: mailto:aranda@inia.csic.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9086-7940
-categories: [Ecofisiología, Metabolómica, Ecología Forestal, Regeneración]
+categories: [Ecofisiología, Metabolómica, Ecología forestal, Regeneración]
 ---
  
 <hr>

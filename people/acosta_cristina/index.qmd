@@ -12,7 +12,7 @@ about:
   links:
     - icon: new-icon
       text: Email
-      href: mailto:mailto:cristina.acosta@uco.es
+      href: mailto:cristina.acosta@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9796-6367
 categories: [Teledetección, Dinámica forestal]

@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0002-0443-3909
     - text: "{{< fa globe >}} Personal web"
       href: https://blogs.upm.es/aitorgaston/
-categories: [Ecología Forestal, Modelización, Edafología, Biodiversidad]
+categories: [Ecología forestal, Modelización, Edafología, Biodiversidad]
 ---
  
 <hr>

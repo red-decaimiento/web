@@ -15,7 +15,7 @@ about:
       href: mailto:ir2gomop@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9764-8927
-categories: [Especies Invasoras, Modelización, Dinámica forestal]
+categories: [Especies invasoras, Modelización, Dinámica forestal]
 ---
  
 <hr>

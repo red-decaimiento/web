@@ -15,7 +15,7 @@ about:
       href: mailto:jesus.rcalcerrada@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7408-7653
-categories: [Ecofisiología, Dinámica forestal, Ecología Forestal, Selvicultura, Regeneración]
+categories: [Ecofisiología, Dinámica forestal, Ecología forestal, Selvicultura, Regeneración]
 ---
  
 <hr>
