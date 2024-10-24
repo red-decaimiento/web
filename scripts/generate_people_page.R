@@ -21,8 +21,10 @@ respuestas_fillout <- read_csv(file = file) |> janitor::clean_names()
 ## filter by date 
 respuestas_fillout<- respuestas_fillout |>
   mutate(last_updated2 = as.POSIXct(strptime(last_updated, "%a %b %d %Y %H:%M:%S", tz = "GMT"))) |> 
-  filter(last_updated2 >= as.POSIXct("2024-10-03", tz = "GMT"))
+  filter(last_updated2 >= as.POSIXct("2024-10-14", tz = "GMT"))
   
+
+respuestas_fillout |> unique()
 
 
 ## 2 Cargar las funciones ------------------------------------------------------
@@ -33,7 +35,7 @@ generate_links <- function(x) {
     links:
       - icon: envelope
         text: Email
-        href: {x$email}
+        href: mailto:{x$email}
   '
   )
   
@@ -177,7 +179,7 @@ mypath <- here::here("people")
 
 ## 4. Aplica la función a cada respuesta del fillout ---------------------------
 # se puede aplicar un purr pero prefiero hacerlo uno a uno para revisar 
-generate_personal_page(respuestas_fillout[1,])
+generate_personal_page(respuestas_fillout[2,])
 
 ## 5. Siguientes pasos ---------------------------------------------------------
 # - Revisar institucion (nombre, url)

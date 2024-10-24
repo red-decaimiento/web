@@ -1,0 +1,31 @@
+---
+title: "Pedro Rebollo"
+email: "prebollo@ucm.es"  
+namesort: "rebollo_pedro"
+image: avatar_rebollo_pedro.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rebollo_pedro.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:prebollo@ucm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9448-7507
+categories: [Dinámica forestal, Ecología forestal, Inventario, Perturbaciones forestales]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Departamento de Biodiversidad, Ecología y Evolución (UCM)/Grupo de Ecología y Restauración Forestal (UAH)](https://forecolab.web.uah.es/)
+
+## Institución
+- Universidad Complutense de Madrid
+
+:::

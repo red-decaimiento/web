@@ -1,0 +1,31 @@
+---
+title: "Julián Tijerín Triviño"
+email: "julian.tijerin@uah.es"  
+namesort: "tijerin_trivino"
+image: avatar_tijerin_trivino.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_tijerin_trivino.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:julian.tijerin@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-9576-4780
+categories: [Ecología Forestal, Inventario, Modelización, Teledetección, Dinámica forestal]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Unidad docente de Ecología/Departamento de Ciencias de la Vida/Grupo de Investigación Ecología y Restauración Forestal (FORECO)/ Grupo de Investigación de Teledetección Ambiental](https://forecolab.web.uah.es/)
+
+## Institución
+- Universidad de Alcalá
+
+:::
