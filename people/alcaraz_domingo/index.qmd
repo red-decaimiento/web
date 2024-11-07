@@ -2,13 +2,13 @@
 title: "Domingo Alcaraz-Segura"
 email: "dalcaraz@ugr.es"  
 namesort: "alcaraz_domingo"
-image: avatar_alcaraz_domingo.jpg
+image: avatar_alcaraz_domingo.png
 page-layout: full
 about: 
   id: person-profile
   template: trestles
   image-shape: round
-  image: avatar_alcaraz_domingo.jpg
+  image: avatar_alcaraz_domingo.png
   links:
     - icon: new-icon
       text: Email

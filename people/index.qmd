@@ -21,6 +21,7 @@ listing:
 :::
 
 ## Miembros
+Por orden alfabético. 
 
 :::{#miembros}
 :::
