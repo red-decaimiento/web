@@ -1,0 +1,31 @@
+---
+title: "Álvaro Cortés Molino"
+email: "alvarocmolino@gmail.com"  
+namesort: "cortes_molino"
+image: avatar_cortes_molino.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_cortes_molino.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alvarocmolino@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/https://orcid.org/0000-0001-5350-9028
+categories: [Dinámica forestal, Dinámica del paisaje, Ecología forestal, Teledetección, Ecofisiología]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Dinámica del paisaje y biodiversidad](https://www.ctfc.cat/es/dinamicapaisatge.php)
+
+## Institución
+- Centro de Ciencia y Tecnología Forestal de Cataluña ([CTFC](https://www.ctfc.cat/es/))
+
+:::

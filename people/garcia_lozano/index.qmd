@@ -1,0 +1,30 @@
+---
+title: "Elena García Lozano"
+email: "elenagarcialozano@gmail.com"  
+namesort: "garcia_lozano"
+image: avatar_garcia_lozano.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_garcia_lozano.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:elenagarcialozano@gmail.com
+categories: [Gestión forestal, Ecosistemas, Gestores]
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- Tragsatec
+- Parque Natural Sierra de Baza (Junta de Andalucía)
+
+:::
