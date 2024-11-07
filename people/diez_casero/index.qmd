@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0003-0558-8141
     - text: "{{< fa globe >}} Personal web"
       href: https://investigacion.uva.es/CawDOS//jsf/seleccionActividades/seleccionActividades.jsf?id=b7574af43e9e6f09&idioma=es&tipo=activ,&elmeucv=N
-categories: [Patología, Micología, Virología, Control Biológico, Decaimientos]
+categories: [Patología, Micología, Virología, Control biológico, Decaimientos]
 ---
  
 <hr>

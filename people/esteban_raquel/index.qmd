@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0003-2560-3310
     - text: "{{< fa globe >}} Personal web"
       href: https://resteban224.wixsite.com/http-raquelesteban
-categories: [Ecofisiología, Compuestos de Fotoprotección]
+categories: [Ecofisiología, Compuestos de fotoprotección]
 ---
  
 <hr>

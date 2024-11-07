@@ -15,7 +15,7 @@ about:
       href: mailto:valentín.gomez@upm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-4661-1654
-categories: [Ecología de Suelos, Evaluación Medio Físico, Ecología del Paisaje, Autoecología]
+categories: [Ecología de suelos, Ecología del paisaje, Ecología]
 ---
  
 <hr>

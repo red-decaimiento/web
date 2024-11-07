@@ -15,7 +15,7 @@ about:
       href: mailto:jofre.carnicer@ub.edu
     - text: "{{< fa globe >}} Personal web"
       href: https://www.creaf.cat/es/personal/jofre-carnicer
-categories: [Dendroecología, Ecofisiología, Dinámica forestal, Ecología forestal, Dendroquímica, Sensores forestales, sensores microclimáticos]
+categories: [Dendroecología, Ecofisiología, Dinámica forestal, Ecología forestal, Dendroquímica, Sensorización]
 ---
  
 <hr>

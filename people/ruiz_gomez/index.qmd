@@ -15,7 +15,7 @@ about:
       href: mailto:g72rugof@uco.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1999-3415
-categories: [Patología, Microbioma, Manejo de Ecosistemas, Monitorización, Ecofisiología]
+categories: [Patología, Microbioma, Monitorización, Ecofisiología]
 ---
  
 <hr>

@@ -15,7 +15,7 @@ about:
       href: mailto:fran.tomas.riera@gmail.com
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0009-0008-9116-3812	
-categories: [Teledetección, Ecofisiología, Ecología del suelo, Biodiversidad y conservación, Monitorización]
+categories: [Teledetección, Ecofisiología, Ecología de suelos, Biodiversidad y conservación, Monitorización]
 ---
  
 <hr>
