@@ -11,8 +11,11 @@ about:
   image: avatar_gomez_aparicio.jpg
   links:
     - icon: new-icon
-      text: Email
+      text: Email 
       href: mailto:lorenag@irnase.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-5122-3579
+      
 categories: [Dinámica forestal, Interacciones planta-suelo, Interacciones bióticas, Inventario, Modelización]
 ---
  
@@ -21,7 +24,7 @@ categories: [Dinámica forestal, Interacciones planta-suelo, Interacciones biót
 :::{#person-profile}
 
 ## Grupo de Investigación
-
+- Grupo [Sistemas Forestales Mediterráneos](https://www.irnas.csic.es/es/investigacion/departamentos/biogeoquimica-ecologia-vegetal-y-microbiana/sifomed/)
 
 ## Institución
 - [Instituto de Recursos Naturales y Agrobiología de Sevilla. Consejo Superior de Investigaciones Científicas](https://www.irnas.csic.es/)
