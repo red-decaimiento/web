@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Mariano-Moreno-De-Las-Heras
 categories: [Interacciones planta-suelo, Restauración, Dinámica forestal, Teledetección, Gestión forestal]
+person_type: 'investigadores'
 ---
  
 <hr>

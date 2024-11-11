@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: www.martinventuras.com
 categories: [Ecofisiología, Modelización, Hidráulica vegetal, Gestión forestal]
+person_type: 'investigadores'
 ---
  
 <hr>

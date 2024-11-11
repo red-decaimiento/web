@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8510-9915
 categories: [Patología, Interacciones bióticas, Microbioma, Control biológico]
+person_type: 'investigadores'
 ---
  
 <hr>

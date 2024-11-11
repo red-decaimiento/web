@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.ceam.es/research/forestry-research/presentation/
 categories: [Ecofisiología, Dinámica forestal, Inventario]
+person_type: 'investigadores'
 ---
  
 <hr>

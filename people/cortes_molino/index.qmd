@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/https://orcid.org/0000-0001-5350-9028
 categories: [Dinámica forestal, Dinámica del paisaje, Ecología forestal, Teledetección, Ecofisiología]
+person_type: 'investigadores'
 ---
  
 <hr>

@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://elenagrandaf.wixsite.com/elenagranda
 categories: [Ecofisiología, Dendroecología, Dinámica forestal, Especies invasoras]
+person_type: 'investigadores'
 ---
  
 <hr>

@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-9796-6367
 categories: [Teledetección, Dinámica forestal]
+person_type: 'investigadores'
 ---
  
 <hr>

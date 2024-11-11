@@ -14,6 +14,7 @@ about:
       text: Email
       href: mailto:asolla@unex.es
 categories: []
+person_type: 'investigadores'
 ---
  
 <hr>

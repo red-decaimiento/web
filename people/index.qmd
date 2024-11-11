@@ -7,12 +7,22 @@ listing:
     page-size: 2
     include:
       namesort: "{ruiz_benito,lloret_francisco}*" 
-  - id: people
+  - id: investigadores
     type: grid
     sort: "namesort asc"
     categories: true
     fields: [image, title, categories]
     page-size: 90
+    include:
+      person_type: "{investigadores}"
+  - id: gestores
+    type: grid
+    sort: "namesort asc"
+    categories: true
+    fields: [image, title, categories]
+    page-size: 90
+    include:
+      person_type: "{gestores}"
 ---
 
 ## Coordinadores
@@ -20,8 +30,14 @@ listing:
 :::{#coordinadores}
 :::
 
-## Miembros
+## Investigadores
 Por orden alfabético. 
 
-:::{#miembros}
+:::{#investigadores}
+:::
+
+## Gestores
+Por orden alfabético. 
+
+:::{#gestores}
 :::

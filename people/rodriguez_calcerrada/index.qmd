@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-7408-7653
 categories: [Ecofisiología, Dinámica forestal, Ecología forestal, Selvicultura, Regeneración]
+person_type: 'investigadores'
 ---
  
 <hr>

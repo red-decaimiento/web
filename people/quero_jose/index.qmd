@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-5553-506X
 categories: [Ecología forestal, Selvicultura, Ecofisiología, Biodiversidad y conservación, Ecología]
+person_type: 'investigadores'
 ---
  
 <hr>

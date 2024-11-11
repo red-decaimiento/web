@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2598-9594
 categories: [Dinámica forestal, Inventario, Modelización]
+person_type: 'investigadores'
 ---
  
 <hr>

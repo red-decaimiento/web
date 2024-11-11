@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-8988-4540
 categories: [Teledetección, Servicios ecosistémicos, Modelización, Biodiversidad y conservación]
+person_type: 'investigadores'
 ---
  
 <hr>

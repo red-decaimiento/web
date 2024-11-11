@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-4661-1654
 categories: [Ecología de suelos, Ecología del paisaje, Ecología]
+person_type: 'investigadores'
 ---
  
 <hr>

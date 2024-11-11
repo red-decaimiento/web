@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-7722-2424
 categories: [Dendroecología, Dinámica forestal, Monitorización, Ecofisiología]
+person_type: 'investigadores'
 ---
  
 <hr>

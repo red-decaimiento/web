@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://resteban224.wixsite.com/http-raquelesteban
 categories: [Ecofisiología, Compuestos de fotoprotección]
+person_type: 'investigadores'
 ---
  
 <hr>

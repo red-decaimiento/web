@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2516-5456	
 categories: [Teledetección, Modelos de transferencia radiativa, Ecofisiología, Biodiversidad y conservación, Espectroscopía de imagenes]
+person_type: 'investigadores'
 ---
  
 <hr>

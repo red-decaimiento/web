@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-4434-8346
 categories: [Teledetección, Ecofisiología, Dinámica forestal, Modelización, Biodiversidad y conservación]
+person_type: 'investigadores'
 ---
  
 <hr>

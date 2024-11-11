@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: http://dmartinbenito.wordpress.com/
 categories: [Dendroecología, Dinámica forestal, Ecofisiología, Monitorización, Modelización]
+person_type: 'investigadores'
 ---
  
 <hr>

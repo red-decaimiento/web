@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://ahornero.com
 categories: [Teledetección, Dinámica forestal, Modelización, Monitorización]
+person_type: 'investigadores'
 ---
  
 <hr>

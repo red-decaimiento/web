@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://blogs.upm.es/aitorgaston/
 categories: [Ecología forestal, Modelización, Edafología, Biodiversidad]
+person_type: 'investigadores'
 ---
  
 <hr>

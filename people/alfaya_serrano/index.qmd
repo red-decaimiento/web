@@ -14,6 +14,7 @@ about:
       text: Email
       href: mailto:jalfaya98@gmail.com
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]
+person_type: 'investigadores'
 ---
  
 <hr>

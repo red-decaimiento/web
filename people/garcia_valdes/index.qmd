@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Raul-Garcia-Valdes
 categories: [Dinámica forestal, Modelización, Inventario, Teledetección]
+person_type: 'investigadores'
 ---
  
 <hr>

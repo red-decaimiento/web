@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://enriqueandivia.wixsite.com/forests
 categories: [Dinámica forestal, Dendroecología, Gestión forestal, Ecofisiología]
+person_type: 'investigadores'
 ---
  
 <hr>

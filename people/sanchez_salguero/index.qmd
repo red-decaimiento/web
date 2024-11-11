@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6545-5810
 categories: [Ecofisiología, Dinámica forestal, Dendroecología, Dendroquímica, Modelización]
+person_type: 'investigadores'
 ---
  
 <hr>

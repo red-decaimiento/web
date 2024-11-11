@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6867-5886
 categories: [Dinámica forestal, Inventario, Gestión forestal, Monitorización]
+person_type: 'investigadores'
 ---
  
 <hr>

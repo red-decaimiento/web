@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-8457-7573
 categories: [Interacciones planta-suelo, Dinámica forestal, Ecología de suelos]
+person_type: 'investigadores'
 ---
  
 <hr>

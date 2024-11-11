@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://sites.google.com/site/lmatiasecology/
 categories: [Dinámica forestal, Ecofisiología, Dendroecología, Interacciones bióticas]
+person_type: 'investigadores'
 ---
  
 <hr>

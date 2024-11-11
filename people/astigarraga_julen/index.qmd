@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Julen-Astigarraga
 categories: [Inventario, Dinámica forestal, Modelización, Monitorización]
+person_type: 'investigadores'
 ---
  
 <hr>

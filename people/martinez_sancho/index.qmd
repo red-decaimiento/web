@@ -14,6 +14,7 @@ about:
       text: Email
       href: mailto:eli.martinez@ub.edu
 categories: []
+person_type: 'investigadores'
 ---
  
 <hr>

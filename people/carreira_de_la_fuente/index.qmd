@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://investigacion.ujaen.es/investigadores/191321/detalle
 categories: [Biogeoquímica, Ecología de suelos, Interacciones planta-suelo, Dinámica forestal, Dendroecología]
+person_type: 'investigadores'
 ---
  
 <hr>

@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Jose-V-Roces-Diaz
 categories: [Teledetección, Dinámica del paisaje, Dinámica forestal]
+person_type: 'investigadores'
 ---
  
 <hr>

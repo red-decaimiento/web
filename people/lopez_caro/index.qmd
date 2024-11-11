@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-6279-5801
 categories: [Dinámica forestal, Teledetección, Modelización, Monitorización]
+person_type: 'investigadores'
 ---
  
 <hr>

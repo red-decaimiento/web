@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-2452-6790
 categories: [Dinámica forestal, Dendroecología, Modelización, Patología]
+person_type: 'investigadores'
 ---
  
 <hr>

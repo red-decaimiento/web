@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://www.researchgate.net/profile/Raul-De-La-Mata-2
 categories: [Genética, Interacciones bióticas, Ecofisiología]
+person_type: 'investigadores'
 ---
  
 <hr>

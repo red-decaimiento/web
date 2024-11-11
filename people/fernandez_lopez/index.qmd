@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://grupos.eez.csic.es/mae/manuel-fernandez-lopez/
 categories: [Interacciones planta-suelo, Interacciones bióticas, Ecología de suelos]
+person_type: 'investigadores'
 ---
  
 <hr>

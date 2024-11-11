@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: http://ajperezluque.com/
 categories: [Teledetección, Dendroecología, Monitorización, Modelización]
+person_type: 'investigadores'
 ---
  
 <hr>

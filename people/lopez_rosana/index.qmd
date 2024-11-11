@@ -16,6 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3553-9148
 categories: [Ecofisiología, Dendroecología, Gestión forestal, Monitorización, Genética]
+person_type: 'investigadores'
 ---
  
 <hr>

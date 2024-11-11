@@ -18,6 +18,7 @@ about:
     - text: "{{< fa globe >}} Personal web"
       href: https://grupos.eez.csic.es/mae/ana-v-lasa/
 categories: [Microbioma, Biodiversidad]
+person_type: 'investigadores'
 ---
  
 <hr>
@@ -32,5 +33,4 @@ categories: [Microbioma, Biodiversidad]
 
 
 :::
-
 
