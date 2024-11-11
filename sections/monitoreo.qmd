@@ -6,6 +6,14 @@ format: html
 ## Objetivos 
 Establecimiento de redes de seguimiento y protocolos para monitorizar a largo plazo bosques afectados por decaimiento con el objetivo de determinar su vulnerabilidad en un contexto de cambio climático. A continuación se muestran los grupos de trabajo establecidos: 
 
+## Protocolos y monitorización a largo plazo
+Generación de procedimientos para la monitorización a largo plazo de bosques afectados por decaimiento inducido por el clima. Este tema de trabajo incluye la planificación de objetivos, metodologías y recursos, el establecimiento de protocolos para la monitorización en campo el establecimiento de protocolos para la monitorización con teledetección, y el establecimiento de criterios para la selección de sitios.
+
+#### Responsables
+- [Francisco Lloret](../../people/lloret_francisco)
+- [Paloma Ruiz-Benito](../../people/ruiz_benito)
+- [Jordi Martínez-Vilalta](../../people/martinez_vilalta)
+
 ## Teledetección 
 #### Responsables
 - [Rocío Hernández-Clemente](../../people/hernandez_clemente)
