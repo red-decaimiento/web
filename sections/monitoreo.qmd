@@ -12,7 +12,7 @@ Generación de procedimientos para la monitorización a largo plazo de bosques a
 #### Responsables
 - [Francisco Lloret](../../people/lloret_francisco)
 - [Paloma Ruiz-Benito](../../people/ruiz_benito)
-- [Jordi Martínez-Vilalta](../../people/martinez_vilalta)
+
 
 ## Teledetección 
 #### Responsables

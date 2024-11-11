@@ -41,6 +41,8 @@ website:
         menu:
           - text: Primeras Jornadas 2024
             href: workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.qmd
+      - href: news/noticias.qmd
+        text: Noticias
       - href: photogallery.qmd
         text: Galería
         

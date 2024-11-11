@@ -1,0 +1,31 @@
+---
+title: "Forest mortality and die-off responses to global change"
+description: Sesión en congreso SIBECOL-AEET 2025
+categories:
+  - congresos
+image: sibecol_aeet_2025.png
+date: 2024-11-15
+---
+
+La Asociación Española de Ecología Terrestre ([AEET](https://www.aeet.org/es/)) celebrará su XVII Congreso Nacional conjuntamente con la Sociedad Ibérica de Ecología ([SIBECOL](https://www.sibecol.org/)) en junio de 2025. El congreso, cuyo lema es **[Otra ciencia es posible: diversidad, decrecimiento y sostenibilidad en la investigación en ecología](https://www.sibecol-aeet-meeting2025.org/)**, tendrá lugar en Pontevedra, del 2 al 7 de junio de 2025. 
+
+Dentro de este congreso se ha organizdo una sesión científica titulada **Forest mortality and die-off responses to global change** que será coordinada por los investigadores **[Paloma Ruiz-Benito](../../people/ruiz_benito)** (Universidad de Alcalá), **[Antonio J. Pérez-Luque](../../people/perez_luque)** (Institudo de Ciencias Forestales, INIA-CSIC), y **[José M. Torres-Ruiz](../../people/torres_ruiz)** (Instituto de Recursos Naturales y Agrobiología de Sevilla, IRNAS-CSIC). 
+
+El objetivo de esta sesión es discutir sobre diversos aspectos del decaimiento forestal. El resumen de la sesión es el siguiente:  
+
+Forests are critical ecosystems for human well-being acting as net carbon sinks worldwide. However, increased tree mortality and die-off events are being observed worldwide and it could not only compromise the role of forests as carbon sinks but also alter the distribution patterns of many species, especially  as  these events are expected to increase in the future. In many cases, decaying and mortality events are underlined by extreme climatic conditions, such as more intense and frequent hotter droughts, but they are usually triggered and exacerbated by other factors such as pests and pathogens. Currently, our ability to understand and predict these events and their ecological consequences is still limited. In this session we aim to discuss advances in the study of the responses of forests to climate change, particularly about the patterns and processes associated with climate-induced tree mortality and die-off, from both an ecophysiological and ecological perspective, to further apply this knowledge to improve forest management. 
+
+Animamos a todos los investigadores y gestores que estén interesados en reazalir una contribución a esta sesión a que envíen sus resúmenes a partir del 15 de Noviembre, a través de la [página web del congreso](https://www.sibecol-aeet-meeting2025.org/) 
+
+
+::: {.callout-tip}
+## Fechas Importantes
+
+**Envío de Resúmenes**: 15 Noviembre - 15 Diciembre 2024
+:::
+
+::: {.callout-tip}
+## Web del congreso
+
+[https://www.sibecol-aeet-meeting2025.org/](https://www.sibecol-aeet-meeting2025.org/)
+:::

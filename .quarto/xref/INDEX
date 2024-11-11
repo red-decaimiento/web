@@ -319,5 +319,11 @@
   },
   "people/cortes_molino/index.qmd": {
     "index.html": "fb74f4be"
+  },
+  "news/20241101_sibecolcall/index.qmd": {
+    "index.html": "134fd4e9"
+  },
+  "news/noticias.qmd": {
+    "noticias.html": "55976cd8"
   }
 }
