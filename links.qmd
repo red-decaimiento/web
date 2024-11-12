@@ -6,7 +6,7 @@ title: "Enlaces de interés"
 
 **[Asociación Española de Ecología Terrestre](https://www.aeet.org/es/gruposdetrabajo/redec.html)**  
 
-![](images/logos_otros/logo_aeet.png){fig-align="right" width=150}
+![](/images/logos_otros/logo_aeet.png){fig-align="right" width=150}
 
 **[International Tree Mortality Network](https://www.tree-mortality.net/)**  
 
