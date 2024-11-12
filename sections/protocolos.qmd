@@ -10,3 +10,10 @@ Elaboración de criterios para determinar el decaimiento forestal y sus causas c
 - [Antonio Gazol](../../people/gazol_burgos)
 - [Cristina Acosta-Muñoz](../../people/acosta_cristina)
 - [Raúl Sánchez-Salguero](../../people/sanchez_salguero)
+
+### Hoja de Ruta
+::: {.callout-tip}
+## Hoja de Ruta
+[Aquí](../../workshops/202409_nerja/docs/estandares_atribuciones_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de Estándares
+acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+:::

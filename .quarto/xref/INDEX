@@ -325,5 +325,17 @@
   },
   "news/noticias.qmd": {
     "noticias.html": "55976cd8"
+  },
+  "news/20241101_sibecolcall/links.qmd": {
+    "links.html": "43b3cbbd"
+  },
+  "links.qmd": {
+    "links.html": "88baac1a"
+  },
+  "workshops/202409_nerja/programa.qmd": {
+    "programa.html": "31dd6eff"
+  },
+  "workshops/202409_nerja/conclusiones.qmd": {
+    "conclusiones.html": "ec95ba55"
   }
 }

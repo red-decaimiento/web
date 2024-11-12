@@ -131,11 +131,19 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu" aria-labelledby="nav-menu-jornadas">    
         <li>
-    <a class="dropdown-item" href="../workshops/2024_09_reunion_inicial_redec/2024_09_reunion_inicial.html">
+    <a class="dropdown-item" href="../workshops/202409_nerja/programa.html">
  <span class="dropdown-text">Primeras Jornadas 2024</span></a>
   </li>  
     </ul>
   </li>
+  <li class="nav-item">
+    <a class="nav-link" href="../news/noticias.html"> 
+<span class="menu-text">Noticias</span></a>
+  </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../links.html"> 
+<span class="menu-text">Enlaces de Interés</span></a>
+  </li>  
   <li class="nav-item">
     <a class="nav-link" href="../photogallery.html"> 
 <span class="menu-text">Galería</span></a>
@@ -159,6 +167,7 @@ ul.task-list li input[type="checkbox"] {
   <ul>
   <li><a href="#objetivos" id="toc-objetivos" class="nav-link active" data-scroll-target="#objetivos">Objetivos</a></li>
   <li><a href="#responsables" id="toc-responsables" class="nav-link" data-scroll-target="#responsables">Responsables</a></li>
+  <li><a href="#hoja-de-ruta" id="toc-hoja-de-ruta" class="nav-link" data-scroll-target="#hoja-de-ruta">Hoja de Ruta</a></li>
   </ul>
 </nav>
     </div>
@@ -194,6 +203,22 @@ ul.task-list li input[type="checkbox"] {
 <li><a href="../../people/ruiz_benito">Paloma Ruiz-Benito</a></li>
 <li><a href="../../people/perez_luque">Antonio J. Pérez-Luque</a></li>
 </ul>
+</section>
+<section id="hoja-de-ruta" class="level3">
+<h3 class="anchored" data-anchor-id="hoja-de-ruta">Hoja de Ruta</h3>
+<div class="callout callout-style-default callout-tip callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+Hoja de Ruta
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p><a href="../../workshops/202409_nerja/docs/estandares_atribuciones_nerja_octubre_2024.pdf">Aquí</a> tienes la hoja de ruta/conlcusiones de la mesa de trabajo de base de datos acordada en la <a href="../workshops/202409_nerja/programa.html">primera reunión de la red</a></p>
+</div>
+</div>
 
 
 </section>
@@ -280,7 +305,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
   });
     var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
     var mailtoRegex = new RegExp(/^mailto:/);
-      var filterRegex = new RegExp("https:\/\/red-decaimiento\.github\.io\/redecweb\/");
+      var filterRegex = new RegExp('/' + window.location.host + '/');
     var isInternal = (href) => {
         return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
     }

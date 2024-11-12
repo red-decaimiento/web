@@ -13,6 +13,13 @@ Generación de procedimientos para la monitorización a largo plazo de bosques a
 - [Francisco Lloret](../../people/lloret_francisco)
 - [Paloma Ruiz-Benito](../../people/ruiz_benito)
 
+#### Hoja de Ruta
+::: {.callout-tip}
+## Hoja de Ruta
+[Aquí](../../workshops/202409_nerja/docs/protocolos_ monitorizacion_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de Protocolos y monitorización a largo plazo
+acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+:::
+
 
 ## Teledetección 
 #### Responsables
