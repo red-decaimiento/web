@@ -18,7 +18,7 @@ Forests are critical ecosystems for human well-being acting as net carbon sinks 
 Animamos a todos los investigadores y gestores que estén interesados en reazalir una contribución a esta sesión a que envíen sus resúmenes a partir del 15 de Noviembre, a través de la [página web del congreso](https://www.sibecol-aeet-meeting2025.org/) 
 
 
-::: {.callout-tip}
+::: {.callout-warning}
 ## Fechas Importantes
 
 **Envío de Resúmenes**: 15 Noviembre - 15 Diciembre 2024
