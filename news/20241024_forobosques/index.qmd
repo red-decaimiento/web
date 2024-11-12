@@ -1,0 +1,19 @@
+---
+title: "Foro Internacional: Bosques frente al cambio climático"
+description: "Presentación de la Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDeC) en el Foro Internacional: Bosques frente al cambio climático."
+categories:
+  - congresos
+image: forobosques.png
+date: 2024-10-24
+---
+
+La Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDeC) participó en el **[Foro Internacional: Bosques frente al cambio climático](https://www.forestadapt.es/index.php)**, donde [Gabriel Sangüesa-Barreda](../../people/sanguesa_barreda) (Universidad de Valladolid), como representante de ReDeC, expuso los principales objetivos de esta iniciativa.
+
+Durante su intervención, el investigador explicó cómo ReDeC se ha posicionado como un referente en el estudio y monitoreo del decaimiento forestal, un fenómeno cada vez más frecuente que afecta a distintas especies arbóreas debido al estrés hídrico, el aumento de las temperaturas y otros factores climáticos adversos. La red recopila datos de múltiples puntos de observación para ofrecer una visión integral sobre el impacto del cambio climático en los ecosistemas forestales.
+
+Sangüesa destacó el papel crucial de ReDeC como herramienta para anticipar riesgos y desarrollar estrategias de adaptación. “Nuestro objetivo no es solo entender el problema, sino transformar ese conocimiento en acciones concretas que garanticen la resiliencia de nuestros bosques ante el cambio climático”, concluyó.
+
+### Vídeo con la presentación
+{{< video https://youtu.be/moksGszL-WY“?t=18m35s” >}}
+
+
