@@ -1,5 +1,11 @@
 [
   {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20241101_sibecolcall/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -86,12 +92,6 @@
       "/people/zamora_rodriguez/index.html",
       "/people/zavala_miguel/index.html",
       "/people/garcia_lozano/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20241101_sibecolcall/index.html"
     ]
   }
 ]
