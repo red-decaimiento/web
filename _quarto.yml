@@ -1,6 +1,5 @@
 project:
   type: website
-  output-dir: docs
 
 website:
   title: "Red Ibérica de Decaimiento Forestal inducido por el Clima"
