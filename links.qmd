@@ -1,0 +1,43 @@
+---
+title: "Enlaces de interés"
+---
+
+::: {layout-ncol=2 layout-valign="center"}
+
+**[Asociación Española de Ecología Terrestre](https://www.aeet.org/es/gruposdetrabajo/redec.html)**  
+
+![](../../images/logos_otros/logo_aeet.png){fig-align="right" width=150}
+
+**[International Tree Mortality Network](https://www.tree-mortality.net/)**  
+
+![](../../images/logos_otros/logo_itmn.png){fig-align="right" width=150}
+
+**[IUFRO Task Force "Monitoring global tree mortality patterns and trends"](https://www.iufro.org/science/task-forces/tree-mortality-patterns/)**  
+
+![](../../images/logos_otros/logo_iufro.jpg){fig-align="right" width=150}
+
+**[Long Term Ecological Research España (LTER-España)](https://lter-spain.csic.es/)**  
+
+![](../../images/logos_otros/logo_lterspain.png){fig-align="right" width=150}
+
+**[Sociedad Española de Ciencias Forestales](https://secforestales.org/grupos/inventario-y-teledeteccion-forestal-0)**  
+
+![](../../images/logos_otros/logo_secforestales.png){fig-align="right" width=150}
+
+**[Tree Mortality & Damage (ForestGEO)](https://forestgeo.si.edu/protocols/tree-mortality-damage-protocol)**  
+
+![](../../images/logos_otros/logo_forestgeo.png){fig-align="right" width=150}
+
+**[ICP-Forests](http://icp-forests.net/)**  
+
+![](../../images/logos_otros/logo_icpforest.jpg){fig-align="right" width=150}
+
+**[Inventario Forestal Nacional](https://www.miteco.gob.es/es/biodiversidad/temas/inventarios-nacionales/inventario-forestal-nacional.html)**  
+
+![](../../images/logos_otros/logo_ifn.jpeg){fig-align="right" width=150}
+
+**[DeBosCat - Laboratori Forestal Català](https://laboratoriforestal.creaf.cat/deboscat_app/)**  
+
+![](../../images/logos_otros/logo_deboscat.png){fig-align="right" width=150}
+
+:::
