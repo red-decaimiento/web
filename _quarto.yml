@@ -1,5 +1,6 @@
 project:
   type: website
+  output-dir: docs
 
 website:
   repo-url: "https://github.com/red-decaimiento/web"
