@@ -8,7 +8,9 @@ listing:
   categories: true
   sort-ui: false
   filter-ui: false
-  sort: "priority asc"
+  sort: 
+    - "date desc"
+    - "title desc"
   grid-item-border: true
 page-layout: full
 title-block-banner: false
