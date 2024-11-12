@@ -2,7 +2,6 @@ project:
   type: website
 
 website:
-  title: "Red Ibérica de Decaimiento Forestal inducido por el Clima"
   repo-url: "https://github.com/red-decaimiento/web"
   favicon: images/logo_redec.png
   page-navigation: false
