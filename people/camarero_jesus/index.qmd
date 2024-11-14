@@ -2,13 +2,13 @@
 title: "Jesús J. Camarero"
 email: "jjcamarero@ipe.csic.es"  
 namesort: "camarero_jesus"
-image: avatar_camarero_jesus.jpg
+image: avatar_camarero_jesus.png
 page-layout: full
 about: 
   id: person-profile
   template: trestles
   image-shape: round
-  image: avatar_camarero_jesus.jpg
+  image: avatar_camarero_jesus.png
   links:
     - icon: new-icon
       text: Email

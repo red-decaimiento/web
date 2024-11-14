@@ -1,5 +1,5 @@
 ---
-title: "Juan A. Martín García"
+title: "Juan Antonio Martín García"
 email: "juan.martin.garcia@upm.es"  
 namesort: "martin_garcia"
 image: avatar_martin_garcia.jpg
@@ -13,7 +13,9 @@ about:
     - icon: new-icon
       text: Email
       href: mailto:juan.martin.garcia@upm.es
-categories: []
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-3207-1319
+categories: [Patología, Microbioma, Control biológico]
 person_type: 'investigadores'
 ---
  
@@ -22,7 +24,7 @@ person_type: 'investigadores'
 :::{#person-profile}
 
 ## Grupo de Investigación
-
+- Sistemas y Recursos Forestales / Grupo de Investigación Functioning of Forest Systems in a Changing Environment ([FORESCENT](https://www.forescent.es/))
 
 ## Institución
 - [Universidad Politécnica de Madrid](https://www.upm.es/)
