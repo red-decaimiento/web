@@ -2,13 +2,13 @@
 title: "Mario Díaz"
 email: "Mario.Diaz@ccma.csic.es"  
 namesort: "diaz_mario"
-image: avatar_diaz_mario.jpg
+image: avatar_diaz_mario.png
 page-layout: full
 about: 
   id: person-profile
   template: trestles
   image-shape: round
-  image: avatar_diaz_mario.jpg
+  image: avatar_diaz_mario.png
   links:
     - icon: envelope
       text: Email
