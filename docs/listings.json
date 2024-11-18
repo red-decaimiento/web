@@ -3,7 +3,8 @@
     "listing": "/news/noticias.html",
     "items": [
       "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html"
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
     ]
   },
   {
@@ -30,6 +31,7 @@
       "/people/curiel_jorge/index.html",
       "/people/de_la_mata/index.html",
       "/people/del_rio/index.html",
+      "/people/diaz_mario/index.html",
       "/people/diez_casero/index.html",
       "/people/escudero_alcantara/index.html",
       "/people/esteban_raquel/index.html",

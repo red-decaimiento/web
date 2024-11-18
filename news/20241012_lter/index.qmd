@@ -1,0 +1,15 @@
+---
+title: "Presentación de la Red Española de Decaimiento Forestal Inducido por el Clima (ReDeC) en la XIII Reunión anual de LTER-Spain"
+description: XIII Reunión anual de LTER-Spain
+categories:
+  - congresos
+image: lter_jornada2024.jpg
+date: 2024-10-12
+---
+
+La Red Española de Decaimiento Forestal Inducido por el Clima (ReDeC) participó en la reunión anual de [Spanish Long Term Ecosystem Research Network](https://lter-spain.csic.es/) en la que los diferentes grupos que integran dicha red expusieron el estado de sus actividades sobre la monitorización ecológica a largo plazo. En la reunión, **[Francisco Lloret](../../people/lloret_francisco)** (CREAF, Universitat Autònoma de Bacelona), presentó la Red Española de Decaimiento Forestal Inducido por el Clima (ReDeC), destacando su vocación de canalizar y promover la monitorización y el seguimiento de bosques afectados por sequía. Para ello se está recopilando un inventario de zonas de estudio afectadas por decaimiento y se elaborarán protocolos de monitorización de la dinámica forestal y su funcionamiento asociados a los episodios de decaimiento, de cara a una futura implementación de dicha monitorización. 
+Reconociendo el carácter abierto de LTER Spain para incorporar diferentes perfiles de participantes, Lloret manifestó el interés de ReDeC por integrarse en un futuro en LTER Spain como un nodo interterritorial y focalizado en un proceso de gran relevancia para el futuro de los bosques, como es su respuesta a los eventos de decaimeinto. 
+
+
+![LTER](lter_jornada2024.jpg)
+

@@ -1,5 +1,5 @@
 ---
-# title: 'Red Ibérica de Seguimiento del Decaimiento Forestal'
+# title: 'Red Española de Seguimiento del Decaimiento Forestal'
 page-layout: full
 toc: false
 ---
@@ -15,7 +15,7 @@ toc: false
 ![](/images/logo/logo_redec.png)
 
 
-**Red Ibérica de Seguimiento del Decaimiento Forestal inducido por el Clima**
+**Red Española de Seguimiento del Decaimiento Forestal inducido por el Clima**
 :::
 
 :::
@@ -26,7 +26,7 @@ toc: false
 :::
 ::::
 
-### Bienvenidos a la web de la Red Ibérica de Seguimiento del Decaimiento Forestal 
+### Bienvenidos a la web de la Red Española de Seguimiento del Decaimiento Forestal 
 
 
 Somos un grupo de [investigadores y gestores](people/index.qmd) de diversas instituciones españolas, unidos en un Grupo de Trabajo dedicado al estudio del decaimiento forestal. Nuestro objetivo es consolidar el conocimiento existente sobre los sistemas forestales afectados, donde se llevan a cabo trabajos de campo e investigaciones, para profundizar en la comprensión de este fenómeno y así contribuir a su gestión eficiente.

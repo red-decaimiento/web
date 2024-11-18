@@ -13,7 +13,11 @@ about:
     - icon: new-icon
       text: Email
       href: mailto:eli.martinez@ub.edu
-categories: []
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-1294-6410
+    - text: "{{< fa globe >}} Personal web"
+      href: https://webgrec.ub.edu/webpages/000011/cas/eli.martinez.ub.edu.html
+categories: [Dendroecología, Ecofisiología, Dinámica forestal]
 person_type: 'investigadores'
 ---
  
@@ -22,7 +26,7 @@ person_type: 'investigadores'
 :::{#person-profile}
 
 ## Grupo de Investigación
-
+- Departamento de Biología Evolutiva, Ecología y Ciencias Ambientales. 
 
 ## Institución
 - [Universitat de Barcelona](https://web.ub.edu/)

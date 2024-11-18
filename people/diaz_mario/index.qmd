@@ -1,0 +1,34 @@
+---
+title: "Mario Díaz"
+email: "Mario.Diaz@ccma.csic.es"  
+namesort: "diaz_mario"
+image: avatar_diaz_mario.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_diaz_mario.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Mario.Diaz@ccma.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6384-6674
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.mncn.csic.es/es/quienes_somos/diaz-esteban-mario
+categories: [Monitorización, Interacciones bióticas, Biodiversidad, Ecología del Paisaje, Regeneración]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Biogeografía y Cambio Global
+
+## Institución
+- [Museo Nacional de Ciencias Naturales (CSIC)](https://www.mncn.csic.es/es)
+
+:::
