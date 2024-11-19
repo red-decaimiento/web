@@ -1,0 +1,32 @@
+---
+title: "Miriam Bravo Hernández"
+email: "miriam.bravo@uah.es"  
+namesort: "bravo_hernandez"
+image: avatar_bravo_hernandez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_bravo_hernandez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:miriam.bravo@uah.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0001-6117-507X
+categories: [Biodiversidad, Dinámica forestal, Ecología Forestal, Gestión forestal, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+[- Departamiento Ciencias de la Vida, área de Ecología, Grupo ForEcoLab](https://forecolab.web.uah.es/)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es))
+
+:::
