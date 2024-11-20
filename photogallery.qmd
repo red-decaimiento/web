@@ -16,45 +16,45 @@ toc: false
 
 ::: {layout-ncol=3 layout-valign="center"}
 
-![*Abies alba*, Huesca (F. Lloret)](pictures/Abies_alba_Huesca_FLloret.jpg){group="my-gallery"}
+![*Abies alba*, Huesca (F. Lloret)](assets/pictures/Abies_alba_Huesca_FLloret.jpg){group="my-gallery"}
 
-![*Abies alba*, Huesca (F. Lloret)](pictures/Abies_alba_Huesca_2_FLloret.jpg){group="my-gallery"}
+![*Abies alba*, Huesca (F. Lloret)](assets/pictures/Abies_alba_Huesca_2_FLloret.jpg){group="my-gallery"}
 
-![*Abies pinsapo*, (F. Lloret)](pictures/Abies_pinsapo_FLloret.jpg){group="my-gallery"}
+![*Abies pinsapo*, (F. Lloret)](assets/pictures/Abies_pinsapo_FLloret.jpg){group="my-gallery"}
 
-![*Cedrus*, (F. Lloret)](pictures/Cedrus_FLloret.jpg){group="my-gallery"}
+![*Cedrus*, (F. Lloret)](assets/pictures/Cedrus_FLloret.jpg){group="my-gallery"}
 
-![*Juniperus phoenicea*, (F. Lloret)](pictures/Juniperus_phoenicea_FLloret.jpg){group="my-gallery"}
+![*Juniperus phoenicea*, (F. Lloret)](assets/pictures/Juniperus_phoenicea_FLloret.jpg){group="my-gallery"}
 
-![*Pinus halepensis*, Murcia (F. Lloret)](pictures/Pinus_halepensis_Murcia_FLloret.jpg){group="my-gallery"}
+![*Pinus halepensis*, Murcia (F. Lloret)](assets/pictures/Pinus_halepensis_Murcia_FLloret.jpg){group="my-gallery"}
 
-![*Pinus nigra*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga)](pictures/Pinus_nigra_Onati1_JAstigarraga.jpg){group="my-gallery"}
-![*Pinus nigra*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga)](pictures/Pinus_nigra_Onati2_JAstigarraga.jpg){group="my-gallery"}
+![*Pinus nigra*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga)](assets/pictures/Pinus_nigra_Onati1_JAstigarraga.jpg){group="my-gallery"}
+![*Pinus nigra*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga)](assets/pictures/Pinus_nigra_Onati2_JAstigarraga.jpg){group="my-gallery"}
 
-![*Pinus pinea*, (F. Lloret)](pictures/Pinus_pinea_FLloret.jpg){group="my-gallery"}
+![*Pinus pinea*, (F. Lloret)](assets/pictures/Pinus_pinea_FLloret.jpg){group="my-gallery"}
 
-![*Pinus radiata*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga & V. Cruz-Alonso](pictures/Pinus_radiata_Onati_JAstigarraga_VCruzAlonso.jpg){group="my-gallery"}
+![*Pinus radiata*, Oñati Gipuzkoa. Agosto 2023, (J. Astigarraga & V. Cruz-Alonso](assets/pictures/Pinus_radiata_Onati_JAstigarraga_VCruzAlonso.jpg){group="my-gallery"}
 
-![*Pinus sylvestris*, Sort (F. Lloret)](pictures/Pinus_sylvestris_Sort_FLloret.jpg){group="my-gallery"}
+![*Pinus sylvestris*, Sort (F. Lloret)](assets/pictures/Pinus_sylvestris_Sort_FLloret.jpg){group="my-gallery"}
 
-![*Pinus sylvestris*, Sierra de la Almijara (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Almijara2_AJPerez.jpg){group="my-gallery"}
+![*Pinus sylvestris*, Sierra de la Almijara (A.J. Pérez-Luque)](assets/pictures/Pinus_sylvestris_Almijara2_AJPerez.jpg){group="my-gallery"}
 
-![*Pinus sylvestris* & *Pinus pinaster*, Sierra de la Almijara (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Almijara_AJPerez.jpg){group="my-gallery"}
+![*Pinus sylvestris* & *Pinus pinaster*, Sierra de la Almijara (A.J. Pérez-Luque)](assets/pictures/Pinus_sylvestris_Almijara_AJPerez.jpg){group="my-gallery"}
 
-![*Pinus sylvestris*, Valsain (A.J. Pérez-Luque)](pictures/Pinus_sylvestris_Valsain_AJPerez.jpg){group="my-gallery"}
+![*Pinus sylvestris*, Valsain (A.J. Pérez-Luque)](assets/pictures/Pinus_sylvestris_Valsain_AJPerez.jpg){group="my-gallery"}
 
-![*Pinus sylvestris*, Teruel (F. Lloret)](pictures/Pinus_sylvestris_Teruel_FLloret.jpg){group="my-gallery"}
+![*Pinus sylvestris*, Teruel (F. Lloret)](assets/pictures/Pinus_sylvestris_Teruel_FLloret.jpg){group="my-gallery"}
 
-![*Pinus uncinata*, Alto Pirineo, Junio 2023 (L. Jaime)](pictures/Pinus_unicinata_AltoPirineos_LucianaJaime.jpg){group="my-gallery"}
+![*Pinus uncinata*, Alto Pirineo, Junio 2023 (L. Jaime)](assets/pictures/Pinus_unicinata_AltoPirineos_LucianaJaime.jpg){group="my-gallery"}
 
-![*Quercus ilex*, Prades (F. Lloret)](pictures/Quercus_ilex_Prades_FLloret.jpg){group="my-gallery"}
+![*Quercus ilex*, Prades (F. Lloret)](assets/pictures/Quercus_ilex_Prades_FLloret.jpg){group="my-gallery"}
 
-![*Quercus suber*, Cádiz (F. Lloret)](pictures/Quercus_suber_Cadiz_FLloret.jpg){group="my-gallery"}
+![*Quercus suber*, Cádiz (F. Lloret)](assets/pictures/Quercus_suber_Cadiz_FLloret.jpg){group="my-gallery"}
 
-![*Quercus suber*, Valdeinfierno, Marzo 2024 (P. Nat. Los Alcornocales) Cádiz (L. Matías)](pictures/Quercus_suber_Cadiz1_LMatias.jpg){group="my-gallery"}
+![*Quercus suber*, Valdeinfierno, Marzo 2024 (P. Nat. Los Alcornocales) Cádiz (L. Matías)](assets/pictures/Quercus_suber_Cadiz1_LMatias.jpg){group="my-gallery"}
 
-![*Quercus suber*, Picacho, Febrero 2022. (P. Nat. Los Alcornocales) Cádiz (L. Matías)](pictures/Quercus_suber_Cadiz2_LMatias.jpg){group="my-gallery"}
+![*Quercus suber*, Picacho, Febrero 2022. (P. Nat. Los Alcornocales) Cádiz (L. Matías)](assets/pictures/Quercus_suber_Cadiz2_LMatias.jpg){group="my-gallery"}
 
-![*Quercus suber*, Tiradero, Febrero 2023. (P. Nat. Los Alcornocales) Cádiz (L. Matías)](pictures/Quercus_suber_Cadiz3_LMatias.jpg){group="my-gallery"}
+![*Quercus suber*, Tiradero, Febrero 2023. (P. Nat. Los Alcornocales) Cádiz (L. Matías)](assets/pictures/Quercus_suber_Cadiz3_LMatias.jpg){group="my-gallery"}
 
 ::: 

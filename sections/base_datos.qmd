@@ -11,6 +11,6 @@ Generación de una base de datos de sistemas de estudio de bosques con decaimien
 ### Hoja de Ruta
 ::: {.callout-tip}
 ## Hoja de Ruta
-[Aquí](../../workshops/202409_nerja/docs/estandares_atribuciones_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de base de datos 
+[Aquí](../assets/202409_nerja/estandares_atribuciones_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de base de datos 
 acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
 :::

@@ -16,7 +16,7 @@ Generación de procedimientos para la monitorización a largo plazo de bosques a
 #### Hoja de Ruta
 ::: {.callout-tip}
 ## Hoja de Ruta
-[Aquí](../../workshops/202409_nerja/docs/protocolos_monitorizacion_nerja_octubre_2024.pdf) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Protocolos y monitorización a largo plazo acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+[Aquí](../assets/202409_nerja/protocolos_monitorizacion_nerja_octubre_2024.pdf) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Protocolos y monitorización a largo plazo acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
 :::
 
 ## Teledetección 
@@ -30,7 +30,7 @@ El objetivo de este grupo de trabajo es debatir sobre el papel de la teledetecci
 #### Hoja de Ruta
 ::: {.callout-tip}
 ## Hoja de Ruta
-[Aquí](../../workshops/202409_nerja/docs/teledeteccion_nerja_octubre_2024.pdf) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Teledetección acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+[Aquí](../assets/202409_nerja/teledeteccion_nerja_octubre_2024.pdf) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Teledetección acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
 :::
 
 ## Suelo y decaimiento forestal
