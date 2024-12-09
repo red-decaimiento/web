@@ -1,0 +1,30 @@
+---
+title: "Vicente Jurado Doña"
+email: "vjurdon507427@gmail.com"  
+namesort: "jurado_dona"
+image: avatar_jurado_dona.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_jurado_dona.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:vjurdon507427@gmail.com
+categories: [Dinámica forestal, Gestión forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departamento de Geografía Física y Análisis Geográfico Regional](https://www.us.es/centros/departamentos/geografia-fisica-y-analisis-geografico-regional)
+
+## Institución
+- [Universidad de Sevilla](https://www.us.es/)
+
+:::
