@@ -29,6 +29,6 @@ person_type: 'investigadores'
 - BEZ-EKOFISKO: Biodiversidad, Servicios Ecosistémicos y Ecofisiología del Estrés y de la Contaminación en Plantas
 
 ## Institución
-- [Universidad del País Vascp](https://www.ehu.eus/es/)
+- [Universidad del País Vasco](https://www.ehu.eus/es/)
 
 :::

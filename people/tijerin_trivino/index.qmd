@@ -27,6 +27,6 @@ person_type: 'investigadores'
 [- Unidad docente de Ecología/Departamento de Ciencias de la Vida/Grupo de Investigación Ecología y Restauración Forestal (FORECO)/ Grupo de Investigación de Teledetección Ambiental](https://forecolab.web.uah.es/)
 
 ## Institución
-- Universidad de Alcalá
+- [Universidad de Alcalá de Henares](https://www.uah.es)
 
 :::

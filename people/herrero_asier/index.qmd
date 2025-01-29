@@ -28,6 +28,6 @@ person_type: 'investigadores'
 - Grupo de Ecología y Restauración Forestal
 
 ## Institución
-- [Universidad del País Vascp](https://www.ehu.eus/es/)
+- [Universidad del País Vasco](https://www.ehu.eus/es/)
 
 :::

@@ -21,7 +21,7 @@ respuestas_fillout <- read_csv(file = file) |> janitor::clean_names()
 ## filter by date 
 respuestas_fillout<- respuestas_fillout |>
   mutate(last_updated2 = as.POSIXct(strptime(last_updated, "%a %b %d %Y %H:%M:%S", tz = "GMT"))) |> 
-  filter(last_updated2 >= as.POSIXct("2024-11-15", tz = "GMT"))
+  filter(last_updated2 >= as.POSIXct("2024-11-30", tz = "GMT"))
 
 respuestas_fillout |> unique()
 

@@ -15,7 +15,7 @@ about:
       href: mailto:miriam.bravo@uah.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0009-0001-6117-507X
-categories: [Biodiversidad, Dinámica forestal, Ecología Forestal, Gestión forestal, Teledetección]
+categories: [Biodiversidad, Dinámica forestal, Ecología forestal, Gestión forestal, Teledetección]
 person_type: 'investigadores'
 ---
  

@@ -1,0 +1,32 @@
+---
+title: "Benjamín Viñegla Pérez"
+email: "bvinegla@ujaen.es"  
+namesort: "vinegla_perez"
+image: avatar_vinegla_perez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_vinegla_perez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:bvinegla@ujaen.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-3768-9118
+categories: [Ecofisiología, Monitorización, Interacciones planta-suelo, Ecología forestal, Ecología de suelos]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Biología Animal, Biología Vegetal y Ecología / Área de Ecología / Grupo de Investigación "Ecología Forestal y Dinámica del Paisaje"
+
+## Institución
+- Universidad de Jaén
+
+:::
