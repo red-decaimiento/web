@@ -24,5 +24,5 @@ Generación de una base de datos de sistemas de estudio de bosques con decaimien
 ### Reuniones
 - 2025-01-30. Reunión online para Discusión de Campos de la base de datos. 
     - [Presentación](../workshops/20250130_bd/2025_01_30_bbdd_redec_slides.pdf)
-    - [Resumen y acuerdos](../workshops/202501302025_01_30_resumen_reunion_bbdd.pdf)
+    - [Resumen y acuerdos](../workshops/20250130_bd/2025_01_30_resumen_reunion_bbdd.pdf)
     
