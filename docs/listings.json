@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -43,6 +51,7 @@
       "/people/gonzalez_moreno/index.html",
       "/people/granda_elena/index.html",
       "/people/hernandez_clemente/index.html",
+      "/people/hernandez_escribano/index.html",
       "/people/herrero_asier/index.html",
       "/people/hodar_jose/index.html",
       "/people/hornero_alberto/index.html",
@@ -69,6 +78,7 @@
       "/people/quero_jose/index.html",
       "/people/ramirez_valiente/index.html",
       "/people/rebollo_pedro/index.html",
+      "/people/robertson_lee/index.html",
       "/people/roces_diaz/index.html",
       "/people/rodes_blanco/index.html",
       "/people/rodriguez_calcerrada/index.html",
@@ -89,15 +99,9 @@
       "/people/vinegla_perez/index.html",
       "/people/zamora_rodriguez/index.html",
       "/people/zavala_miguel/index.html",
-      "/people/garcia_lozano/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
+      "/people/crispin_inmaculada/index.html",
+      "/people/garcia_lozano/index.html",
+      "/people/manzano_serrano/index.html"
     ]
   }
 ]

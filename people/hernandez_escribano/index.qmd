@@ -1,0 +1,30 @@
+---
+title: "Laura Hernández Escribano"
+email: "lhernandezescribano@gmail.com"  
+namesort: "hernandez_escribano"
+image: avatar_hernandez_escribano.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hernandez_escribano.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lhernandezescribano@gmail.com
+categories: [Interacciones bióticas, Microbioma, Patología, Metabolómica, Genómica]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Dpto. Ecología y Genética Forestal. Grupo Patología Forestal.
+
+## Institución
+- [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

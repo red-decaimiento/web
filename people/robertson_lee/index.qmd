@@ -1,0 +1,33 @@
+---
+title: "Lee Robertson"
+email: "robertson.lee@inia.csic.es"  
+namesort: "robertson_lee"
+image: avatar_robertson_lee.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_robertson_lee.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:robertson.lee@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/https://orcid.org/0000-0002-4628-5596
+categories: [Patología, Interacciones bióticas, Microbioma, Nematología]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Dpto. Ecología y Genética Forestal. Grupo Patología Forestal.
+
+
+## Institución
+- [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+
+:::

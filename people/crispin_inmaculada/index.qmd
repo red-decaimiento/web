@@ -1,0 +1,30 @@
+---
+title: "Inmaculada Crispín"
+email: "icrispin@chguadalquivir.es"  
+namesort: "crispin_inmaculada"
+image: avatar_crispin_inmaculada.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_crispin_inmaculada.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:icrispin@chguadalquivir.es
+categories: [Dinámica forestal, Biodiversidad, Gestión forestal/ecosistemas, Selvicultura, Restauración, Desertificación , Erosión de suelos]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Área Actuaciones Hidrológico-Forestal
+
+## Institución
+- [Confederación Hidrográfica del Guadalquivir](https://www.chguadalquivir.es/inicio)
+
+:::

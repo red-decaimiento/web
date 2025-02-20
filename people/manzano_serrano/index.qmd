@@ -1,0 +1,32 @@
+---
+title: "María José Manzano Serrano"
+email: "mjmanzano@esmasl.es"  
+namesort: "manzano_serrano"
+image: avatar_manzano_serrano.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_manzano_serrano.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mjmanzano@esmasl.es
+    - text: "{{< fa globe >}} Personal web"
+      href: www.esmasl.es
+categories: [Control Biológico, Ecología Forestal, Inventario, Teledetección, Monitorización]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento forestal
+
+## Institución
+- [Empresa ESMA Estudios Medioambientales, S.L.](https://www.esmasl.es/)
+
+:::

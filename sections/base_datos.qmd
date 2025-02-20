@@ -4,13 +4,25 @@ title: "Base de Datos"
 ### Objetivos 
 Generación de una base de datos de sistemas de estudio de bosques con decaimiento, vinculándose a redes internacionales, de cara a la realización de investigaciones coordinadas. 
 
-### Responsables
+### Responsables 
 - [Paloma Ruiz-Benito](../../people/ruiz_benito)
 - [Antonio J. Pérez-Luque](../../people/perez_luque)
+- [Julen Astigarraga](../../people/astigarraga_julen)
+
+#### Equipo de Trabajo
+- [Raúl García Valdés](../../people/garcia_valdes)
+- [Jorge Curiel](../../people/curiel_jorge)
+- [Álvaro Cortes Molino](../../people/cortes_molino)
+
 
 ### Hoja de Ruta
 ::: {.callout-tip}
 ## Hoja de Ruta
-[Aquí](../assets/202409_nerja/bases_datos_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de base de datos 
-acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+[Aquí](../assets/202409_nerja/bases_datos_nerja_octubre_2024.pdf) tienes la hoja de ruta/conlcusiones de la mesa de trabajo de base de datos acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
 :::
+
+### Reuniones
+- 2025-01-30. Reunión online para Discusión de Campos de la base de datos. 
+    - [Presentación](../workshops/20250130_bd/2025_01_30_bbdd_redec_slides.pdf)
+    - [Resumen y acuerdos](../workshops/202501302025_01_30_resumen_reunion_bbdd.pdf)
+    
