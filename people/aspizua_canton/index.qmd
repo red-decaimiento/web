@@ -1,0 +1,30 @@
+---
+title: "Rut Aspizua Cantón"
+email: "rut.aspizua@juntadeandalucia.es"  
+namesort: "aspizua_canton"
+image: avatar_aspizua_canton.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_aspizua_canton.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:rut.aspizua@juntadeandalucia.es
+categories: [Gestión Forestal, Dinámica forestal, Monitorización]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Observatorio de Cambio Global Sierra Nevada](https://obsnev.es/)
+
+## Institución
+- [Agencia de Medio Ambiente y Agua, Junta de Andalucía](https://www.juntadeandalucia.es/organismos/amaya.html)
+
+:::

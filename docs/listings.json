@@ -1,13 +1,5 @@
 [
   {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
-    ]
-  },
-  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -99,9 +91,18 @@
       "/people/vinegla_perez/index.html",
       "/people/zamora_rodriguez/index.html",
       "/people/zavala_miguel/index.html",
+      "/people/aspizua_canton/index.html",
       "/people/crispin_inmaculada/index.html",
       "/people/garcia_lozano/index.html",
       "/people/manzano_serrano/index.html"
+    ]
+  },
+  {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
     ]
   }
 ]
