@@ -34,10 +34,26 @@ El objetivo de este grupo de trabajo es debatir sobre el papel de la teledetecci
 :::
 
 ## Suelo y decaimiento forestal
+
+Aun siendo uno de los componentes del ecosistema forestal más importantes en cuanto a funciones y biodiversidad, el estudio del papel del suelo en el decaimiento forestal ha sido históricamente minusvalorado. Sin embargo, el suelo es el sustrato sobre el que la semilla del árbol germina y crece, el que provee al árbol con un sustrato físico para su establecimiento y desarrollo y el que provee los recursos necesarios para su subsistencia (agua y nutrientes). El árbol vive en una estrecha conexión con el suelo, su matriz fisicoquímica y su extensa biodiversidad, con mucha de la cual ha co-evolucionado. 
+
+El objetivo principal de este grupo de trabajo es:
+
+- Analizar la importancia que tiene el estudio del suelo entre la comunidad de investigadores del decaimiento forestal.  
+- Definir variables de suelo importantes para evaluar la salud del suelo en un contexto de decaimiento.
+- Elaborar protocolos de monitorización de suelos adaptados a las preguntas específicas. 
+- Establecer un espacio de discusión para afrontar diferentes retos en el estudio del suelo y su papel en el decaimiento forestal
+
 #### Responsables
 - [Lorena Gómez-Aparicio](../../people/gomez_aparicio)
-- [Jorge Curiel](../../people/curiel_jorge)
+- [Jorge Curiel Yuste](../../people/curiel_jorge)
 - [José A. Carreira](../../people/carreira_de_la_fuente)
+
+#### Hoja de Ruta
+::: {.callout-tip}
+## Hoja de Ruta
+[Aquí](../assets/202409_nerja/suelo_nerja_octubre_2024) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Suelo y decaimiento forestal acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+:::
 
 ## Internacionalización
 El objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la [**International Tree Mortality Network**](https://www.tree-mortality.net/) y la [**IUFRO Task Force** ***'Monitoring global tree mortality patterns and trends'***](https://www.iufro.org/science/task-forces/tree-mortality-patterns/); así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre *Monitoring biotic and abiotic forest disturbances*, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.
