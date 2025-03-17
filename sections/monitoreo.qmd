@@ -52,7 +52,7 @@ El objetivo principal de este grupo de trabajo es:
 #### Hoja de Ruta
 ::: {.callout-tip}
 ## Hoja de Ruta
-[Aquí](../assets/202409_nerja/suelo_nerja_octubre_2024) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Suelo y decaimiento forestal acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
+[Aquí](../assets/202409_nerja/suelo_nerja_octubre_2024.pdf) tienes la hoja de ruta/conclusiones de la mesa de trabajo de Suelo y decaimiento forestal acordada en la [primera reunión de la red](../workshops/202409_nerja/programa.qmd)
 :::
 
 ## Internacionalización
