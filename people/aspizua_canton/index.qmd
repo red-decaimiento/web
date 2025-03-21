@@ -13,7 +13,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:rut.aspizua@juntadeandalucia.es
-categories: [Gestión Forestal, Dinámica forestal, Monitorización, Inventario]
+categories: [Gestión forestal, Dinámica forestal, Monitorización, Inventario]
 person_type: 'gestores'
 ---
  

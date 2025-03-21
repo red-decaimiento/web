@@ -1,5 +1,13 @@
 [
   {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -58,6 +66,7 @@
       "/people/margalef_jordi/index.html",
       "/people/martin_benito/index.html",
       "/people/martin_garcia/index.html",
+      "/people/martinez_del_castillo/index.html",
       "/people/martinez_sancho/index.html",
       "/people/martinez_vilalta/index.html",
       "/people/matias_resina/index.html",
@@ -95,14 +104,6 @@
       "/people/crispin_inmaculada/index.html",
       "/people/garcia_lozano/index.html",
       "/people/manzano_serrano/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
     ]
   }
 ]

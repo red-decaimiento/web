@@ -15,7 +15,7 @@ about:
       href: mailto:mjmanzano@esmasl.es
     - text: "{{< fa globe >}} Personal web"
       href: www.esmasl.es
-categories: [Control Biológico, Ecología Forestal, Inventario, Teledetección, Monitorización]
+categories: [Control biológico, Ecología forestal, Inventario, Teledetección, Monitorización]
 person_type: 'gestores'
 ---
  
