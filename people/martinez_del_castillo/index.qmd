@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:emdc85@gmail.com
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0000-0003-1542-2698
+      href: https://orcid.org/0000-0003-1542-2698
     - text: "{{< fa globe >}} Personal web"
       href: https://www.climatology.uni-mainz.de/edurne-martinez-del-castillo/
 categories: [Dendroecología, Ecología forestal, Modelización]
