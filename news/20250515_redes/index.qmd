@@ -1,0 +1,20 @@
+---
+title: "Concesión del proyecto REDES 2024 para la Red de Decaimiento Forestal"
+description: Redes 2024
+categories:
+  - redes
+image: miciu-aei.png
+date: 2025-05-15
+---
+
+Nos alegra anunciar que hemos recibido financiación dentro de la convocatoria [REDES de Investigación 2024](https://www.aei.gob.es/convocatorias/buscador-convocatorias/redes-investigacion-2024) de la Agencia Estatal de Investigación (AEI). 
+
+La Red Española de Seguimiento del Decaimiento Forestal nace con el objetivo de conectar y coordinar a distintos grupos de investigación que trabajan en el estudio del decaimiento forestal, un fenómeno cada vez más relevante en el contexto del cambio climático, las sequías prolongadas y otros factores de estrés ambiental. Con esta financiación recibida, se seguirá fomentando la colaboración científica, el intercambio de datos y metodologías, así como la organización de actividades conjuntas que impulsen el avance del conocimiento en esta área.
+
+::: {.callout-tip}
+## Resolución 
+La resolución completa de la convocatoria puede consultarse aquí:
+
+[Resolución REDES 2024](https://www.aei.gob.es/sites/default/files/convocatory_info/file/2025-05/RED2024-RC-Texto%2BAnexo-firmado.pdf)
+
+:::

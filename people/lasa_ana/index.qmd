@@ -1,6 +1,6 @@
 ---
 title: "Ana Lasa"
-email: "radikal_ana@hotmail.com"  
+email: "ana.lasa@eez.csic.es"  
 namesort: "lasa_ana"
 image: avatar_lasa_ana.jpg
 page-layout: full
