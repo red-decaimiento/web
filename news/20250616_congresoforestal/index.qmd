@@ -17,7 +17,7 @@ La mesa redonda está organizada por:
 
 - **[Raúl Sánchez Salguero](../../people/sanchez_salguero)** (Laboratorio DendrOlavide-Universidad Pablo de Olavide de Sevilla)
 - **José Ramón Guzman** (Consejería de Sostenibilidad y Medio Ambiente de la Junta de Andalucía) 
-- **[Francisco Lloret](../../people/lloret_francisco)** (Centro de Investigación Ecológica y Aplicaciones Forestales, CREAF; Universitat de Barcelona) 
+- **[Francisco Lloret](../../people/lloret_francisco)** (Centro de Investigación Ecológica y Aplicaciones Forestales, CREAF; Universitat Autònoma de Barcelona) 
 - **[Paloma Ruiz-Benito](../../people/ruiz_benito)** (Universidad de Alcalá)
 
 
