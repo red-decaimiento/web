@@ -1,0 +1,36 @@
+---
+title: "Mesa Redonda Red Española de Decaimiento Forestal: De la Investigación a la gestión Adaptativa"
+description: Mesa Redonda IX Congreso Forestal Español
+categories:
+  - congresos
+image: logo_cfe.png
+date: 2025-06-16
+---
+
+Con motivo de la celebración del [IX Congreso Forestal Español](https://9cfe.congresoforestal.es/), que tendrá lugar en Gijón del 16 al 20 de junio de 2025, se ha organizado una **Mesa Redonda** titulada ***Red Española de Decaimiento Forestal: De la Investigación a la gestión Adaptativa***. Esta mesa redonda se llevará a cabo el **16 de junio de 2025** en horario de 9:00 a 11:00 de la mañana, en el Anfiteatro de la sede del congreso. La mesa redonda está coordinada por miembros de la **[Red Española de Decaimiento Forestal](https://redeciberica.es/)** (ReDeC), el **Laboratorio DendrOlavide-Universidad Pablo de Olavide** y la **Consejería de Sostenibilidad y Medio Ambiente de la Junta de Andalucía**.
+
+La Mesa Redonda abordará la situación actual y las perspectivas de futuro del fenómeno del decaimiento, poniendo en común el conocimiento científico que se está generando por numerosos grupos de científicos y el que se ha ido formando a partir de la experiencia en la gestión sobre el terreno de las masas forestales. Este formato en el que gestores y investigadores comparten sus experiencias de cara a abordar el manejo de los bosques en un contexto de cambio climático ya se implementó con éxito en las [jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima: de la investigación a la gestión adaptativa](../../workshops/202409_nerja/programa.qmd) celebradas en septiembre de 2024 en Nerja (Málaga), y coordinadas por miembros de la red de investigadores ReDeC, el Laboratorio DendrOlavide-Universidad Pablo de Olavide de Sevilla y la Consejería de Sostenibilidad y Medio Ambiente de la Junta de Andalucía.
+
+En aquella ocasión el colectivo de gestores solicitó compartir experiencias y debate entre científicos y gestores en próximas reuniones. La Mesa Redonda pretende dar continuidad a esta plataforma de reunión e intercambio de ideas entre gestores e investigadores y abrirla al resto de la comunidad forestal de España. El objetivo último es desarrollar elementos de una estrategia común para hacer frente a las problemáticas derivadas del cambio climático, y del decaimiento de los bosques en España.
+
+La mesa redonda está organizada por: 
+
+- **[Raúl Sánchez Salguero](../../people/sanchez_salguero)** (Laboratorio DendrOlavide-Universidad Pablo de Olavide de Sevilla)
+- **José Ramón Guzman** (Consejería de Sostenibilidad y Medio Ambiente de la Junta de Andalucía) 
+- **[Francisco Lloret](../../people/lloret_francisco)** (Centro de Investigación Ecológica y Aplicaciones Forestales, CREAF; Universitat de Barcelona) 
+- **[Paloma Ruiz-Benito](../../people/ruiz_benito)** (Universidad de Alcalá)
+
+
+::: {.callout-warning}
+## Fechas Importantes
+
+**Mesa Redonda**: Lunes 16 Junio (9:00-11:00)
+
+**Lugar**: Anfiteatro de la sede del Congreso Forestal, Gijón 
+:::
+
+::: {.callout-tip}
+## Web con el programa del congreso
+
+[https://9cfe.congresoforestal.es/programa/](https://9cfe.congresoforestal.es/programa/)
+:::
