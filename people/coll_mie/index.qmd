@@ -1,0 +1,35 @@
+---
+title: "Lluís Coll Mie"
+email: "lluis.coll@udl.cat"  
+namesort: "coll_mie"
+image: avatar_coll_mie.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_coll_mie.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lluis.coll@udl.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8035-5949
+    - text: "{{< fa globe >}} Personal web"
+      href: https://sites.google.com/view/lluiscoll/
+categories: [Dinámica forestal, Ecología forestal, Gestión forestal, Regeneración, Selvicultura]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departament de Ciència i Enginyeria Forestal i Agrícola](https://dcefa.udl.cat/ca/)
+- Research group on Adaptive Management and Forest Dynamics (ADAPTAFOR)
+
+## Institución
+- [Universitat de Lleida](https://www.udl.cat/ca/)
+
+:::
