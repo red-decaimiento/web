@@ -8,7 +8,7 @@ about:
   id: person-profile
   template: trestles
   image-shape: round
-  image: avatar_coll_mie.jpg
+  image: avatar_coll_mir.jpg
   links:
     - icon: envelope
       text: Email
