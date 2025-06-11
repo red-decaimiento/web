@@ -1,8 +1,8 @@
 ---
-title: "Lluís Coll Mie"
+title: "Lluís Coll Mir"
 email: "lluis.coll@udl.cat"  
 namesort: "coll_mie"
-image: avatar_coll_mie.jpg
+image: avatar_coll_mir.jpg
 page-layout: full
 about: 
   id: person-profile
