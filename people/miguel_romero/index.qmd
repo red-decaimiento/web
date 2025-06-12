@@ -1,0 +1,33 @@
+---
+title: "Sofia Miguel Romero"
+email: "sofia.mr1996@gmail.com"  
+namesort: "miguel_romero"
+image: avatar_miguel_romero.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_miguel_romero.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:sofia.mr1996@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1341-8022
+categories: [Ecología forestal, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Grupo de Investigación en Teledetección Ambiental (GITA)](https://geogra.uah.es/gita/)
+
+## Institución
+- [Universidad de Alcalá de Henares](https://www.uah.es)
+
+:::
+
