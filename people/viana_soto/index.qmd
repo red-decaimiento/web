@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:albavianasoto@gmail.com
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0000-0001-5595-2170
+      href: https://orcid.org/0000-0001-5595-2170
     - text: "{{< fa globe >}} Personal web"
       href: https://www.lss.ls.tum.de/en/eoem/team/dr-alba-viana-soto/
 categories: [Teledetección, Regeneración, Monitorización, Ecología forestal, Biogeografía]
