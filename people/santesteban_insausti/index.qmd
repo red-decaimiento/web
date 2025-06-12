@@ -1,0 +1,34 @@
+---
+title: "Xabier Santesteban Insausti"
+email: "xsantesi@orekan.es"  
+namesort: "santesteban_insausti"
+image: avatar_santesteban_insausti.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_santesteban_insausti.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:xsantesi@orekan.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/https://orcid.org/0009-0004-4545-5938
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.linkedin.com/in/xabier-santesteban-insausti-16039154/
+categories: [Monitorización, Patología, Dinámica forestal, Sanidad forestal]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Área de Bosque y Agrodiversidad. Equipo de Gestión Forestal. Grupo de Sanidad Forestal
+
+## Institución
+- [OREKAN Gestión Ambiental de Navarra](https://orekan.es/)
+
+:::

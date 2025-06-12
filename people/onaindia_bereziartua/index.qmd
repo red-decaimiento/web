@@ -1,0 +1,29 @@
+---
+title: "Aitor Onaindia Bereziartua"
+email: "fundazioa@basoa.org"  
+namesort: "onaindia_bereziartua"
+image: avatar_onaindia_bereziartua.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_onaindia_bereziartua.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:fundazioa@basoa.org
+categories: [Gestión forestal, Selvicultura, Dinámica forestal, Biodiversidad, Dendroecología]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+## Institución
+- [Basoa fundazioa](https://basoa.org/basoa-fundazioa/)
+
+:::
