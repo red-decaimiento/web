@@ -1,0 +1,32 @@
+---
+title: "Susana Silvestre Carbonell"
+email: "susilcarbonell@gmail.com"  
+namesort: "silvestre_carbonell"
+image: avatar_silvestre_carbonell.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_silvestre_carbonell.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:susilcarbonell@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0061-8113
+categories: [Ecofisiología, Ecología forestal, Modelización, Restauración, Dinámica forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Proyecto TOFU
+
+## Institución
+- [Centre de Ciència i Tecnologia Forestal de Catalunya](https://www.ctfc.cat/)
+
+:::
