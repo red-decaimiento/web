@@ -16,7 +16,7 @@ about:
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-2006-1559
     - text: "{{< fa globe >}} Personal web"
-      href: amezteguilab.wordpress.com
+      href: https://amezteguilab.wordpress.com/
 categories: [Dinámica del paisaje, Dinámica forestal, Gestión forestal, Selvicultura, Teledetección]
 person_type: 'investigadores'
 ---
