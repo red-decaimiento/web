@@ -1,0 +1,32 @@
+---
+title: "Jose Luis Horreo"
+email: "jhorreo@ucm.es"  
+namesort: "horreo_jose"
+image: avatar_horreo_jose.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_horreo_jose.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jhorreo@ucm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-9851-7651
+categories: [Genómica, Genética, Biodiversidad]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Dpto. Genética, Fisiología y Microbiología. Grupo de Genómica agroalimentaria y ambiental](https://produccioncientifica.ucm.es/grupos/4973/detalle)
+
+## Institución
+- Universidad Complutense de Madrid
+
+:::

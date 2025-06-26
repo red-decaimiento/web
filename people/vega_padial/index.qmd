@@ -1,0 +1,30 @@
+---
+title: "Joaquín Vega Padial"
+email: "joaquinvegapadial@gmail.com"  
+namesort: "vega_padial"
+image: avatar_vega_padial.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_vega_padial.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:joaquinvegapadial@gmail.com
+categories: [Restauración, Gestión forestal]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- Plataforma por el Monte Andaluz
+
+:::

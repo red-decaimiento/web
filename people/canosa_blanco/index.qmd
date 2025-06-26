@@ -1,0 +1,32 @@
+---
+title: "Domingo Daniel Canosa Blanco"
+email: "dcanosa@juanadevega.org"  
+namesort: "canosa_blanco"
+image: avatar_canosa_blanco.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_canosa_blanco.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:dcanosa@juanadevega.org
+    - text: "{{< fa globe >}} Personal web"
+      href: https://juanadevega.org/es/
+categories: [Gestión forestal, Biodiversidad, Restauración, Especies Invasoras, Dinámica del paisaje]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Desarrollo rural
+
+## Institución
+- [Fundación Juana de Vega](https://juanadevega.org/es/)
+
+:::

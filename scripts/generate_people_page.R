@@ -179,7 +179,7 @@ mypath <- here::here("people")
 
 ## 4. Aplica la función a cada respuesta del fillout ---------------------------
 # se puede aplicar un purr pero prefiero hacerlo uno a uno para revisar 
-generate_personal_page(respuestas_fillout[3,])
+generate_personal_page(respuestas_fillout[1,])
 
 
 ## 5. Siguientes pasos ---------------------------------------------------------
