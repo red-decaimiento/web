@@ -1,0 +1,34 @@
+---
+title: "Gerard Sapes"
+email: "g.sapes@creaf.cat"  
+namesort: "sapes_gerard"
+image: avatar_sapes_gerard.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_sapes_gerard.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:g.sapes@creaf.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6017-2053
+    - text: "{{< fa globe >}} Personal web"
+      href: https://gerardsapes.wixsite.com/plantscience
+categories: [Ecofisiología, Interacciones bióticas, Teledetección, Micología]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Grupo de ecofisiología
+
+## Institución
+- Centre de Recerca Ecològica i Aplicacions Forestals (CREAF)
+
+:::

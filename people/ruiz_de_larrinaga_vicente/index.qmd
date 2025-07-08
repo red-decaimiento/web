@@ -1,0 +1,32 @@
+---
+title: "Lorena Ruiz de Larrinaga Vicente"
+email: "lorena.ruizdelarrinaga@ehu.eus"  
+namesort: "ruiz_de_larrinaga_vicente"
+image: avatar_ruiz_de_larrinaga_vicente.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_ruiz_de_larrinaga_vicente.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:lorena.ruizdelarrinaga@ehu.eus
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/https://orcid.org/0000-0003-1535-1244
+categories: [Ecofisiología, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departamento de Biología Vegetal y Ecología. Grupo BEZ-EKOFISKO](https://www.ehu.eus/es/web/ekofisko)
+
+## Institución
+- Universidad del País Vasco (EHU)
+
+:::
