@@ -1,5 +1,15 @@
 [
   {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20250616_congresoforestal/index.html",
+      "/news/20250515_redes/index.html",
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -95,6 +105,7 @@
       "/people/tijerin_trivino/index.html",
       "/people/tomas_riera/index.html",
       "/people/torres_ruiz/index.html",
+      "/people/vazquez_pique/index.html",
       "/people/venturas_martin/index.html",
       "/people/viana_soto/index.html",
       "/people/vilagrosa_carmona/index.html",
@@ -106,18 +117,9 @@
       "/people/garcia_lozano/index.html",
       "/people/manzano_serrano/index.html",
       "/people/onaindia_bereziartua/index.html",
+      "/people/rojo_nunez/index.html",
       "/people/santesteban_insausti/index.html",
       "/people/vega_padial/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20250616_congresoforestal/index.html",
-      "/news/20250515_redes/index.html",
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
     ]
   }
 ]

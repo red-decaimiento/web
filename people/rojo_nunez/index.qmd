@@ -1,0 +1,30 @@
+---
+title: "Ignacio Rojo Núñez"
+email: "ignacio.rojo@carm.es"  
+namesort: "rojo_nunez"
+image: avatar_rojo_nunez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_rojo_nunez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ignacio.rojo@carm.es
+categories: [Dinámica forestal]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Servicio de gestión y protección forestal
+
+## Institución
+- Comunidad Autónoma de la Región de Murcia. Subdirección General de Montes, Caza y Pesca Fluvial.
+
+:::

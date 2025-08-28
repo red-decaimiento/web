@@ -1,0 +1,34 @@
+---
+title: "Fco. Javier Vázquez Piqué"
+email: "jpique@uhu.es"  
+namesort: "vazquez_pique"
+image: avatar_vazquez_pique.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_vazquez_pique.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jpique@uhu.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/http://orcid.org/0000-0002-7133-4142
+    - text: "{{< fa globe >}} Personal web"
+      href: http://www.uhu.es/franciscoj.vazquez
+categories: [Modelización, Dendroecología, Edafología, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+-Departamento de Ciencias Agroforestales. Grupo de investigación RNM-315
+
+## Institución
+- Universidad de Huelva
+
+:::
