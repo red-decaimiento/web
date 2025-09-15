@@ -47,7 +47,6 @@ El objetivo principal de este grupo de trabajo es:
 #### Responsables
 - [Lorena Gómez-Aparicio](../../people/gomez_aparicio)
 - [Jorge Curiel Yuste](../../people/curiel_jorge)
-- [José A. Carreira](../../people/carreira_de_la_fuente)
 
 #### Hoja de Ruta
 ::: {.callout-tip}
