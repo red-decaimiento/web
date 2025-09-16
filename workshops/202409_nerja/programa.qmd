@@ -246,7 +246,7 @@ Se realizará una parada en el aeropuerto de Málaga en el camino de vuelta
 
 ::: {layout="[[50,50], [50,50]]" layout-valign="center"}
 
-![[Red de Decaimiento Forestal Inducido por el Clima (ReDeC)](https://redeciberica.es/)](../../images/logo_redec.png){fig-align="center" width=250}
+![[Red de Decaimiento Forestal Inducido por el Clima (ReDeC)](https://decaimiento.es/)](../../images/logo_redec.png){fig-align="center" width=250}
 
 ![[Consejería de Sostenibilidad, Medio Ambiente y Economía Azul (Junta de Andalucía)](https://www.juntadeandalucia.es/organismos/sostenibilidadmedioambienteyeconomiaazul.html)](/workshops/202409_nerja/logos/logo_consejeria.png){fig-align="center" width=400}
 

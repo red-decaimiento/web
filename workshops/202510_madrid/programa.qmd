@@ -1,0 +1,258 @@
+---
+# title: 'II Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec)'
+page-layout: full
+toc: true
+toc-depth: 2
+editor_options: 
+  chunk_output_type: console
+---
+
+# II Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) {.unnumbered .unlisted}
+
+- Fecha: 28 (reunión interna), 29 (salida de campo) y 30 de Octubre 2025 (jornadas públicas)
+- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+
+# Objetivos de la Reunión 
+
+La segunda reunión de ReDec tiene como objetivo avanzar en el conocimiento sobre el estado del decaimiento arbóreo en la península Ibérica. La reunión se organiza en tres jornadas: la [primera](programa.qmd#sec-reunion-interna) jornada consistirá en mesas de trabajo de los diferentes grupos establecidos dentro de la red para exponer los avances realizados y planificar los siguientes pasos; la [segunda jornada](programa.qmd#sec-visita-campo) consistirá en una salida de campo en la que se visitarán diferentes zonas con decaimiento en la Comunidad de Madrid; y finalmente la [tercera jornada](programa.qmd#sec-reunion-publica) servirá para mostrar diferentes casos de estudio en los que se están llevando a cabo investigaciones multidisciplinares para hacer frente al decaimiento forestal. 
+
+
+# Reunión interna miembros de ReDec {#sec-reunion-interna}
+###  Fecha y Lugar de Celebración
+- 28 de octubre 2024 
+- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+
+## Programa
+
+```{r}
+#| echo: false
+#| message: false
+#| warning: false
+library(tidyverse)
+library(knitr)
+library(gt)
+
+
+raw <- readxl::read_excel("../../workshops/202510_madrid/horario_workshop_madrid.xlsx") |> 
+  mutate(
+    start = format(start, "%H:%M"),
+    end   = format(end, "%H:%M")
+  )
+
+d  <- raw |> 
+  unite("time", c("start", "end"), sep = " - ", remove = TRUE) |>
+    rename(
+        Hora = time, 
+        Mesa = mesa,
+        Coordina = coordinacion) |>
+    mutate(
+        Coordina = str_replace_all(Coordina,
+    c("Francisco Lloret" = "[Francisco Lloret](../../people/lloret_francisco)", 
+    "Paloma Ruiz-Benito" = "[Paloma Ruiz-Benito](../../people/ruiz_benito)",
+    "Antonio J. Pérez-Luque" = "[Antonio J. Pérez-Luque](../../people/perez_luque)",
+    "Antonio Gazol" = "[Antonio Gazol](../../people/gazol_burgos)",
+    "Cristina Acosta" = "[Cristina Acosta](../../people/acosta_cristina)",
+    "Lorena Gómez-Aparicio" = "[Lorena Gómez-Aparicio](../../people/gomez_aparicio)",
+    "Jorge Curiel" = "[Jorge Curiel](../../people/curiel_jorge)",
+    "Jordi Martínez-Vilalta" = "[Jordi Martínez-Vilalta](../../people/martinez_vilalta)", 
+    "Julen Astigarraga" = "[Julen Astigarraga](../../people/astigarraga_julen)",
+    "Miren del Río" = "[Miren del Río](../../people/del_rio)",
+    "Rafael Calama" = "[Rafael Calama](../../people/calama_rafael)",
+    "Marta Pardos" = "[Marta Pardos](../../people/pardos_marta)",
+    "Guillermo Gea-Izquierdo" = "[Guillermo Gea-Izquierdo](../../people/gea_izquierdo)"
+    ))
+    ) 
+```
+
+```{r}
+#| echo: false
+
+d28 <- d |> 
+    filter(day == 28) |> 
+    dplyr::select(-jornada, -day) 
+
+gt::gt(d28) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(15),
+    "Mesa" ~ pct(40),
+    "Coordina" ~ pct(45)
+  ) |> 
+  sub_missing(
+    columns = 3,
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  as_raw_html()
+```
+
+
+# Jornada de Campo {#sec-visita-campo}
+
+Esta jornada tiene como objetivo realizar un viaje compartido entre gestores e investigadores por zonas con decaimiento en la Comunidad Autónoma de Madrid para visitar diferentes zonas con decaimiento y mostrar algunas de las investigaciones que se están realizando.
+
+###  Fecha y Lugar de Celebración
+- 29 de octubre de 2025
+- Salida: Salida desde Ciudad Universitaria (Madrid) (por concretar) 
+
+## Programa
+```{r}
+#| echo: false
+
+d29 <- d |> 
+  filter(day == 29) |> 
+  dplyr::select(-jornada, -day, Actividad = Mesa, Coordina) |> 
+  mutate(Hora = str_remove_all(Hora, "NA - NA"))
+
+gt::gt(d29) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(15),
+    "Actividad" ~ pct(40)
+  ) |> 
+  sub_missing(
+    columns = everything(),
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  as_raw_html()
+```
+
+# Tercera Jornada - Casos de estudio {#sec-reunion-publica}
+
+En esta jornada, abierta a todo el público, se expondrán diferentes casos de estudio de decaimiento y se analizarán las diferetes aproximaciones a su investigación y mitigación.
+
+###  Fecha y Lugar de Celebración
+- 30 octubre de 2025
+- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+
+## Programa
+
+```{r}
+#| echo: false
+
+d30 <- d |> 
+  filter(day == 30) |> 
+  dplyr::select(-jornada, -day) 
+
+gt::gt(d30) |> 
+  fmt_markdown(colum = Coordina) |>
+  tab_style(
+    style = cell_fill(color = "#dfece9"),
+    locations = cells_body(
+      rows = type == "break")
+  ) |> 
+  cols_hide(columns = type) |> 
+  cols_width(
+    "Hora" ~ pct(15),
+    "Mesa" ~ pct(40),
+    "Coordina" ~ pct(45)
+  ) |> 
+  sub_missing(
+    columns = 3,
+    missing_text = ""
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_column_labels(everything())
+  ) |> 
+  tab_style(
+    style = list(
+      cell_text(weight = "bold")
+    ),
+    locations = cells_body(columns = c(Hora, Mesa),
+                           rows = c(2, 9))
+  ) |> 
+  as_raw_html()
+```
+
+
+## Ubicación 
+
+La dirección del INIA es Avenida del Padre Huidobro 7, Madrid (salida en el km 8 de la A6 Madrid-La Coruña). De forma más detallada, el INIA se sitúa a la salida de Madrid por la autovía A-6 (Carretera de La Coruña o Avenida del Padre Huidobro), tras cruzar el Río Manzanares a pocos kilómetros de la Ciudad Universitaria. Existe una puerta de acceso para peatones o ciclistas desde el carril-bici paralelo a la orilla del río, y otra que da a una pasarela sobre la A-6 que comunica con paradas de autobús de línea y con un camino peatonal que lleva hacia las facultades de la Ciudad Universitaria.
+
+```{r}
+#| echo: false
+#| eval: false
+lat_inia <- 40.45501178908512
+long_inia <- -3.7498259040849624
+
+content_inia <- paste(sep = "<br/>","Jornada Días 28 y 30", 
+                        "<b><a href='https://www.inia.es/Pages/Home.aspx'>Instituto de Ciencias Forestales, INIA-CSIC</a></b>",
+                        "Ctra. de La Coruña, km 7.",  "28040 Madrid")  
+
+library(leaflet)
+m <- leaflet() |>
+  addTiles() |>
+  #setView(lng = long_jardin, lat = lat_jardin, zoom = 16) |> 
+  addMarkers(lng = long_inia, lat = lat_inia, popup = content_inia) 
+
+m
+```
+
+
+### Acceso con vehículo particular 
+
+Para acceder en vehículo a motor, hay que tomar la A-6, dirección A Coruña. Posteriormente tomar la salida km 8 (Hipódromo), para seguir una carretera señalada hacia el INIA, al sur de autovía. Ver línea azul en el mapa. 
+
+### Acceso con transporte público 
+
+En transporte público (autobuses EMT), existen varias líneas de autobús que se aproximan al INIA (los puntos morados en el mapa adjunto indican las paradas)
+
+- **Línea 162** (Moncloa - El Barrial, Dirección El Barrial)
+
+  > **Parada 4308 Av. Padre Huidobro/Pte. San Fernando**. A continuación, se debe cruzar la pasarela sobre la A-6 para acceder al INIA. La entrada es por la puerta peatonal (punto rojo en el mapa)
+
+- **Línea 83** (Barrio del Pilar – Moncloa para llegar y dirección inversa al volver) 
+
+- **Línea 133** (Callao – Mirasierra para llegar y dirección inversa al volver)
+
+  > En ambas líneas (L83 y L133) la **parada 1341 Parque Deportivo Pta. De Hierro** en la M-30. Cruzar el puente de piedra de San Fernando sobre el río Manzanares, posteriormente cruzar la pasarela de la A-6 y se accede al INIA por la puerta peatonal.
+
+
+```{=html}
+<iframe src="https://www.google.com/maps/d/embed?mid=16nYbHAPj3S-oHkLQqixZnoI_Vau2GRw&ehbc=2E312F" width="640" height="480"></iframe>
+```
+
+
+## Información y Dudas
+- [Miren del Río](../../people/del_rio)
+- [Rafael Calama](../../people/calama_rafael)
+- [Marta Pardos](../../people/pardos_marta)
+- [Antonio J. Pérez-Luque](../../people/perez_luque)
+
+# Organiza 
+
+::: {layout-ncol="2" fig-align="center" layout-valign="center"}
+
+[![](../../images/logo_redec.png){width=300}](https://decaimiento.es/)
+
+[![](/workshops/202510_madrid/logos/icifor.png){width=300}](https://www.inia.es/investigacion/forestal/Pages/Home.aspx)
+[![](/workshops/202510_madrid/logos/inia.png){width=300}](https://www.inia.es/Pages/Home.aspx)
+[![](/workshops/202510_madrid/logos/csic.png){width=300}](https://www.csic.es/es)
+
+:::
