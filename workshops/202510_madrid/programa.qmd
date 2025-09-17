@@ -98,13 +98,28 @@ gt::gt(d28) |>
 ```
 
 
+:::{.callout-important}
+# Aviso importante
+Para las personas que asistan en transporte público al INIA: 
+
+- El **martes 28-Octubre** (primer día de las jornadas) nos vemos a las **8:00 AM** en la parada de bus (ver [**aquí**](https://maps.app.goo.gl/NSh8CY2RP7EFgqQ87)) donde tomaremos el autobus EMT que nos lleva al INIA. 
+::: 
+
 # Jornada de Campo {#sec-visita-campo}
 
 Esta jornada tiene como objetivo realizar un viaje compartido entre gestores e investigadores por zonas con decaimiento en la Comunidad Autónoma de Madrid para visitar diferentes zonas con decaimiento y mostrar algunas de las investigaciones que se están realizando.
 
 ###  Fecha y Lugar de Celebración
 - 29 de octubre de 2025
-- Salida: Salida desde Ciudad Universitaria (Madrid) (por concretar) 
+- Salida: ICIFOR INIA-CSIC a las 8:45 AM 
+
+:::{.callout-important}
+# Aviso importante
+Para las personas que asistan en transporte público al INIA: 
+
+- El **miércoles 29-Octubre** nos vemos a las **8:00 AM** en la parada de bus (ver [**aquí**](https://maps.app.goo.gl/NSh8CY2RP7EFgqQ87)) donde tomaremos el autobus EMT que nos lleva al INIA. 
+::: 
+
 
 ## Programa
 ```{r}
