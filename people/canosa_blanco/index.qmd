@@ -15,7 +15,7 @@ about:
       href: mailto:dcanosa@juanadevega.org
     - text: "{{< fa globe >}} Personal web"
       href: https://juanadevega.org/es/
-categories: [Gestión forestal, Biodiversidad, Restauración, Especies Invasoras, Dinámica del paisaje]
+categories: [Gestión forestal, Biodiversidad, Restauración, Especies invasoras, Dinámica del paisaje]
 person_type: 'investigadores'
 ---
  

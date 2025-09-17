@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0003-0609-360X
     - text: "{{< fa globe >}} Personal web"
       href: https://sites.google.com/view/analopezballesteros
-categories: [Monitorización, Gestión forestal/ecosistemas, Ecofisiología, Biogeoquímica, Micrometeorología]
+categories: [Monitorización, Gestión forestal, Ecofisiología, Biogeoquímica, Micrometeorología]
 person_type: 'investigadores'
 ---
  
@@ -26,7 +26,7 @@ person_type: 'investigadores'
 :::{#person-profile}
 
 ## Grupo de Investigación
-[- Departamento de Sistemas Agrícolas, Forestales y Medio Ambiente / Grupo de Ecofisiología Vegetal](NA)
+- Departamento de Sistemas Agrícolas, Forestales y Medio Ambiente / Grupo de Ecofisiología Vegetal
 
 ## Institución
 - Centro de Investigación y Tecnología Agroalimentaria de Aragón (CITA)

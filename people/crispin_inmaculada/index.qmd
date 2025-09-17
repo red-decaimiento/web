@@ -13,7 +13,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:icrispin@chguadalquivir.es
-categories: [Dinámica forestal, Biodiversidad, Gestión forestal, Selvicultura, Restauración, Desertificación , Erosión de suelos]
+categories: [Dinámica forestal, Biodiversidad, Gestión forestal, Selvicultura, Restauración, Erosión de suelos]
 person_type: 'gestores'
 ---
  

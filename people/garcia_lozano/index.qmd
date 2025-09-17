@@ -13,7 +13,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:elenagarcialozano@gmail.com
-categories: [Gestión forestal, Ecosistemas, Gestores]
+categories: [Gestión forestal]
 person_type: 'gestores'
 ---
  

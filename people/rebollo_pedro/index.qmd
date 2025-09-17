@@ -15,7 +15,7 @@ about:
       href: mailto:prebollo@ucm.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0001-9448-7507
-categories: [Dinámica forestal, Ecología forestal, Inventario, Perturbaciones forestales]
+categories: [Dinámica forestal, Ecología forestal, Inventario]
 person_type: 'investigadores'
 ---
  
