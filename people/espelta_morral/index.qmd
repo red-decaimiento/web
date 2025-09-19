@@ -27,6 +27,6 @@ person_type: 'investigadores'
 - Conservación de la biodiversidad en un contexto de cambio global. [BIOCONS](https://www.creaf.cat/es/investigacion/directorio-de-investigacionconservacion-de-la-biodiversidad-en-un-contexto-de-cambio-global)
 
 ## Institución
-- CREAF (Centre de Recerca Ecològica i Aplicacions Forestals)[https://www.creaf.cat/es]
+- [CREAF](https://www.creaf.cat/es) (Centre de Recerca Ecològica i Aplicacions Forestals)
 
 :::
