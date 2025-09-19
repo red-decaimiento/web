@@ -1,0 +1,32 @@
+---
+title: "Josep Maria Espelta Morral"
+email: "j.espelta@creaf.cat"  
+namesort: "espelta_morral"
+image: avatar_espelta_morral.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_espelta_morral.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:j.espelta@creaf.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0242-4988
+categories: [Dinámica del paisaje, Dinámica forestal, Ecología Forestal, Gestión forestal, Regeneración]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Conservación de la biodiversidad en un contexto de cambio global. [BIOCONS](https://www.creaf.cat/es/investigacion/directorio-de-investigacionconservacion-de-la-biodiversidad-en-un-contexto-de-cambio-global)
+
+## Institución
+- CREAF (Centre de Recerca Ecològica i Aplicacions Forestals)[https://www.creaf.cat/es]
+
+:::
