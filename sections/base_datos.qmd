@@ -13,6 +13,7 @@ Generación de una base de datos de sistemas de estudio de bosques con decaimien
 - [Raúl García Valdés](../../people/garcia_valdes)
 - [Jorge Curiel](../../people/curiel_jorge)
 - [Álvaro Cortes Molino](../../people/cortes_molino)
+- [Francisco Lloret](../../people/lloret_francisco)
 
 
 ### Hoja de Ruta
