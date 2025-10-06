@@ -59,8 +59,16 @@ d  <- raw |>
     "Miren del Río" = "[Miren del Río](../../people/del_rio)",
     "Rafael Calama" = "[Rafael Calama](../../people/calama_rafael)",
     "Marta Pardos" = "[Marta Pardos](../../people/pardos_marta)",
-    "Guillermo Gea-Izquierdo" = "[Guillermo Gea-Izquierdo](../../people/gea_izquierdo)"
+    "Guillermo Gea-Izquierdo" = "[Guillermo Gea-Izquierdo](../../people/gea_izquierdo)",
+    "Alberto Vilagrosa" = "[Alberto Vilagrosa](../../people/vilagrosa_carmona/)",
+    "Raúl Sánchez Salguero" = "[Raúl Sánchez Salguero](../../people/sanchez_salguero)",
+    "Luna Morcillo" = "[Luna Morcillo](../../people/morcillo_julia/)",
+    "Juan Carlos Linares" = "[Juan Carlos Linares](../../people/linares_juan/)",
+    "Jose Alberto Ramírez Valiente" = "[Jose Alberto Ramírez Valiente](../../people/ramirez_valiente/)",
+    "Jonás Oliva" = "[Jonás Oliva](../../people/oliva_palau/)"
+    
     ))
+    
     ) 
 ```
 
