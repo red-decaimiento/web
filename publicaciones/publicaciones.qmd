@@ -1,0 +1,21 @@
+---
+title: "Publicaciones"
+listing: 
+  - id: conference-list
+    type: table
+    categories: true
+    fields: [date, author-display, title, conference, contribution]
+    page-size: 10
+    field-display-names:
+      author-display: "Autores"
+      date: "Fecha"
+      title: "Título"
+      contribution: "Tipo"
+      conference: "Congreso"
+    date-format: "YYYY"
+---
+
+## Congresos 
+
+:::{#conference-list}
+:::

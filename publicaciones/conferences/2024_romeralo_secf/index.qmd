@@ -1,0 +1,116 @@
+---
+type: conference
+date: 2024-06-21
+title: "Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC)"
+description: |
+  Pósterde la Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC), presentado
+  en la V Reunión Científica de Sanidad Forestal (Sociedad Española de Ciencias Forestales). 
+contribution: "Póster"
+conference: "V Reunión Científica de Sanidad Forestal (SECF)"
+location: "Albacete, ETSIAMB (UCLM), España"
+event-dates: "2024-06-19 — 2024-06-21"
+author: []
+author-display: "Romeralo et al."
+
+citation:
+  type: paper-conference
+  citation-key: Romeralo2024ReDeC
+  title: "Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC)"
+  author:
+    - family: Romeralo
+      given: Carmen
+    - family: Lloret Maya
+      given: Francisco
+    - family: Ruiz-Benito
+      given: Paloma
+    - family: Alcaraz
+      given: Domingo
+    - family: Aldea
+      given: Jorge
+    - family: Andivia
+      given: Enrique
+    - family: Aponte
+      given: Cristina
+    - family: Calama
+      given: Rafael
+    - family: Camarero
+      given: Jesús J.
+    - family: Curiel
+      given: Jorge
+    - family: del Rio
+      given: Miren
+    - family: Fernández López
+      given: Manuel
+    - family: García
+      given: Mariano
+    - family: Gazol Burgos
+      given: Antonio
+    - family: Gea Izquierdo
+      given: Guillermo
+    - family: Gómez-Aparicio
+      given: Lorena
+    - family: González
+      given: Ester
+    - family: Granda
+      given: Elena
+    - family: Herrero
+      given: Asier
+    - family: Hódar
+      given: José A.
+    - family: Jaime
+      given: Luciana
+    - family: Linares
+      given: Juan Carlos
+    - family: Morcillo Julià
+      given: Luna
+    - family: Margalef
+      given: Jordi
+    - family: Martín Benito
+      given: Darío
+    - family: Martínez Vilalta
+      given: Jordi
+    - family: Navarro-Cerrillo
+      given: Rafael M
+    - family: Oliva Palau
+      given: Jonàs
+    - family: Pardos
+      given: Marta
+    - family: Pérez-Luque
+      given: Antonio J
+    - family: Rodes Blanco
+      given: Marina
+    - family: Sánchez Salguero
+      given: Raúl
+    - family: Sangüesa Barreda
+      given: Gabriel
+    - family: Vilagrosa Carmona
+      given: Alberto
+    - family: Zamora
+      given: Regino
+    - family: Zavala
+      given: Miguel A.
+  container-title: "V Reunión Científica de Sanidad Forestal (SECF)"
+  publisher: "Sociedad Española de Ciencias Forestales (SECF)"
+  publisher-place: "Albacete, España"
+  issued: 2024-06
+  abstract: |
+    Póster presentado en la V Reunión Científica de Sanidad Forestal (SECF), Albacete, 19–21 junio 2024.
+    Se describe la Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC) y sus objetivos de
+    monitoreo y análisis del decaimiento forestal.
+  keyword: "decaimiento forestal; sanidad forestal; monitoreo; Iberia; ReDeC"
+---
+
+### Autores
+
+<details> <summary><strong>Lista completa de autores</strong></summary>
+
+Carmen Romeralo, Francisco Lloret Maya, Paloma Ruiz-Benito, Domingo Alcaraz, Jorge Aldea, Enrique Andivia, Cristina Aponte, Rafael Calama, Jesús J. Camarero, Jorge Curiel, Miren del Rio, Manuel Fernández López, Mariano García, Antonio Gazol Burgos, Guillermo Gea Izquierdo, Lorena Gómez-Aparicio, Ester González, Elena Granda, Asier Herrero, José A. Hódar, Luciana Jaime, Juan Carlos Linares, Luna Morcillo Julià, Jordi Margalef, Darío Martín Benito, Jordi Martínez Vilalta, Rafael M Navarro-Cerrillo, Jonàs Oliva Palau, Marta Pardos, Antonio J Pérez-Luque, Marina Rodes Blanco, Raúl Sánchez Salguero, Gabriel Sangüesa Barreda, Alberto Vilagrosa Carmona, Regino Zamora, Miguel A. Zavala.
+
+</details>
+
+### Detalles
+Póster presentado en la **V Reunión Científica de Sanidad Forestal (SECF, Sociedad Española de Ciencias Forestales)***, celebrado en Albacete (España), 19-21 junio de 2024. 
+
+### Documento
+En este [**PDF**](2024_romeralo_secf.pdf) puedes ver el poster presentado. 
+

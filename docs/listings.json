@@ -122,5 +122,12 @@
       "/news/20241024_forobosques/index.html",
       "/news/20241012_lter/index.html"
     ]
+  },
+  {
+    "listing": "/publicaciones/publicaciones.html",
+    "items": [
+      "/publicaciones/conferences/2024_romeralo_secf/index.html",
+      "/publicaciones/conferences/2025_perez_aeet/index.html"
+    ]
   }
 ]

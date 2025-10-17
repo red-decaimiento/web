@@ -433,5 +433,17 @@
   },
   "people/espelta_morral/index.qmd": {
     "index.html": "0f443b02"
+  },
+  "workshops/202510_madrid/programa_pdf.qmd": {
+    "programa_pdf.tex": "65c2eb1a"
+  },
+  "publicaciones/conferences/2025_perez_aeet/index.qmd": {
+    "index.html": "1f58e84b"
+  },
+  "publicaciones/publicaciones.qmd": {
+    "publicaciones.html": "7478adcb"
+  },
+  "publicaciones/conferences/2024_romeralo_secf/index.qmd": {
+    "index.html": "75c6d776"
   }
 }
