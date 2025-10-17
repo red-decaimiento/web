@@ -1,5 +1,22 @@
 [
   {
+    "listing": "/publicaciones/publicaciones.html",
+    "items": [
+      "/publicaciones/conferences/2024_romeralo_secf/index.html",
+      "/publicaciones/conferences/2025_perez_aeet/index.html"
+    ]
+  },
+  {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20250616_congresoforestal/index.html",
+      "/news/20250515_redes/index.html",
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -111,23 +128,6 @@
       "/people/rojo_nunez/index.html",
       "/people/santesteban_insausti/index.html",
       "/people/vega_padial/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20250616_congresoforestal/index.html",
-      "/news/20250515_redes/index.html",
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
-    ]
-  },
-  {
-    "listing": "/publicaciones/publicaciones.html",
-    "items": [
-      "/publicaciones/conferences/2024_romeralo_secf/index.html",
-      "/publicaciones/conferences/2025_perez_aeet/index.html"
     ]
   }
 ]
