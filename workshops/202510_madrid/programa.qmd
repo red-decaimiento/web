@@ -10,7 +10,7 @@ editor_options:
 # II Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) {.unnumbered .unlisted}
 
 - Fecha: 28 (reunión interna), 29 (salida de campo) y 30 de Octubre 2025 (jornadas públicas)
-- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+- Lugar: Instituto de Ciencias Forestales (ICIFOR-INIA), CSIC, Madrid. 
 
 # Objetivos de la Reunión 
 
@@ -20,7 +20,7 @@ La segunda reunión de ReDec tiene como objetivo avanzar en el conocimiento sobr
 # Reunión interna miembros de ReDec {#sec-reunion-interna}
 ###  Fecha y Lugar de Celebración
 - 28 de octubre 2025 
-- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+- Lugar: Instituto de Ciencias Forestales (ICIFOR-INIA), CSIC, Madrid. 
 
 ## Programa
 
@@ -119,7 +119,7 @@ Esta jornada tiene como objetivo realizar un viaje compartido entre gestores e i
 
 ###  Fecha y Lugar de Celebración
 - 29 de octubre de 2025
-- Salida: ICIFOR INIA-CSIC a las 8:45 AM 
+- Salida: ICIFOR-INIA, CSIC a las 8:45 AM 
 
 :::{.callout-important}
 # Aviso importante
@@ -169,7 +169,7 @@ En esta jornada, abierta a todo el público, se expondrán diferentes casos de e
 
 ###  Fecha y Lugar de Celebración
 - 30 octubre de 2025
-- Lugar: Instituto de Ciencias Forestales (ICIFOR), INIA-CSIC, Madrid. 
+- Lugar: Instituto de Ciencias Forestales (ICIFOR-INIA), CSIC, Madrid.
 
 ## Programa
 
