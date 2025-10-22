@@ -21,6 +21,7 @@ La segunda reunión de ReDec tiene como objetivo avanzar en el conocimiento sobr
 ###  Fecha y Lugar de Celebración
 - 28 de octubre 2025 
 - Lugar: Instituto de Ciencias Forestales (ICIFOR-INIA), CSIC, Madrid. 
+- **[Enlace](https://rediris.zoom.us/j/96579699594)** para conectarse por streaming  
 
 ## Programa
 
@@ -170,6 +171,7 @@ En esta jornada, abierta a todo el público, se expondrán diferentes casos de e
 ###  Fecha y Lugar de Celebración
 - 30 octubre de 2025
 - Lugar: Instituto de Ciencias Forestales (ICIFOR-INIA), CSIC, Madrid.
+- **[Enlace](https://rediris.zoom.us/j/94872616788)** para conectarse por streaming  
 
 ## Programa
 
@@ -272,10 +274,14 @@ En transporte público (autobuses EMT), existen varias líneas de autobús que s
 
 ::: {layout-ncol="2" fig-align="center" layout-valign="center"}
 
-[![](../../images/logo_redec.png){width=300}](https://decaimiento.es/)
+[![](../../images/logo/logo_redec.png){width=400}](https://decaimiento.es/)
+[![](/workshops/202510_madrid/logos/logo_ministerio.png){width=400}](https://www.aei.gob.es/convocatorias/buscador-convocatorias/redes-investigacion-2024/publicaciones)
+[![](/workshops/202510_madrid/logos/logo_creaf.png){width=400}](https://www.creaf.cat/es)
 
 [![](/workshops/202510_madrid/logos/icifor.png){width=300}](https://www.inia.es/investigacion/forestal/Pages/Home.aspx)
 [![](/workshops/202510_madrid/logos/inia.png){width=300}](https://www.inia.es/Pages/Home.aspx)
 [![](/workshops/202510_madrid/logos/csic.png){width=300}](https://www.csic.es/es)
+
+
 
 :::
