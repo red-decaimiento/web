@@ -1,0 +1,34 @@
+---
+title: "Javier Martínez López"
+email: "javier.martinez@ugr.es"  
+namesort: "martinez_lopez"
+image: avatar_martinez_lopez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_martinez_lopez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:javier.martinez@ugr.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0825-7252
+    - text: "{{< fa globe >}} Personal web"
+      href: https://scholar.google.es/citations?hl=es&user=x2xPn5QAAAAJ
+categories: [Teledetección, Modelización, Gestión forestal, Ecología del paisaje, Biodiversidad]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departamento de Ecología](https://ecologia.ugr.es/)
+
+## Institución
+- Universidad de Granada
+
+:::

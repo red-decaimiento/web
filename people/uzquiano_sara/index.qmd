@@ -1,0 +1,34 @@
+---
+title: "Sara Uzquiano"
+email: "uzquiano.sara@gmail.com"  
+namesort: "uzquiano_sara"
+image: avatar_uzquiano_sara.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_uzquiano_sara.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:uzquiano.sara@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/http://orcid.org/0000-0001-6059-8188
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.linkedin.com/in/sara-uzquiano/
+categories: [Selvicultura, Regeneración, Monitorización, Gestión forestal, Biodiversidad, Resiliencia socio-ecologica]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Resilience programme/Research Unit](https://efi.int/resilience)
+
+## Institución
+- European Forest Institute (EFI)
+
+:::

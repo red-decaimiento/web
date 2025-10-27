@@ -1,0 +1,34 @@
+---
+title: "Mihai A Tanase"
+email: "mihai.tanase@inia.csic.es"  
+namesort: "tanase"
+image: avatar_tanase.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_tanase.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:mihai.tanase@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0045-2299
+    - text: "{{< fa globe >}} Personal web"
+      href: www.tma.ro
+categories: [Dinámica forestal, Teledetección, Monitorización, Modelización]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Incendios forestales
+
+## Institución
+- Instituto de Ciencias Forestales, INIA-CSIC
+
+:::
