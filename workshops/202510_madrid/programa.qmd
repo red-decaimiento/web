@@ -164,6 +164,10 @@ gt::gt(d29) |>
   as_raw_html()
 ```
 
+
+### Guión de la salida
+En este [enlace](20251019_campo.pdf) se puede descargar información de la salida. 
+
 # Tercera Jornada - Casos de estudio {#sec-reunion-publica}
 
 En esta jornada, abierta a todo el público, se expondrán diferentes casos de estudio de decaimiento y se analizarán las diferetes aproximaciones a su investigación y mitigación.
