@@ -15,13 +15,13 @@ library(janitor)
 
 ################################################################################
 ## 1. Descargar los datos de Fillout -------------------------------------------
-file <- "/Users/ajpelu/Downloads/Fillout Solicitud Inscripción ReDeC results.csv"
+file <- "/Users/ajpelu/Downloads/Fillout Solicitud Inscripción ReDeC results (2).csv"
 respuestas_fillout <- read_csv(file = file) |> janitor::clean_names()
 
 ## filter by date 
 respuestas_fillout<- respuestas_fillout |>
   mutate(last_updated2 = as.POSIXct(strptime(last_updated, "%a %b %d %Y %H:%M:%S", tz = "GMT"))) |> 
-  filter(last_updated2 >= as.POSIXct("2025-07-04", tz = "GMT"))
+  filter(last_updated2 >= as.POSIXct("2025-10-04", tz = "GMT"))
 
 respuestas_fillout |> unique()
 
@@ -179,7 +179,7 @@ mypath <- here::here("people")
 
 ## 4. Aplica la función a cada respuesta del fillout ---------------------------
 # se puede aplicar un purr pero prefiero hacerlo uno a uno para revisar 
-generate_personal_page(respuestas_fillout[2,])
+generate_personal_page(respuestas_fillout[1,])
 
 
 ## 5. Siguientes pasos ---------------------------------------------------------
