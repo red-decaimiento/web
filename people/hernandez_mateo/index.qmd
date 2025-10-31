@@ -1,0 +1,35 @@
+---
+title: "Laura Hernández Mateo"
+email: "hernandez.laura@inia.csic.es"  
+namesort: "hernandez_mateo"
+image: avatar_hernandez_mateo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hernandez_mateo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:hernandez.laura@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/https://orcid.org/0000-0002-1827-9623
+    - text: "{{< fa globe >}} Personal web"
+      href: https://laurahernandezmateo.wordpress.com/
+categories: [Biodiversidad, Dinámica forestal, Dinámica del Paisaje, Ecología forestal, Monitorización]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Dinámica y Gestión Forestal](https://www.inia.es/unidades/Institutos%20y%20Centros/ICIFOR/Pages/Home.aspx)
+
+## Institución
+- ICIFOR-INIA, Universidad Complutense de Madrid
+
+
+:::
