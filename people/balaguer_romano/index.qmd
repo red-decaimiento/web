@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:rodrigo.balaguer.romano@gmail.com
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0000-0003-2808-6777
+      href: https://orcid.org/0000-0003-2808-6777
     - text: "{{< fa globe >}} Personal web"
       href: https://scholar.google.com/citations?user=HO43Q44AAAAJ&hl=es
 categories: [Modelización, Teledetección, Dinámica forestal]
