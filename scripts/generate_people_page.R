@@ -147,7 +147,7 @@ generate_personal_page <- function(x){
   :::{glue::glue("{#person-profile}", .open = "{{", .close = "}}")}
 
   ## Grupo de Investigación
-  [{get_research_group(x)}]({x$pagina_web_del_grupo_de_investigacion})
+  - [{get_research_group(x)}]({x$pagina_web_del_grupo_de_investigacion})
   
   ## Institución
   - {x$institucion_a_la_que_pertenece}
