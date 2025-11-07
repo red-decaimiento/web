@@ -58,6 +58,12 @@ El objetivo principal de este grupo de trabajo es:
 El objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativas y foros de discusión internacionales en la temática del decaimiento forestal, como la [**International Tree Mortality Network**](https://www.tree-mortality.net/) y la [**IUFRO Task Force** ***'Monitoring global tree mortality patterns and trends'***](https://www.iufro.org/science/task-forces/tree-mortality-patterns/); así como dar apoyo a cualquier iniciativa relevante en este ámbito. En particular estamos apoyando la propuesta de la nueva Task Force de IUFRO sobre *Monitoring biotic and abiotic forest disturbances*, actualmente en elaboración, y en la que, si se aprueba, podríamos participar activamente.
 
 #### Responsables
-- [Francisco Lloret](../../people/lloret_francisco)
-- [Paloma Ruiz-Benito](../../people/ruiz_benito)
 - [Jordi Martínez-Vilalta](../../people/martinez_vilalta)
+- [Raquel Esteban](../../people/esteban_raquel)
+- [Raúl García Valdés](../../people/garcia_valdes)
+- [Antonio Gazol](../../people/gazol_burgos)
+- [Paloma Ruiz-Benito](../../people/ruiz_benito)
+- [Francisco Lloret](../../people/lloret_francisco)
+- [Miren del Río](../../people/del_rio)
+- [José Manuel Torres](../../people/torres_ruiz)
+- [Alberto Vilagrosa](../../people/vilagrosa_carmona)

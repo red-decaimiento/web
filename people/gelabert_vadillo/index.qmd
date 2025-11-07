@@ -1,0 +1,34 @@
+---
+title: "Pere Gelabert Vadillo"
+email: "perejoan.gelabert@udl.cat"  
+namesort: "gelabert_vadillo"
+image: avatar_gelabert_vadillo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gelabert_vadillo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:perejoan.gelabert@udl.cat
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0001-8020-4932
+    - text: "{{< fa globe >}} Personal web"
+      href: https://pjgelabert.netlify.app/
+categories: [Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Ciencia e Ingeniería Forestal y Agrícola. Adaptative Forest Management Group (ADAPTAFOR)
+
+## Institución
+- Universitat de Lleida
+
+:::

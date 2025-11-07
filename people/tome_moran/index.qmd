@@ -1,0 +1,32 @@
+---
+title: "Jose Luis Tome Morán"
+email: "jltome@agresta.org"  
+namesort: "tome_moran"
+image: avatar_tome_moran.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_tome_moran.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jltome@agresta.org
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2298-9115
+categories: [Teledetección, Selvicultura, Regeneración, Inventario, Gestión forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Desarrollo de Herramientas y Monitorización
+
+## Institución
+- [AGRESTA SOCIEDAD COOPERATIVA](https://agresta.org/)
+
+:::
