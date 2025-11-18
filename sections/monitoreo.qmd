@@ -67,3 +67,4 @@ El objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativ
 - [Miren del Río](../../people/del_rio)
 - [José Manuel Torres](../../people/torres_ruiz)
 - [Alberto Vilagrosa](../../people/vilagrosa_carmona)
+- [Jofre Carnicer](../../people/carnicer_cols)
