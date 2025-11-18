@@ -1,0 +1,34 @@
+---
+title: "Leonor Álvarez Cansino"
+email: "leonor@us.es"  
+namesort: "alvarez_cansino"
+image: avatar_alvarez_cansino.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_alvarez_cansino.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:leonor@us.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8346-303X
+    - text: "{{< fa globe >}} Personal web"
+      href: https://prisma.us.es/investigador/7568
+categories: [Ecofisiología, Ecología Forestal, Hidráulica vegetal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Biología Vegetal y Ecología. [Grupo de Investigación Ecología Funcional Aplicada](https://grupo.us.es/ecofisiovegapli/page1.html)
+
+## Institución
+- Universidad de Sevilla
+
+:::
