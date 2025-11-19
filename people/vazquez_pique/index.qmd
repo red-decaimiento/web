@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:jpique@uhu.es
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/http://orcid.org/0000-0002-7133-4142
+      href: http://orcid.org/0000-0002-7133-4142
     - text: "{{< fa globe >}} Personal web"
       href: http://www.uhu.es/franciscoj.vazquez
 categories: [Modelización, Dendroecología, Edafología, Teledetección]
