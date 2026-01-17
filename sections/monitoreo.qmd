@@ -72,5 +72,5 @@ El objetivo del grupo de trabajo es conectar ReDeC con las principales iniciativ
 #### Hoja de Ruta
 ::: {.callout-tip}
 ## Actividades
-[Aquí](internacinalizacion/ResumenReunionesITMN_dec2025.pdf) tienes las conclusiones de las reuniones realizadas dentro del grupo de Internacionalización con la ITMN.
+[Aquí](internacionalizacion/ResumenReunionesITMN_dec2025.pdf) tienes las conclusiones de las reuniones realizadas dentro del grupo de Internacionalización con la ITMN.
 :::
