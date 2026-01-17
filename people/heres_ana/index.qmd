@@ -1,0 +1,32 @@
+---
+title: "Ana Maria Heres"
+email: "annamariaheres@gmail.com"  
+namesort: "heres_ana"
+image: avatar_heres_ana.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_heres_ana.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:annamariaheres@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1839-1770
+categories: [Dendroecología, Ecología forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [- Dinámica, modelización y gestión forestal](https://www.inia.es/investigacion/forestal/Gesti%C3%B3n%20forestal/Din%C3%A1mica%20modelizaci%C3%B3n%20y%20gesti%C3%B3n%20forestal/Pages/Home.aspx#)
+
+## Institución
+- Instituto de Ciencias Forestales (ICIFOR) / Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria (INIA) / Consejo Superior de Investigaciones Científicas (CSIC)
+
+:::

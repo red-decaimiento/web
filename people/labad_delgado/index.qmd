@@ -1,0 +1,30 @@
+---
+title: "Ruben Labad Delgado"
+email: "rlabad@miteco.es"  
+namesort: "labad_delgado"
+image: avatar_labad_delgado.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_labad_delgado.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:rlabad@miteco.es
+categories: [Selvicultura, Biodiversidad, Dinámica forestal, Ecología forestal, Restauración]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Oficina Española de Cambio Climático
+
+## Institución
+- Ministerio para la Transición Ecológica y el Reto Demográfico
+
+:::
