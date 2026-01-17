@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:xsantesi@orekan.es
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0009-0004-4545-5938
+      href: https://orcid.org/0009-0004-4545-5938
     - text: "{{< fa globe >}} Personal web"
       href: https://www.linkedin.com/in/xabier-santesteban-insausti-16039154/
 categories: [Monitorización, Patología, Dinámica forestal, Sanidad forestal]

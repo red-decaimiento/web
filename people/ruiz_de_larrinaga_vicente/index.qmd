@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:lorena.ruizdelarrinaga@ehu.eus
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0000-0003-1535-1244
+      href: /https://orcid.org/0000-0003-1535-1244
 categories: [Ecofisiología, Teledetección]
 person_type: 'investigadores'
 ---

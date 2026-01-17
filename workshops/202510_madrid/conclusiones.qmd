@@ -1,0 +1,29 @@
+---
+toc: false
+---
+
+### Resúmen II Encuentro de la Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec). Madrid, octubre 2025.
+  
+La [segunda reunión](../../workshops/202510_madrid) presencial de ReDeC se ha celebrado en el Instituto de Ciencias Forestales (ICIFOR-INIA, CSIC; Madrid) los días 28-30 de octubre de 2025. 
+
+El **martes 28 de octubre** se reunieron [miembros](../../people/index.qmd) de ReDeC en las instalaciones del ICIFOR-INIA (CSIC), donde se realizó una presentación de las Jornadas y de la red ReDeC, seguido por sesiones de distintos grupos de trabajo, incluyendo bases de datos, estándares y atribuciones, suelos, internacionalización, agentes bióticos, monitorización. Se terminaron las jornadas con unas conclusiones y hoja de ruta.
+
+El **miércoles 29 de octubre** se realizó una visita de campo a la Sierra Oeste Madrid (Robledo de Chavela, Valdequemada, Navas del Rey), analizando casos de decaimiento y discutiendo posibles causas y consecuencias, así como metodología de análisis mediante teledetección. Más información sobre la visita de campo [aquí](20251019_campo.pdf) 
+
+El **jueves 30 de octubre** se centró en **casos de estudio** mediante una reunión híbrida en las instalaciones del ICIFOR-INIA (CSIC) y online, centrada en las dos sesiones expuestas más abajo y terminado con unas conclusiones y hoja de ruta de ReDeC.Sesiones: 
+
+- **El decaimiento en el Levante y Sudeste de la península Ibérica**
+    - Ecofisiología del decaimiento en el Levante y SE de la P. Ibérica ([Alberto Vilagrosa](../../people/vilagrosa_carmona), U. Alacant)
+    - Dendroecología y vulnerabilidad al decaimiento en el Levante y SE de la P. Ibérica ([Raúl Sánchez-Salguero](../../people/sanchez_salguero). U.Pablo Olavide)
+    - Herramientas de análisis geográfico del decaimiento (I. González, AGRESTA)
+    - Gestión forestal ante el decaimiento en el Levante y SE de la P. Ibérica (E. Jordan, Ingeniería Entorno Natural)
+    - Debate
+    
+- **Utilización de la diversidad genética en la adaptación al cambio climático**
+    - Estrategias de adaptación al cambio climático (J.J. Robledo-Arnuncio, ICIFOR-INIA, CSIC)
+    - Mejora y conservación de los recursos genéticos forestales ante el cambio global (F. Pérez, MITECO)
+    - Genética y decaimiento en coníferas de la región ibero-magrebina ([Juan Carlos Linares](../../people/linares_juan), U. Pablo Olavide)
+
+
+En el siguiente [documento](conclusiones_II_reunion_redec_v3.pdf) se muestra un resumend detallado de las jornadas.  
+

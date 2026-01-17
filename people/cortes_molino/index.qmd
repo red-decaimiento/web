@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:alvarocmolino@gmail.com
     - text: "{{< ai orcid >}} ORCID"
-      href: https://orcid.org/https://orcid.org/0000-0001-5350-9028
+      href: https://orcid.org/0000-0001-5350-9028
 categories: [Dinámica forestal, Dinámica del paisaje, Ecología forestal, Teledetección, Ecofisiología]
 person_type: 'investigadores'
 ---

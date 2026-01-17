@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/https://orcid.org/0000-0002-1827-9623
     - text: "{{< fa globe >}} Personal web"
       href: https://laurahernandezmateo.wordpress.com/
-categories: [Biodiversidad, Dinámica forestal, Dinámica del Paisaje, Ecología forestal, Monitorización]
+categories: [Biodiversidad, Dinámica forestal, Dinámica del paisaje, Ecología forestal, Monitorización]
 person_type: 'investigadores'
 ---
  

@@ -7,6 +7,9 @@ editor_options:
   chunk_output_type: console
 ---
 
+# Conclusiones de las Jornadas 
+[Aquí](../../workshops/202510_madrid/conclusiones.qmd) tienes las conclusiones de las jornadas. 
+
 # II Jornadas Red Ibérica de Decaimiento Forestal Inducido por el Clima (ReDec) {.unnumbered .unlisted}
 
 - Fecha: 28 (reunión interna), 29 (salida de campo) y 30 de Octubre 2025 (jornadas públicas)

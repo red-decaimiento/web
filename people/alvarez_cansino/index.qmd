@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0002-8346-303X
     - text: "{{< fa globe >}} Personal web"
       href: https://prisma.us.es/investigador/7568
-categories: [Ecofisiología, Ecología Forestal, Hidráulica vegetal]
+categories: [Ecofisiología, Ecología forestal, Hidráulica vegetal]
 person_type: 'investigadores'
 ---
  

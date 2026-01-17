@@ -15,7 +15,7 @@ about:
       href: mailto:j.espelta@creaf.cat
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-0242-4988
-categories: [Dinámica del paisaje, Dinámica forestal, Ecología Forestal, Gestión forestal, Regeneración]
+categories: [Dinámica del paisaje, Dinámica forestal, Ecología forestal, Gestión forestal, Regeneración]
 person_type: 'investigadores'
 ---
  
