@@ -75,11 +75,10 @@ d  <- raw |>
     
     ) |> 
   mutate(
-    Mesa = case_when(
-      Mesa == "Ecofisiología del decaimiento en el Levante y SE de la Península Ibérica" ~ paste0(Mesa, " ([Presentación](slides_vilagrosa_redec_2025.pdf))"),
-      Mesa == "Dendroecología y vulnerabilidad al decaimiento en el Levante y SE de la Península Ibérica" ~ paste0(Mesa, " ([Presentación](slides_sanchez_salguero_redec_2025.pdf))"),
-      Mesa == "Diversidad genética y capacidad adaptativa en pinsapares y cedrales con decaimiento" ~ paste0(Mesa, " ([Presentación](slides_linares_redec_2025.pdf))"), 
-      TRUE ~ Mesa
+    slides = if_else(
+      !is.na(slides) & slides != "",
+      slides,
+      ""
     )
   )
 ```
@@ -89,11 +88,12 @@ d  <- raw |>
 
 d28 <- d |> 
     filter(day == 28) |> 
-    dplyr::select(-jornada, -day) 
+    dplyr::select(-jornada, -day, Material = slides) 
+  
+  
 
 gt::gt(d28) |> 
-  fmt_markdown(colum = Coordina) |>
-  fmt_markdown(colum = Mesa) |>
+  gt::fmt_markdown(column = c(Coordina, Material)) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
@@ -148,12 +148,11 @@ Para las personas que asistan en transporte público al INIA:
 
 d29 <- d |> 
   filter(day == 29) |> 
-  dplyr::select(-jornada, -day, Actividad = Mesa, Coordina) |> 
+  dplyr::select(-jornada, -day, Actividad = Mesa, Coordina, -slides) |> 
   mutate(Hora = str_remove_all(Hora, "NA - NA"))
 
 gt::gt(d29) |> 
-  fmt_markdown(colum = Coordina) |>
-  fmt_markdown(colum = Actividad) |>
+  gt::fmt_markdown(column = Coordina) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
@@ -197,10 +196,11 @@ En esta jornada, abierta a todo el público, se expondrán diferentes casos de e
 
 d30 <- d |> 
   filter(day == 30) |> 
-  dplyr::select(-jornada, -day) 
+  rename(Material = slides) |> 
+  dplyr::select(-jornada, -day)
 
 gt::gt(d30) |> 
-  fmt_markdown(colum = Coordina) |>
+  fmt_markdown(colum = c(Coordina, Material)) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
