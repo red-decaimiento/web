@@ -73,7 +73,15 @@ d  <- raw |>
     
     ))
     
-    ) 
+    ) |> 
+  mutate(
+    Mesa = case_when(
+      Mesa == "Ecofisiología del decaimiento en el Levante y SE de la Península Ibérica" ~ paste0(Mesa, " ([Presentación](slides_vilagrosa_redec_2025.pdf))"),
+      Mesa == "Dendroecología y vulnerabilidad al decaimiento en el Levante y SE de la Península Ibérica" ~ paste0(Mesa, " ([Presentación](slides_sanchez_salguero_redec_2025.pdf))"),
+      Mesa == "Diversidad genética y capacidad adaptativa en pinsapares y cedrales con decaimiento" ~ paste0(Mesa, " ([Presentación](slides_linares_redec_2025.pdf))"), 
+      TRUE ~ Mesa
+    )
+  )
 ```
 
 ```{r}

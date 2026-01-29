@@ -15,13 +15,13 @@ library(janitor)
 
 ################################################################################
 ## 1. Descargar los datos de Fillout -------------------------------------------
-file <- "/Users/ajpelu/Downloads/Fillout Solicitud Inscripción ReDeC results (3).csv"
+file <- "/Users/ajpelu/Downloads/Fillout Solicitud Inscripción ReDeC results (1).csv"
 respuestas_fillout <- read_csv(file = file) |> janitor::clean_names()
 
 ## filter by date 
 respuestas_fillout<- respuestas_fillout |>
   mutate(last_updated2 = as.POSIXct(strptime(last_updated, "%a %b %d %Y %H:%M:%S", tz = "GMT"))) |> 
-  filter(last_updated2 >= as.POSIXct("2025-11-06", tz = "GMT"))
+  filter(last_updated2 >= as.POSIXct("2025-12-06", tz = "GMT"))
 
 respuestas_fillout |> unique()
 
@@ -78,7 +78,7 @@ name_dir <- function(name_last, name_first){
   aux_last <- name_last |> 
     stringi::stri_trans_general("latin-ascii") |> 
     tolower() |> 
-    gsub(pattern = "-", replacement = " ", .data)
+    (\(x) gsub(pattern = "-", replacement = " ", x))()
   
   n_words_last <- str_count(aux_last, "\\S+")
   
