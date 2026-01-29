@@ -93,6 +93,7 @@ d28 <- d |>
 
 gt::gt(d28) |> 
   fmt_markdown(colum = Coordina) |>
+  fmt_markdown(colum = Mesa) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
@@ -152,6 +153,7 @@ d29 <- d |>
 
 gt::gt(d29) |> 
   fmt_markdown(colum = Coordina) |>
+  fmt_markdown(colum = Actividad) |>
   tab_style(
     style = cell_fill(color = "#dfece9"),
     locations = cells_body(
