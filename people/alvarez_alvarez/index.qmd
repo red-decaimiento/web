@@ -1,0 +1,34 @@
+---
+title: "Pedro Álvarez-Álvarez"
+email: "alvarezpedro@uniovi.es"  
+namesort: "alvarez_alvarez"
+image: avatar_alvarez_alvarez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_alvarez_alvarez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alvarezpedro@uniovi.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-6898-8137
+    - text: "{{< fa globe >}} Personal web"
+      href: https://portalinvestigacion.uniovi.es/investigadores/216782/detalle
+categories: [Ecología Forestal, Biodiversidad, Gestión forestal, Micología, Selvicultura]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Biología de Organismos y Sistemas
+
+## Institución
+- Universidad de Oviedo
+
+:::

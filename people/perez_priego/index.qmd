@@ -1,0 +1,34 @@
+---
+title: "Oscar Pérez Priego"
+email: "g72pepro@uco.es"  
+namesort: "perez_priego"
+image: avatar_perez_priego.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_perez_priego.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:g72pepro@uco.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-3138-3177
+    - text: "{{< fa globe >}} Personal web"
+      href: https://scholar.google.co.uk/citations?user=sy06o6cAAAAJ&hl=en
+categories: [Ecofisiología, Hidráulica vegetal, Modelización, Selvicultura, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Ingeniería Forestal
+
+## Institución
+- Universidad de Córdoba
+
+:::

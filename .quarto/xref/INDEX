@@ -478,5 +478,17 @@
   },
   "workshops/202510_madrid/conclusiones.qmd": {
     "conclusiones.html": "adca2276"
+  },
+  "people/zaza_zaza/index.qmd": {
+    "index.html": "0b890dcb"
+  },
+  "people/zozo_zozo/index.qmd": {
+    "index.html": "3265c587"
+  },
+  "people/perez_priego/index.qmd": {
+    "index.html": "2925255c"
+  },
+  "people/alvarez_alvarez/index.qmd": {
+    "index.html": "caa082cf"
   }
 }
