@@ -1,0 +1,36 @@
+---
+title: "Raquel Benavides"
+email: "raquel.benavides@upm.es"  
+namesort: "benavides_raquel"
+image: avatar_benavides_raquel.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_benavides_raquel.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:raquel.benavides@upm.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2328-5371
+    - text: "{{< fa globe >}} Personal web"
+      href: https://portalcientifico.upm.es/es/ipublic/researcher/333049
+categories: [Dinámica forestal, Gestión forestal, Regeneración, Selvicultura, Restauración]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Sistemas y Recursos Naturales de la ETSIMFMN, 
+Grupo de Investigación ECOGESFOR (Ecología y Gestión Forestal Sostenible)](https://www.upm.es/observatorio/vi/index.jsp?pageac=estructuras/grupo.jsp&idGrupo=295&h=1)
+
+## Institución
+- Universidad Politécnica de Madrid (UPM)
+- Centro para la Conservación de la Biodiversidad y Desarrollo Sostenible (CBDS)
+
+:::
