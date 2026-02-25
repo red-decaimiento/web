@@ -1,0 +1,34 @@
+---
+title: "Ainhoa Calleja Rodriguez"
+email: "ainhoacallejarod@gmail.com"  
+namesort: "calleja_rodriguez"
+image: avatar_calleja_rodriguez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_calleja_rodriguez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ainhoacallejarod@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-2641-6517
+    - text: "{{< fa globe >}} Personal web"
+      href: https://portalinvestigacion.uniovi.es/investigadores/2355212/detalle
+categories: [Genética, Genómica, Biodiversidad, Ecofisiología, Restauración]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [- Departamento de Biologia de Organismos y Sistemas. Area de Ingeniería Agroforestal](https://portalinvestigacion.uniovi.es/grupos/14109/detalle)
+
+## Institución
+- Universidad de Oviedo
+
+:::

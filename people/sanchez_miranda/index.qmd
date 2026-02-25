@@ -1,0 +1,32 @@
+---
+title: "Ángela Sánchez-Miranda Moreno"
+email: "asamchezmirandam@gmail.com"  
+namesort: "sanchez_miranda"
+image: avatar_sanchez_miranda.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_sanchez_miranda.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:asamchezmirandam@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-4228-6425
+categories: [Dinámica forestal, Ecología forestal, Patología, Selvicultura, Dendroecología]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departamento de Biología Vegetal y Ecología](https://area.us.es/bioeco/)
+
+## Institución
+- Universidad de Sevilla
+
+:::

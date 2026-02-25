@@ -1,0 +1,32 @@
+---
+title: "Alberto Hurtado Hernández"
+email: "albertohh@inffe.es"  
+namesort: "hurtado_hernandez"
+image: avatar_hurtado_hernandez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hurtado_hernandez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:albertohh@inffe.es
+    - text: "{{< fa globe >}} Personal web"
+      href: www.inffe.es
+categories: [Control Biológico, Ecología de suelos, Especies snvasoras, Gestión forestal, Patología]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+
+
+## Institución
+- INFFE, S.L. Ingeniería para el Medio Ambiente
+
+:::
