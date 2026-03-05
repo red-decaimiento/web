@@ -3,7 +3,6 @@ title: "ReDeC en las Jornadas Científicas del Instituto de Ciencias Forestales"
 description: Presentación de ReDeC
 categories:
   - jornadas científicas
-image: logos_jornadas.png
 date: 2026-02-24
 ---
 
