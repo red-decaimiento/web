@@ -1,0 +1,16 @@
+---
+title: "ReDeC en las Jornadas Científicas del Instituto de Ciencias Forestales"
+description: Presentación de ReDeC
+categories:
+  - jornadas científicas
+image: logos_jornadas.png
+date: 2026-02-24
+---
+
+![](logos_jornadas.png)
+
+ReDeC ha participado en la **Jornada Científica del Instituto de Ciencias Forestales (INIA-CSIC)** celebrada el 24 de febrero de 2026, en la sesión dedicada al *Análisis integrado de la vulnerabilidad de masas forestales frente al cambio global* con la conferencia ***Vulnerabilidad de masas forestales frente al cambio climático***, impartida por **[Francisco Lloret](../../people/lloret_francisco)** (Centro de Investigación Ecológica y Aplicaciones Forestales, CREAF; Universitat Autònoma de Barcelona) 
+
+
+
+
