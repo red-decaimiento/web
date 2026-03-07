@@ -1,0 +1,29 @@
+---
+title: "Luis Hiernaux"
+email: "luishc@inffe.es"  
+namesort: "hiernaux_luis"
+image: avatar_hiernaux_luis.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_hiernaux_luis.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:luishc@inffe.es
+    - text: "{{< fa globe >}} Personal web"
+      href: www.inffe.es
+categories: [Patología, Control Biológico, Gestión forestal, Biodiversidad, Microbioma]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Institución
+- INFFE SL.  es una empresa con casi 20 años de recorrido especializada en sanidad vegetal, gestión del bosque urbano, elaboración de planes directores y de biodiversidad, etc.
+
+:::
