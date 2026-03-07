@@ -14,7 +14,7 @@ about:
       text: Email
       href: mailto:albertohh@inffe.es
     - text: "{{< fa globe >}} Personal web"
-      href: www.inffe.es
+      href: http://www.inffe.es
 categories: [Control Biológico, Ecología de suelos, Especies snvasoras, Gestión forestal, Patología]
 person_type: 'gestores'
 ---
