@@ -1,0 +1,14 @@
+---
+title: "Presentación de ReDeC en REDFORESTA Huelva 2026"
+description: Seminario sanidad vegetal y tratamientos fitosanitarios
+categories:
+  - seminarios
+image: logo-redforesta.png
+date: 2026-02-11
+---
+
+Los días 11 y 12 de febrero de 2026 se celebró en Huelva el seminario [*Sanidad vegetal y tratamientos fitosanitarios*](https://redforesta.com/huelva/programa-huelva-2026/), en el marco de la red *REDFORESTA*, una iniciativa del Colegio Oficial de Ingenieros Técnicos Forestales y Graduados en Ingeniería Forestal y del Medio Natural, que busca consolidar una red social de profesionales del medio natural comprometidos con la innovación y la sostenibilidad.
+
+Durante el seminario, **[Raúl Sánchez Salguero](../../people/sanchez_salguero)** (Laboratorio DendrOlavide-Universidad Pablo de Olavide de Sevilla), la **[Red Española de Decaimiento Forestal](https://redeciberica.es/)** (ReDeC) en una charla titulada: *Red de Decaimiento Forestal Inducido por el Clima (ReDec). Avances en indicadores de vulnerabilidad*  
+
+En el siguiente [enlace](../../publicaciones/slides/slides_202602_SanchezSalguero_REDFORESTA.pdf) está disponible la presentación realizada. 

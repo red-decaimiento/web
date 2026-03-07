@@ -2,7 +2,7 @@
 title: "Seminario Internacional sobre vulnerabilidad de los bosques mediterráneos en Chile"
 description: Participación de Luna Morcillo presentando ReDeC 
 categories:
-  - seminario internacional
+  - seminarios
 image: logo_puvc.png
 date: 2025-10-21
 lightbox: true
