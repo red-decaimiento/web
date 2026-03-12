@@ -31,7 +31,57 @@ toc: false
 
 Somos un grupo de [investigadores y gestores](people/index.qmd) de diversas instituciones españolas, unidos en un Grupo de Trabajo dedicado al estudio del decaimiento forestal. Nuestro objetivo es consolidar el conocimiento existente sobre los sistemas forestales afectados, donde se llevan a cabo trabajos de campo e investigaciones, para profundizar en la comprensión de este fenómeno y así contribuir a su gestión eficiente.
 
-Actualmente nos hemos constituido como [Grupo de Trabajo](https://www.aeet.org/es/gruposdetrabajo/redec.html) dentro de la [Asociación Española de Ecología Terrestre](https://www.aeet.org/) (Ayuda: RED 2024-153822-financiado por MICIU/AEI710.13039/501100011033).  
+Actualmente nos hemos constituido como [Grupo de Trabajo](https://www.aeet.org/es/gruposdetrabajo/redec.html) dentro de la [Asociación Española de Ecología Terrestre](https://www.aeet.org/) (Ayuda: RED 2024-153822-financiado por MICIU/AEI710.13039/501100011033). 
+
+
+```{=html}
+<style>
+
+.decalogo-card {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+
+  background: #f7f8f5;
+  border: 1px solid #e2e6dc;
+  border-left: 6px solid #2f5d50;
+  border-radius: 16px;
+
+  padding: 1.3rem;
+//  max-width: 720px;   
+  
+  margin-bottom: 1.6rem;
+}
+
+.decalogo-text h3 {
+  margin-top: 0;
+  margin-bottom: 0.4rem;
+}
+
+.decalogo-text p {
+  margin: 0;
+  line-height: 1.6;
+}
+</style>
+```
+
+
+## ¿Qué entendemos por decaimiento forestal? 
+La definición que hemos consensuado dentro de esta red es: 
+
+
+::: {.decalogo-card}
+<div class="decalogo-text">
+
+
+El **decaimiento forestal** es la reducción del vigor de un número elevado de árboles que habitan juntos en un mismo rodal, bosque o región por debajo de ciertos valores de referencia dependientes de la especie y el contexto ecológico, y que puede, o no, desembocar en una mortalidad de árboles generalizada por encima de la mortalidad basal.
+
+</div>
+
+
+:::
+
+
 
 ## Formulario de Inscripción
 Si deseas pertenecer a la red, puedes rellenar el siguiente [**formulario**](https://redec.fillout.com/inscripcion), y nos pondremos en contacto contigo. 
