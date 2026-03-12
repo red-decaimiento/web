@@ -45,8 +45,12 @@ website:
             href: workshops/202510_madrid/programa.qmd
       - href: news/noticias.qmd
         text: Noticias
-      - href: publicaciones/publicaciones.qmd
-        text: Publicaciones
+      - text: Productos
+        menu:
+          - text: Decálogo del Decaimiento
+            href: productos/decalogo/decalogo_decaimiento.qmd
+          - text: Publicaciones
+            href: productos/publicaciones/publicaciones.qmd
       - href: links.qmd
         text: Enlaces de Interés
       - href: photogallery.qmd

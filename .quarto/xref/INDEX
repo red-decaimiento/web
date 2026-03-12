@@ -514,5 +514,23 @@
   },
   "people/hiernaux_luis/index.qmd": {
     "index.html": "aface06b"
+  },
+  "sections/estandares_protocolos/decalogo_decaimiento.qmd": {
+    "decalogo_decaimiento.html": "6a5a1008"
+  },
+  "sections/decalogo_decaimiento.qmd": {
+    "decalogo_decaimiento.html": "3f8ab34b"
+  },
+  "productos/decalogo/decalogo_decaimiento.qmd": {
+    "decalogo_decaimiento.html": "535e1395"
+  },
+  "productos/publicaciones/publicaciones.qmd": {
+    "publicaciones.html": "0c531d8b"
+  },
+  "productos/publicaciones/conferences/2024_romeralo_secf/index.qmd": {
+    "index.html": "d6c1081c"
+  },
+  "productos/publicaciones/conferences/2025_perez_aeet/index.qmd": {
+    "index.html": "f57cb1fe"
   }
 }

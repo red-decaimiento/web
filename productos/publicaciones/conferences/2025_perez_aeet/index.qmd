@@ -1,0 +1,161 @@
+---
+type: conference
+date: 2025-06-02
+title: "The Spanish Forest Decline Monitoring Database: decaimiento.es"
+description: |
+  The Spanish Forest Decline Monitoring Database (decaimiento.es) compiles and harmonizes
+  observations of climate-induced forest decline across Spain. It integrates field plots,
+  remote sensing indicators, and expert-based reports to support assessment, early warning,
+  and research on forest vulnerability and dieback (REDEC network).
+contribution: "Póster"
+conference: "III SIBECOL & XVII AEET Meeting"
+location: "Pontevedra"
+event-dates: "2025-06-02 — 2025-06-06"
+author: []
+author-display: "Pérez-Luque et al."
+
+citation:
+  citation-key: PerezLuque2025Decaimiento
+  type: paper-conference
+  title: "The Spanish Forest Decline Monitoring Database: decaimiento.es"
+  author:
+    - family: Pérez-Luque
+      given: Antonio J.
+    - family: Ruiz-Benito
+      given: Paloma
+    - family: Astigarraga
+      given: Julen
+    - family: Lloret
+      given: Francisco
+    - family: Acosta-Muñoz
+      given: Cristina
+    - family: Aguado
+      given: Inmaculada
+    - family: Aldea
+      given: Jorge
+    - family: Andivia
+      given: Enrique
+    - family: Aranda
+      given: Ismael
+    - family: Bravo-Hernández
+      given: Miriam
+    - family: Calama
+      given: Rafael
+    - family: Camarero
+      given: Jesús J.
+    - family: Carnicer
+      given: Jofre
+    - family: Carreira
+      given: José Antonio
+    - family: Curiel
+      given: Jorge
+    - family: de la Mata
+      given: Raúl
+    - family: del Río
+      given: Miren
+    - family: Díaz
+      given: Mario
+    - family: Esteban
+      given: Raquel
+    - family: Fernández de Blas
+      given: Cristopher
+    - family: Fernández-López
+      given: Manuel
+    - family: Gallego Rodríguez
+      given: Francisco Javier
+    - family: García Alonso
+      given: Mariano
+    - family: Gazol
+      given: Antonio
+    - family: Gea-Izquierdo
+      given: Guillermo
+    - family: Gómez-Aparicio
+      given: Lorena
+    - family: González de Andrés
+      given: Ester
+    - family: Guzmán-Álvarez
+      given: José Ramón
+    - family: Hernández-Clemente
+      given: Rocío
+    - family: Herrero
+      given: Asier
+    - family: Hódar
+      given: José Antonio
+    - family: Hornero
+      given: Alberto
+    - family: Jaime González
+      given: Luciana
+    - family: Lasa
+      given: Ana V.
+    - family: Linares
+      given: Juan Carlos
+    - family: López
+      given: Rosana
+    - family: López-Caro
+      given: María José
+    - family: Marcos-Palacios
+      given: María José
+    - family: Margalef
+      given: Jordi
+    - family: Martín-Benito
+      given: Darío
+    - family: Martínez-Vilalta
+      given: Jordi
+    - family: Morcillo Julià
+      given: Luna
+    - family: Morales-Molino
+      given: César
+    - family: Navarro-Cerrillo
+      given: Rafel M.
+    - family: Pardos
+      given: Marta
+    - family: Quero
+      given: José Luis
+    - family: Rebollo
+      given: Pedro
+    - family: Rodríguez-Sánchez
+      given: Francisco
+    - family: Romeralo
+      given: Carmen
+    - family: Rubio Cuadrado
+      given: Álvaro
+    - family: Samblas
+      given: Eva
+    - family: Sánchez-Salguero
+      given: Raúl
+    - family: Tijerín-Triviño
+      given: Julián
+    - family: Vilagrosa
+      given: Alberto
+    - family: Zamora
+      given: Regino
+    - family: Zavala
+      given: Miguel Ángel
+    - literal: "REDEC (Red Española de Seguimiento del Decaimiento Forestal inducido por el Clima)"
+  container-title: "III SIBECOL & XVII AEET Meeting"
+  publisher: "AEET (Asociación Española de Ecología Terrestre). SIBECOL (Sociedad Ibérica de Ecología)"
+  publisher-place: "Pontevedra (Spain)"
+  issued: 2025-06
+  DOI: 10.7818/IIISIBECOL-XVIIAEET-Meeting.2025
+  keyword: "forest decline; drought impact; monitoring; Spain; REDEC"
+  abstract: |
+    The Spanish Forest Decline Monitoring Database (decaimiento.es) aggregates multi-source
+    evidence of climate-induced forest decline across Spain, enabling standardized reporting,
+    analysis, and decision support for conservation and forest management.
+---
+
+### Autores
+<details>
+<summary><strong>Lista completa de autores</strong></summary>
+
+Antonio Jesús Pérez-Luque, Paloma Ruiz-Benito, Julen Astigarraga, Francisco Lloret, Cristina Acosta-Muñoz, Inmaculada Aguado, Jorge Aldea, Enrique Andivia, Ismael Aranda, Miriam Bravo-Hernández, Rafael Calama, Jesús J. Camarero, Jofre Carnicer, José Antonio Carreira, Jorge Curiel, Raúl de la Mata, Miren del Río, Mario Díaz, Raquel Esteban, Cristopher Fernández de Blas, Manuel Fernández-López, Francisco Javier Gallego Rodríguez, Mariano García Alonso, Antonio Gazol, Guillermo Gea-Izquierdo, Lorena Gómez-Aparicio, Ester González de Andrés, José Ramón Guzmán-Álvarez, Rocío Hernández-Clemente, Asier Herrero, José Antonio Hódar, Alberto Hornero, Luciana Jaime González, Ana V. Lasa, Juan Carlos Linares, Rosana López, María José López-Caro, María José Marcos-Palacios, Jordi Margalef, Darío Martín-Benito, Jordi Martínez-Vilalta, Luna Morcillo Julià, César Morales-Molino, Rafel M. Navarro-Cerrillo, Marta Pardos, José Luis Quero, Pedro Rebollo, Francisco Rodríguez-Sánchez, Carmen Romeralo, Álvaro Rubio Cuadrado, Eva Samblas, Raúl Sánchez-Salguero, Julián Tijerín-Triviño, Alberto Vilagrosa, Regino Zamora, Miguel Ángel Zavala, REDEC (Red Española de Seguimiento del Decaimiento Forestal inducido por el Clima)
+
+</details>
+
+### Detalles
+Póster presentado en el congreso **III SIBECOL — XVII AEET Meeting: Another sciencie is possible**, celebrado en Pontevedra (España) el 2-6 junio de 2025. 
+
+### Documento
+En este [**PDF**](2025_perez_bbdd.pdf) puedes ver el poster presentado. 
+
+
