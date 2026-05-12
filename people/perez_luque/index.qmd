@@ -1,6 +1,6 @@
 ---
 title: "Antonio J. Pérez-Luque"
-email: "antonio.perez@inia.csic.es"  
+email: "ajpelu@gmail.com"  
 namesort: "perez_luque"
 image: avatar_perez_luque.jpg
 page-layout: full
@@ -12,7 +12,7 @@ about:
   links:
     - icon: new-icon
       text: Email
-      href: mailto:antonio.perez@inia.csic.es
+      href: mailto:ajpelu@gmail.com
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0002-1747-0469
     - text: "{{< fa globe >}} Personal web"
@@ -26,9 +26,10 @@ person_type: 'investigadores'
 :::{#person-profile}
 
 ## Grupo de Investigación
-- [Ecología y Genética Forestal. Ecología Funcional de Especies Forestales](https://www.inia.es/investigacion/forestal/Ecolog%C3%ADa%20y%20Gen%C3%A9tica/Ecolog%C3%ADa%20funcional%20de%20especies%20forestales/Pages/Home.aspx)
+- Departamento de Ecología 
 
 ## Institución
-- [Instituto de Ciencias Forestales, Instituto Nacional de Investigación y Tecnología Agraria y Alimentaria. Consejo Superior de Investigaciones Científicas](https://www.inia.es/)
+- Universidad de Granada
+
 
 :::
