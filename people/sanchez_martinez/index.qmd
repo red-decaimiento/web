@@ -1,0 +1,32 @@
+---
+title: "Pablo Sanchez Martinez"
+email: "Pablo.Sanchez@ed.ac.uk"  
+namesort: "sanchez_martinez"
+image: avatar_sanchez_martinez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_sanchez_martinez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:Pablo.Sanchez@ed.ac.uk
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-0157-7800
+categories: [Ecofisiología, Hidráulica vegetal, Evolución y filogenia]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Tropical ecology group
+
+## Institución
+- University of Edinburgh, School of Geosciences
+
+:::

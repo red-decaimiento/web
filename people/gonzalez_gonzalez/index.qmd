@@ -1,0 +1,30 @@
+---
+title: "Isabel González González"
+email: "igonzalez@agresta.org"  
+namesort: "gonzalez_gonzalez"
+image: avatar_gonzalez_gonzalez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gonzalez_gonzalez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:igonzalez@agresta.org
+categories: [Monitorización, Modelización, Teledetección, Dinámica forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Área de Inventario y Monitoreo Forestal](https://agresta.org/inventario-y-monitoreo-forestal/)
+
+## Institución
+- Agresta S.Coop
+
+:::
