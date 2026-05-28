@@ -1,0 +1,30 @@
+---
+title: "Victoria Arcenegui Baldó"
+email: "v.arcenegui@umh.es"  
+namesort: "arcenegui_baldo"
+image: avatar_arcenegui_baldo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_arcenegui_baldo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:v.arcenegui@umh.es
+categories: [Edafología, Ecología de Suelos, Microbioma]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Agroquímica y Medio Ambiente
+
+## Institución
+- Universidad Miguel Hernández de Elche
+
+:::
