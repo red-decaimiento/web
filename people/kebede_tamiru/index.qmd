@@ -1,0 +1,32 @@
+---
+title: "Tamiru Lemi Kebede"
+email: "tamirulemi.kebede22@uva.es"  
+namesort: "kebede_tamiru"
+image: avatar_kebede_tamiru.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_kebede_tamiru.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:tamirulemi.kebede22@uva.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0003-3965-424X
+categories: [Biodiversidad, Ecología Forestal, Gestión forestal, Selvicultura, Teledetección]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Agroforestry](https://www.cambiumresearch.eu/)
+
+## Institución
+- University of Valladolid
+
+:::
