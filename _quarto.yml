@@ -43,6 +43,8 @@ website:
             href: workshops/202409_nerja/programa.qmd
           - text: II Jornadas 2025
             href: workshops/202510_madrid/programa.qmd
+          - text: III Jornadas 2026
+            href: workshops/202609_soria/programa.qmd
       - href: news/noticias.qmd
         text: Noticias
       - text: Productos

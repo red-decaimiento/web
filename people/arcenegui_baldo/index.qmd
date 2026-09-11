@@ -13,7 +13,7 @@ about:
     - icon: envelope
       text: Email
       href: mailto:v.arcenegui@umh.es
-categories: [Edafología, Ecología de Suelos, Microbioma]
+categories: [Edafología, Ecología de suelos, Microbioma]
 person_type: 'investigadores'
 ---
  

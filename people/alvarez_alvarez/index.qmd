@@ -17,7 +17,7 @@ about:
       href: https://orcid.org/0000-0002-6898-8137
     - text: "{{< fa globe >}} Personal web"
       href: https://portalinvestigacion.uniovi.es/investigadores/216782/detalle
-categories: [Ecología Forestal, Biodiversidad, Gestión forestal, Micología, Selvicultura]
+categories: [Ecología forestal, Biodiversidad, Gestión forestal, Micología, Selvicultura]
 person_type: 'investigadores'
 ---
  

@@ -15,7 +15,7 @@ about:
       href: mailto:luishc@inffe.es
     - text: "{{< fa globe >}} Personal web"
       href: http://www.inffe.es
-categories: [Patología, Control Biológico, Gestión forestal, Biodiversidad, Microbioma]
+categories: [Patología, Control biológico, Gestión forestal, Biodiversidad, Microbioma]
 person_type: 'gestores'
 ---
  

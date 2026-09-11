@@ -15,7 +15,7 @@ about:
       href: mailto:tamirulemi.kebede22@uva.es
     - text: "{{< ai orcid >}} ORCID"
       href: https://orcid.org/0000-0003-3965-424X
-categories: [Biodiversidad, Ecología Forestal, Gestión forestal, Selvicultura, Teledetección]
+categories: [Biodiversidad, Ecología forestal, Gestión forestal, Selvicultura, Teledetección]
 person_type: 'investigadores'
 ---
  

@@ -1,0 +1,35 @@
+---
+title: "Dario Domingo Ruiz"
+email: "ddomingo@unizar.es"  
+namesort: "domingo_ruiz"
+image: avatar_domingo_ruiz.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_domingo_ruiz.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:ddomingo@unizar.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-8362-7559
+    - text: "{{< fa globe >}} Personal web"
+      href: https://janovas.unizar.es/sideral/CV/dario-domingo-ruiz
+categories: [Inventario, Modelización, Monitorización, Teledetección, Dinámica forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [GEOforest](https://iuca.unizar.es/grupo/geoforest-procesos-geoambientales-en-espacios-forestales/) (Universidad de Zaragoza)
+- Cambium (Universidad de Valladolid)
+
+## Institución
+- Universidad de Zaragoza
+
+:::

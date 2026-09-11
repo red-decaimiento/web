@@ -1,0 +1,35 @@
+---
+title: "Jorge Ortiz Ayuso"
+email: "jorge.ortiz@uva.es"  
+namesort: "ortiz_ayuso"
+image: avatar_ortiz_ayuso.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_ortiz_ayuso.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:jorge.ortiz@uva.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0002-9205-8244
+    - text: "{{< fa globe >}} Personal web"
+      href: https://www.cambiumresearch.eu/people/jorge-ortiz-ayuso/
+categories: [Teledetección, Modelización]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- iuFOR (Instituto Universitario de Investigación en Gestión Forestal Sostenible)
+- [GIR Cambium / Departamento de Producción Vegetal y Recursos Forestales. Escuela de Ingeniería de la Industria Forestal, Agronómica y de la Bioenergía (EiFAB) ubicada en el Campus de Soria](https://www.cambiumresearch.eu/)
+
+## Institución
+- Universidad de Valladolid
+
+:::

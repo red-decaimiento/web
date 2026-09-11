@@ -7,26 +7,13 @@
     ]
   },
   {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20260324_itmn/index.html",
-      "/news/20260224_icifor/index.html",
-      "/news/20260211_redforesta/index.html",
-      "/news/20251021_chile/index.html",
-      "/news/20250616_congresoforestal/index.html",
-      "/news/20250515_redes/index.html",
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
-    ]
-  },
-  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
       "/people/ruiz_benito/index.html",
       "/people/acosta_cristina/index.html",
       "/people/aguado_suarez/index.html",
+      "/people/alberdi_iciar/index.html",
       "/people/alcaraz_domingo/index.html",
       "/people/aldea_jorge/index.html",
       "/people/alfaya_serrano/index.html",
@@ -55,6 +42,7 @@
       "/people/del_rio/index.html",
       "/people/diaz_mario/index.html",
       "/people/diez_casero/index.html",
+      "/people/domingo_ruiz/index.html",
       "/people/escudero_alcantara/index.html",
       "/people/espelta_morral/index.html",
       "/people/esteban_raquel/index.html",
@@ -105,6 +93,7 @@
       "/people/moreno_de_las_heras/index.html",
       "/people/navarro_cerrillo/index.html",
       "/people/oliva_palau/index.html",
+      "/people/ortiz_ayuso/index.html",
       "/people/pardos_marta/index.html",
       "/people/perez_luque/index.html",
       "/people/perez_priego/index.html",
@@ -154,6 +143,20 @@
       "/people/rojo_nunez/index.html",
       "/people/santesteban_insausti/index.html",
       "/people/vega_padial/index.html"
+    ]
+  },
+  {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20260324_itmn/index.html",
+      "/news/20260224_icifor/index.html",
+      "/news/20260211_redforesta/index.html",
+      "/news/20251021_chile/index.html",
+      "/news/20250616_congresoforestal/index.html",
+      "/news/20250515_redes/index.html",
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
     ]
   }
 ]

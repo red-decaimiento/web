@@ -1,0 +1,32 @@
+---
+title: "Iciar Alberdi"
+email: "alberdi.iciar@inia.csic.es"  
+namesort: "alberdi_iciar"
+image: avatar_alberdi_iciar.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_alberdi_iciar.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:alberdi.iciar@inia.csic.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: http://orcid.org/0000-0003-1338-8465
+categories: [Monitorización, Biodiversidad, Inventario, Dinámica forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Departamento de dinámica y gestión forestal](https://www.inia.es/investigacion/forestal/Gesti%C3%B3n%20forestal/Pages/Home.aspx)
+
+## Institución
+- Instituto de Ciencias Forestales (INIA,CSIC)
+
+:::
