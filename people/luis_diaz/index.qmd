@@ -1,0 +1,34 @@
+---
+title: "Vanesa Cristina Luis Díaz"
+email: "vcluis@ull.edu.es"  
+namesort: "luis_diaz"
+image: avatar_luis_diaz.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_luis_diaz.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:vcluis@ull.edu.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0005-8512-3038
+    - text: "{{< fa globe >}} Personal web"
+      href: https://portalciencia.ull.es/investigadores/1244715/detalle
+categories: [Ecofisiología, Restauración, Hidráulica vegetal, Gestión forestal]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- [Botánica, Ecología y Fisiología Vegetal](https://portalciencia.ull.es/grupos/6563/detalle)
+
+## Institución
+- Universidad de La Laguna
+
+:::

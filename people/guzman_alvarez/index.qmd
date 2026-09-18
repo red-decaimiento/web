@@ -1,0 +1,30 @@
+---
+title: "José Ramón Guzmán Álvarez"
+email: "joser.guzman@juntadeandalucia.es"  
+namesort: "guzman_alvarez"
+image: avatar_guzman_alvarez.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_guzman_alvarez.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:joser.guzman@juntadeandalucia.es
+categories: [Restauración, Selvicultura, Teledetección, Gestión forestal]
+person_type: 'gestores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Restauración de Ecosistemas, Dirección General de Política Forestal y Biodiversidad
+
+## Institución
+- Consejería de Sostenibilidad y Medio Ambiente, Junta de Andalucía
+
+:::

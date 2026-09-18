@@ -1,0 +1,32 @@
+---
+title: "Javier Gordo Alonso"
+email: "goralofr@gmail.com"  
+namesort: "gordo_alonso"
+image: avatar_gordo_alonso.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_gordo_alonso.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:goralofr@gmail.com
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0009-0007-9740-6849
+categories: [Selvicultura, Genética]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Colaborador en proyectos del ICIFOR
+
+## Institución
+- Servicio Territorial de Medio Ambiente de Valladolid. Junta de Castilla y León (retirado)
+
+:::
