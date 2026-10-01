@@ -53,6 +53,8 @@ website:
             href: productos/decalogo/decalogo_decaimiento.qmd
           - text: Publicaciones
             href: productos/publicaciones/publicaciones.qmd
+      - text: Recursos
+        href: recursos/index.qmd
       - href: links.qmd
         text: Enlaces de Interés
       - href: photogallery.qmd

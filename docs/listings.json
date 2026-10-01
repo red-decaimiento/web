@@ -7,6 +7,26 @@
     ]
   },
   {
+    "listing": "/recursos/index.html",
+    "items": [
+      "/recursos/presentaciones_redec/index.html"
+    ]
+  },
+  {
+    "listing": "/news/noticias.html",
+    "items": [
+      "/news/20260324_itmn/index.html",
+      "/news/20260224_icifor/index.html",
+      "/news/20260211_redforesta/index.html",
+      "/news/20251021_chile/index.html",
+      "/news/20250616_congresoforestal/index.html",
+      "/news/20250515_redes/index.html",
+      "/news/20241101_sibecolcall/index.html",
+      "/news/20241024_forobosques/index.html",
+      "/news/20241012_lter/index.html"
+    ]
+  },
+  {
     "listing": "/people/index.html",
     "items": [
       "/people/lloret_francisco/index.html",
@@ -146,20 +166,6 @@
       "/people/rojo_nunez/index.html",
       "/people/santesteban_insausti/index.html",
       "/people/vega_padial/index.html"
-    ]
-  },
-  {
-    "listing": "/news/noticias.html",
-    "items": [
-      "/news/20260324_itmn/index.html",
-      "/news/20260224_icifor/index.html",
-      "/news/20260211_redforesta/index.html",
-      "/news/20251021_chile/index.html",
-      "/news/20250616_congresoforestal/index.html",
-      "/news/20250515_redes/index.html",
-      "/news/20241101_sibecolcall/index.html",
-      "/news/20241024_forobosques/index.html",
-      "/news/20241012_lter/index.html"
     ]
   }
 ]

@@ -1,0 +1,17 @@
+---
+type_recurso: presentaciones
+title: "Presentación de la Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC)"
+description: |
+  Presentaciónen formato editable de la Red Ibérica de Decaimiento Forestal inducido por el Clima (ReDeC), para utilizar en charlas, reuniones, etc.
+formato: "slides"
+author: [ReDeC]
+date: "2026-10-01"
+author-display: "ReDeC"
+---
+
+
+### Documentos
+- Presentación [Castellano](ReDeC_ShortPresentation_cast.pptx) en formato `.pptx` 
+- Presentación [Inglés](ReDeC_ShortPresentation_eng.pptx) en formato `.pptx` 
+
+

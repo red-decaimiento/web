@@ -1,0 +1,18 @@
+---
+title: "Recursos"
+listing: 
+  contents: "*/*.qmd" # qmd dentro de la subcarpeta de recurso 
+  type: table
+  sort: "title desc"
+  fields: [title, formato, author-display]
+  page-size: 10
+  field-display-names:
+    author-display: "Autores"
+    title: "Título"
+    formato: "Formato"
+---
+
+:::{#recursos-list}
+:::
+
+

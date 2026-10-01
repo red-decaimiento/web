@@ -571,5 +571,17 @@
   },
   "people/guzman_alvarez/index.qmd": {
     "index.html": "2ee7df93"
+  },
+  "recursos.qmd": {
+    "recursos.html": "587fb9a2"
+  },
+  "recursos/presentaciones_redec/presentaciones_redec.qmd": {
+    "presentaciones_redec.html": "75f2b5f7"
+  },
+  "recursos/presentaciones_redec/index.qmd": {
+    "index.html": "b7c33bc1"
+  },
+  "recursos/index.qmd": {
+    "index.html": "f58d7aa5"
   }
 }
