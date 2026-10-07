@@ -583,5 +583,8 @@
   },
   "recursos/index.qmd": {
     "index.html": "f58d7aa5"
+  },
+  "sections/comunicacion.qmd": {
+    "comunicacion.html": "bb9ab50b"
   }
 }
