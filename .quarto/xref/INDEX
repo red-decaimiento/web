@@ -586,5 +586,8 @@
   },
   "sections/comunicacion.qmd": {
     "comunicacion.html": "bb9ab50b"
+  },
+  "people/garcia_hidalgo/index.qmd": {
+    "index.html": "4ff7c92d"
   }
 }

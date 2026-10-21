@@ -1,0 +1,34 @@
+---
+title: "Miguel García Hidalgo"
+email: "miguel.garcia.hidalgo@uva.es"  
+namesort: "garcia_hidalgo"
+image: avatar_garcia_hidalgo.jpg
+page-layout: full
+about: 
+  id: person-profile
+  template: trestles
+  image-shape: round
+  image: avatar_garcia_hidalgo.jpg
+  links:
+    - icon: envelope
+      text: Email
+      href: mailto:miguel.garcia.hidalgo@uva.es
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-7400-0535
+    - text: "{{< fa globe >}} Personal web"
+      href: cambiumresearch.eu
+categories: [Dendroecología, Ecología forestal, Ecofisiología, Bioinformática]
+person_type: 'investigadores'
+---
+ 
+<hr>
+
+:::{#person-profile}
+
+## Grupo de Investigación
+- Departamento de Producción Vegetal y Recursos Forestales / [GIR Cambium](https://www.cambiumresearch.eu/) / Instituto Universitario de Gestión Forestal Sostenible (iuFOR) 
+
+## Institución
+- Universidad de Valladolid
+
+:::
